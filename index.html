@@ -211,13 +211,22 @@ async function startQuiz() {
 
 function showQuestion() {
   const q = questions[qIndex];
+
+  const options = q.answers || q.options;
+
+  if (!q || !options) {
+    console.error("Invalid question:", q);
+    alert("⚠️ Question format error");
+    return;
+  }
+
   document.getElementById("emoji").innerText = q.emoji;
   document.getElementById("question").innerText = q.text;
 
   const ansDiv = document.getElementById("answers");
   ansDiv.innerHTML = "";
 
-  q.answers.forEach((a,i)=>{
+  options.forEach((a,i)=>{
     const b = document.createElement("button");
     b.className = "btn"+(i+1);
     b.innerText = a;
