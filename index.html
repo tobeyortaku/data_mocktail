@@ -11,7 +11,7 @@ body {
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;   /* centered vertically */
   min-height: 100vh;
   margin: 0;
   padding: 10px;
@@ -97,8 +97,17 @@ button {
 img.drink-small { width:50px; border-radius:8px; margin-right:5px; vertical-align:middle; }
 img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 
+/* 📱 mobile behavior */
 @media (max-width: 600px) {
-  .container { padding: 1.2rem; }
+  body {
+    align-items: flex-start; /* better scrolling on mobile */
+  }
+
+  .container {
+    padding: 1.2rem;
+    border-radius: 16px;
+  }
+
   .emoji { font-size: 3.5rem; }
   img.drink-large { width: 120px; }
 }
@@ -108,11 +117,13 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 <body>
 <div class="container">
 
+<!-- Welcome -->
 <div id="welcome">
   <h1>🎄 Data Picks Your Drink 🍹</h1>
   <button style="background:#d94f4f" onclick="startQuiz()">Start Quiz ✨</button>
 </div>
 
+<!-- Quiz -->
 <div id="quiz" class="hidden">
   <div class="progress-bar">
     <div class="progress" id="progress"></div>
@@ -124,10 +135,12 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
   <div id="answers"></div>
 </div>
 
+<!-- Loading -->
 <div id="loading" class="hidden">
   <h2>Analyzing preferences ⏳</h2>
 </div>
 
+<!-- Result -->
 <div id="result" class="hidden">
   <h2>Your Perfect Drink</h2>
   <div class="result" id="best"></div>
@@ -149,7 +162,7 @@ const drinkImages = {
   "Matcha Strawberry Latte": "image3.png"
 };
 
-// ---------- LOAD ----------
+// ---------- LOAD DATA ----------
 async function loadData() {
   try {
     const [qRes, mRes] = await Promise.all([
@@ -158,15 +171,15 @@ async function loadData() {
     ]);
 
     if (!qRes.ok || !mRes.ok) {
-      throw new Error("JSON files missing");
+      throw new Error("JSON not found");
     }
 
     questions = await qRes.json();
     modelData = await mRes.json();
 
-  } catch (e) {
-    console.error(e);
-    alert("⚠️ Failed to load data files");
+  } catch (err) {
+    console.error(err);
+    alert("⚠️ Failed to load JSON files");
   }
 }
 
@@ -243,7 +256,7 @@ function showResult() {
   const key = answers.join("-");
   let probs = modelData[key];
 
-  // 🔥 fallback (prevents empty screen)
+  // fallback so UI NEVER breaks
   if (!probs) {
     probs = {
       "Matcha Cloud Coconut": 0.34,
