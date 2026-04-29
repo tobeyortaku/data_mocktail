@@ -1,27 +1,27 @@
 [
     { 
-      "emoji": "🍂", 
-      "text": "Дуртай улирал?", 
-      "options": ["❄️ Өвөл", "🌱 Хавар", "☀️ Зун", "🍁 Намар"] 
+      "emoji": "🤖", 
+      "text": "Чиний algorithm өнөөдөр ямар байна?", 
+      "options": ["⚡ Fast & optimized", "🐢 Slow but working", "🐢 Slow but working", "🐢 Slow but working"] 
     },
     { 
-      "emoji": "🥶", 
-      "text": "Ажлаасаа хоцроход ихэвчлэн хэлдэг шалтаг?", 
-      "options": ["🚗 Түгжрэл", "⏰ Сэрүүлэг дуугараагүй", "🌀 Тавилан юм даа", "😎 Хоцролт гэж байдаггүй"] 
+      "emoji": "🎯", 
+      "text": "Decision хийхдээ чи яаж шийддэг вэ?", 
+      "options": ["📊 Data > feelings", "💖 Feelings > data", "🫠 Depends on mood", "🎲 YOLO"] 
     },
     { 
-      "emoji": "🍜", 
-      "text": "Орой 11-д өлсвөл юу хийх вэ?", 
-      "options": ["🏪 Дэлгүүр орно", "📞 Хүнээс юм захиална", "📱 Онлайнаар захиална", "😴 Шууд унтана"] 
+      "emoji": "🧪", 
+      "text": "Чи experiment хийхдээ яадаг вэ?", 
+      "options": ["📊 A/B test everything", "💡 Try one idea", "🙈 Just hope it works", "🤡 No plan at all"] 
     },
     { 
-      "emoji": "🎬", 
-      "text": "Дуртай киноны төрөл?", 
-      "options": ["😂 Инээдмийн", "👻 Аймшгийн", "🧭 Адал явдалт", "❤️ Хайр дурлал"] 
+      "emoji": "🌈", 
+      "text": "Чиний vibe аль нь вэ?", 
+      "options": ["🏖 Relax & chill", "💃 Energetic & fun", "📚 Calm & focused", "🌙 Mysterious"] 
     },
     { 
-      "emoji": "📱", 
-      "text": "Утсаа унагаавал хамгийн түрүүнд юу хийх вэ?", 
-      "options": ["🔍 Дэлгэцийг шалгана", "😱 Сандарна", "😌 Тоохгүй", "💔 Дотроо гомдоно"] 
+      "emoji": "🔮", 
+      "text": "AI чамайг уншиж чадна гэж бодож байна уу?", 
+      "options": ["🧠 I’m predictable", "😏 Good luck bro", "🤷‍♀️ Maybe?", "🤡 Even I don’t know myself"] 
     }
   ]
