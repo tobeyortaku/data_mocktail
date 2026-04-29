@@ -6,16 +6,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-body {
-  background: linear-gradient(to bottom, #ffecd2, #fcb69f);
-  font-family: 'Segoe UI', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;   /* centered vertically */
-  min-height: 100vh;
-  margin: 0;
-  padding: 10px;
-}
+  body {
+    background: linear-gradient(to bottom, #ffecd2, #fcb69f);
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 20px;
+  }
+  
+  @media (max-height: 700px) {
+    body {
+      align-items: flex-start;
+    }
+  }
 
 .container {
   max-width: 600px;
@@ -97,17 +105,8 @@ button {
 img.drink-small { width:50px; border-radius:8px; margin-right:5px; vertical-align:middle; }
 img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 
-/* 📱 mobile behavior */
 @media (max-width: 600px) {
-  body {
-    align-items: flex-start; /* better scrolling on mobile */
-  }
-
-  .container {
-    padding: 1.2rem;
-    border-radius: 16px;
-  }
-
+  .container { padding: 1.2rem; }
   .emoji { font-size: 3.5rem; }
   img.drink-large { width: 120px; }
 }
@@ -117,13 +116,11 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 <body>
 <div class="container">
 
-<!-- Welcome -->
 <div id="welcome">
   <h1>🎄 Data Picks Your Drink 🍹</h1>
   <button style="background:#d94f4f" onclick="startQuiz()">Start Quiz ✨</button>
 </div>
 
-<!-- Quiz -->
 <div id="quiz" class="hidden">
   <div class="progress-bar">
     <div class="progress" id="progress"></div>
@@ -135,12 +132,10 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
   <div id="answers"></div>
 </div>
 
-<!-- Loading -->
 <div id="loading" class="hidden">
   <h2>Analyzing preferences ⏳</h2>
 </div>
 
-<!-- Result -->
 <div id="result" class="hidden">
   <h2>Your Perfect Drink</h2>
   <div class="result" id="best"></div>
@@ -162,7 +157,7 @@ const drinkImages = {
   "Matcha Strawberry Latte": "image3.png"
 };
 
-// ---------- LOAD DATA ----------
+// ---------- LOAD ----------
 async function loadData() {
   try {
     const [qRes, mRes] = await Promise.all([
@@ -171,15 +166,15 @@ async function loadData() {
     ]);
 
     if (!qRes.ok || !mRes.ok) {
-      throw new Error("JSON not found");
+      throw new Error("JSON files missing");
     }
 
     questions = await qRes.json();
     modelData = await mRes.json();
 
-  } catch (err) {
-    console.error(err);
-    alert("⚠️ Failed to load JSON files");
+  } catch (e) {
+    console.error(e);
+    alert("⚠️ Failed to load data files");
   }
 }
 
@@ -256,7 +251,7 @@ function showResult() {
   const key = answers.join("-");
   let probs = modelData[key];
 
-  // fallback so UI NEVER breaks
+  // 🔥 fallback (prevents empty screen)
   if (!probs) {
     probs = {
       "Matcha Cloud Coconut": 0.34,
