@@ -2,7 +2,7 @@
     { 
       "emoji": "🤖", 
       "text": "Чиний algorithm өнөөдөр ямар байна?", 
-      "options": ["⚡ Fast & optimized", "🐢 Slow but working", "🐢 Slow but working", "🐢 Slow but working"] 
+      "options": ["⚡ Fast & optimized", "🐢 Slow but working", "🔁 Stuck in loop", "💥 Crashed"] 
     },
     { 
       "emoji": "🎯", 
