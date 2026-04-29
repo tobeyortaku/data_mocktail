@@ -94,44 +94,14 @@ button {
 .fill { height:100%; }
 .percent { width:55px; text-align:right; font-weight:bold; }
 
-img.drink-small { width:50px; border-radius:8px; vertical-align:middle; margin-right:5px; }
+img.drink-small { width:50px; border-radius:8px; margin-right:5px; vertical-align:middle; }
 img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 
-/* 📱 Mobile optimization */
+/* mobile */
 @media (max-width: 600px) {
-  .container {
-    padding: 1.2rem;
-    border-radius: 16px;
-  }
-
-  h1 { font-size: 1.5rem; }
-  h2 { font-size: 1.2rem; }
-
-  button {
-    font-size: 1rem;
-    padding: 0.9rem;
-  }
-
-  .emoji {
-    font-size: 3.5rem;
-  }
-
-  .result {
-    font-size: 1.5rem;
-  }
-
-  img.drink-large {
-    width: 120px;
-  }
-
-  img.drink-small {
-    width: 40px;
-  }
-
-  .progress-text {
-    font-size: 0.9rem;
-    top: -25px;
-  }
+  .container { padding: 1.2rem; }
+  .emoji { font-size: 3.5rem; }
+  img.drink-large { width: 120px; }
 }
 </style>
 </head>
@@ -139,29 +109,26 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 <body>
 <div class="container">
 
-<!-- Welcome -->
 <div id="welcome">
   <h1>🎄 Data Picks Your Drink 🍹</h1>
   <button style="background:#d94f4f" onclick="startQuiz()">Start Quiz ✨</button>
 </div>
 
-<!-- Quiz -->
 <div id="quiz" class="hidden">
   <div class="progress-bar">
     <div class="progress" id="progress"></div>
-    <div class="progress-text" id="progressText">1/1</div>
+    <div class="progress-text" id="progressText">0/0</div>
   </div>
+
   <div class="emoji" id="emoji"></div>
   <h2 id="question"></h2>
   <div id="answers"></div>
 </div>
 
-<!-- Loading -->
 <div id="loading" class="hidden">
   <h2>Analyzing preferences ⏳</h2>
 </div>
 
-<!-- Result -->
 <div id="result" class="hidden">
   <h2>Your Perfect Drink</h2>
   <div class="result" id="best"></div>
@@ -177,117 +144,147 @@ let modelData = {};
 let answers = [];
 let qIndex = 0;
 
-// 🍹 ONLY 3 drinks now
+// 3 drinks only
 const drinkImages = {
   "Matcha Cloud Coconut": "image1.png",
   "Vin Chaud": "image2.png",
   "Matcha Strawberry Latte": "image3.png"
 };
 
+// ---------- LOAD DATA ----------
 async function loadData() {
   try {
-    const qRes = await fetch("./questions.json");
-    const mRes = await fetch("./model_probs.json");
+    const [qRes, mRes] = await Promise.all([
+      fetch("./questions.json"),
+      fetch("./model_probs.json")
+    ]);
 
     if (!qRes.ok || !mRes.ok) {
-      throw new Error("File not found");
+      throw new Error("JSON files not found");
     }
 
     questions = await qRes.json();
     modelData = await mRes.json();
 
-  } catch (e) {
-    alert("⚠️ Failed to load data files");
-    console.error(e);
+    console.log("Loaded:", questions, modelData);
+
+  } catch (err) {
+    console.error(err);
+    alert("⚠️ Failed to load JSON files");
   }
 }
 
+// ---------- START ----------
 async function startQuiz() {
   await loadData();
-  document.getElementById("welcome").classList.add("hidden");
-  document.getElementById("quiz").classList.remove("hidden");
-  showQuestion();
-}
 
-function showQuestion() {
-  const q = questions[qIndex];
-
-  const options = q.answers || q.options;
-
-  if (!q || !options) {
-    console.error("Invalid question:", q);
-    alert("⚠️ Question format error");
+  if (!questions.length) {
+    alert("No questions loaded");
     return;
   }
 
-  document.getElementById("emoji").innerText = q.emoji;
-  document.getElementById("question").innerText = q.text;
+  answers = [];
+  qIndex = 0;
+
+  document.getElementById("welcome").classList.add("hidden");
+  document.getElementById("quiz").classList.remove("hidden");
+
+  showQuestion();
+}
+
+// ---------- QUESTION ----------
+function showQuestion() {
+  const q = questions[qIndex];
+
+  if (!q) return;
+
+  const options = q.answers || q.options || [];
+
+  document.getElementById("emoji").innerText = q.emoji || "";
+  document.getElementById("question").innerText = q.text || "";
 
   const ansDiv = document.getElementById("answers");
   ansDiv.innerHTML = "";
 
-  options.forEach((a,i)=>{
-    const b = document.createElement("button");
-    b.className = "btn"+(i+1);
-    b.innerText = a;
-    b.onclick = ()=>answer(i);
-    ansDiv.appendChild(b);
+  options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.className = "btn" + (i + 1);
+    btn.innerText = opt;
+    btn.onclick = () => answer(i);
+    ansDiv.appendChild(btn);
   });
 
-  document.getElementById("progress").style.width = ((qIndex+1)/questions.length*100)+"%";
-  document.getElementById("progressText").innerText = `${qIndex+1}/${questions.length}`;
+  document.getElementById("progress").style.width =
+    ((qIndex + 1) / questions.length) * 100 + "%";
+
+  document.getElementById("progressText").innerText =
+    `${qIndex + 1}/${questions.length}`;
 }
 
-function answer(i){
+// ---------- ANSWER ----------
+function answer(i) {
   answers.push(i);
   qIndex++;
-  qIndex < questions.length ? showQuestion() : finish();
+
+  if (qIndex < questions.length) {
+    showQuestion();
+  } else {
+    finish();
+  }
 }
 
-function finish(){
+// ---------- FINISH ----------
+function finish() {
   document.getElementById("quiz").classList.add("hidden");
   document.getElementById("loading").classList.remove("hidden");
-  setTimeout(showResult,1200);
+
+  setTimeout(showResult, 800);
 }
 
-function showResult(){
+// ---------- RESULT ----------
+function showResult() {
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("result").classList.remove("hidden");
 
   const key = answers.join("-");
-  const probs = modelData[key] || {};
-  
+  const probs = modelData[key];
 
-  let best = null;
-
-  if (Object.keys(probs).length > 0) {
-    best = Object.keys(probs).reduce((a,b)=>probs[a]>probs[b]?a:b);
-  } else {
-    best = "No result";
+  if (!probs) {
+    document.getElementById("best").innerText = "No result found";
+    return;
   }
 
-  const bestImage = drinkImages[best] || "";
+  const best = Object.keys(probs).reduce((a, b) =>
+    probs[a] > probs[b] ? a : b
+  );
+
   document.getElementById("best").innerHTML =
-    `${bestImage ? `<img src="${bestImage}" class="drink-large"><br>` : ""}${best}`;
+    `<img src="${drinkImages[best] || ""}" class="drink-large"><br>${best}`;
 
   const pDiv = document.getElementById("probs");
-  pDiv.innerHTML="";
+  pDiv.innerHTML = "";
 
-  Object.keys(probs).forEach(name=>{
-    const img = drinkImages[name] || "";
+  Object.entries(probs).forEach(([name, val]) => {
     const box = document.createElement("div");
-    box.className="box";
+    box.className = "box";
+
     box.innerHTML = `
-      <strong>${img ? `<img src="${img}" class="drink-small">` : ""} ${name}</strong>
+      <strong>
+        ${drinkImages[name] ? `<img src="${drinkImages[name]}" class="drink-small">` : ""}
+        ${name}
+      </strong>
       <div class="bar-row">
         <div class="bar">
-          <div class="fill" style="width:${(probs[name]*100).toFixed(1)}%;background:#d94f4f"></div>
+          <div class="fill" style="width:${(val * 100).toFixed(1)}%"></div>
         </div>
-        <div class="percent">${(probs[name]*100).toFixed(1)}%</div>
-      </div>`;
+        <div class="percent">${(val * 100).toFixed(1)}%</div>
+      </div>
+    `;
+
     pDiv.appendChild(box);
   });
 }
 </script>
+
 </body>
 </html>
