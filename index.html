@@ -11,15 +11,22 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   min-height: 100vh;
+
   display: flex;
   justify-content: center;
+
+  /* IMPORTANT FIX */
   align-items: flex-start;
+
   padding: 20px;
   box-sizing: border-box;
 }
 
+/* 🧠 center ONLY on desktop */
 @media (min-width: 700px) {
-  body { align-items: center; }
+  body {
+    align-items: center;
+  }
 }
 
 .container {
@@ -59,7 +66,11 @@ button {
   position: relative;
 }
 
-.progress { height:100%; background:#d94f4f; width:0%; }
+.progress {
+  height: 100%;
+  background: #d94f4f;
+  width: 0%;
+}
 
 .progress-text {
   position: absolute;
@@ -78,7 +89,10 @@ button {
   margin:10px 0;
 }
 
-.bar-row { display:flex; align-items:center; }
+.bar-row {
+  display:flex;
+  align-items:center;
+}
 
 .bar {
   flex:1;
@@ -92,20 +106,13 @@ button {
 .fill { height:100%; background:#d94f4f; }
 .percent { width:55px; text-align:right; font-weight:bold; }
 
-img.drink-large {
-  width:150px;
-  border-radius:12px;
-  margin-bottom:10px;
-  opacity:0;
-  transition: opacity .4s ease;
-}
-
-img.loaded { opacity:1; }
+img.drink-small { width:50px; border-radius:8px; margin-right:5px; vertical-align:middle; }
+img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 
 @media (max-width: 600px) {
-  .container { padding:1.2rem; }
-  .emoji { font-size:3.5rem; }
-  img.drink-large { width:120px; }
+  .container { padding: 1.2rem; }
+  .emoji { font-size: 3.5rem; }
+  img.drink-large { width: 120px; }
 }
 </style>
 </head>
@@ -147,20 +154,11 @@ let modelData = {};
 let answers = [];
 let qIndex = 0;
 
-// ✅ WebP + PNG fallback
 const drinkImages = {
-  "Blue Ade": ["./image1.webp", "./image1.png"],
-  "Taro Cloud Coconut": ["./image2.webp", "./image2.png"],
-  "Matcha Strawberry Latte": ["./image3.webp", "./image3.png"]
+  "Blue Ade": "./image1.png",
+  "Taro Cloud Coconut": "./image2.png",
+  "Matcha Strawberry Latte": "./image3.png"
 };
-
-// ---------- PRELOAD ----------
-function preloadImages() {
-  Object.values(drinkImages).flat().forEach(src => {
-    const img = new Image();
-    img.src = src;
-  });
-}
 
 // ---------- LOAD ----------
 async function loadData() {
@@ -176,7 +174,6 @@ async function loadData() {
 // ---------- START ----------
 async function startQuiz() {
   await loadData();
-  preloadImages(); // ✅ preload here
 
   answers = [];
   qIndex = 0;
@@ -217,14 +214,19 @@ function showQuestion() {
 function answer(i) {
   answers.push(i);
   qIndex++;
-  qIndex < questions.length ? showQuestion() : finish();
+
+  if (qIndex < questions.length) {
+    showQuestion();
+  } else {
+    finish();
+  }
 }
 
 // ---------- FINISH ----------
 function finish() {
   document.getElementById("quiz").classList.add("hidden");
   document.getElementById("loading").classList.remove("hidden");
-  setTimeout(showResult, 500);
+  setTimeout(showResult, 800);
 }
 
 // ---------- RESULT ----------
@@ -237,8 +239,9 @@ function showResult() {
 
   if (!probs) {
     probs = {
-      "Taro Cloud Coconut": 0.5,
-      "Matcha Strawberry Latte": 0.5
+      "Matcha Cloud Coconut": 0.34,
+      "Vin Chaud": 0.33,
+      "Matcha Strawberry Latte": 0.33
     };
   }
 
@@ -246,19 +249,8 @@ function showResult() {
     probs[a] > probs[b] ? a : b
   );
 
-  const [webp, png] = drinkImages[best] || [];
-
-  const img = new Image();
-  img.className = "drink-large";
-  img.src = webp;
-
-  img.onerror = () => { img.src = png; };
-  img.onload = () => { img.classList.add("loaded"); };
-
-  const bestDiv = document.getElementById("best");
-  bestDiv.innerHTML = "";
-  bestDiv.appendChild(img);
-  bestDiv.innerHTML += `<br>${best}`;
+  document.getElementById("best").innerHTML =
+    `<img src="${drinkImages[best] || ""}" class="drink-large"><br>${best}`;
 
   const pDiv = document.getElementById("probs");
   pDiv.innerHTML = "";
