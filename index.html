@@ -185,8 +185,21 @@ const drinkImages = {
 };
 
 async function loadData() {
-  questions = await fetch("questions.json").then(r=>r.json());
-  modelData = await fetch("model_probs.json").then(r=>r.json());
+  try {
+    const qRes = await fetch("./questions.json");
+    const mRes = await fetch("./model_probs.json");
+
+    if (!qRes.ok || !mRes.ok) {
+      throw new Error("File not found");
+    }
+
+    questions = await qRes.json();
+    modelData = await mRes.json();
+
+  } catch (e) {
+    alert("⚠️ Failed to load data files");
+    console.error(e);
+  }
 }
 
 async function startQuiz() {
@@ -212,7 +225,7 @@ function showQuestion() {
     ansDiv.appendChild(b);
   });
 
-  document.getElementById("progress").style.width = ((qIndex)/questions.length*100)+"%";
+  document.getElementById("progress").style.width = ((qIndex+1)/questions.length*100)+"%";
   document.getElementById("progressText").innerText = `${qIndex+1}/${questions.length}`;
 }
 
@@ -234,6 +247,7 @@ function showResult(){
 
   const key = answers.join("-");
   const probs = modelData[key] || {};
+  
 
   let best = null;
 
