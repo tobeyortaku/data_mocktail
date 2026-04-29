@@ -190,7 +190,7 @@ async function startQuiz() {
 // ---------- QUESTION ----------
 function showQuestion() {
   const q = questions[qIndex];
-  const options = q.answers || [];
+  const options = q.answers || q.options || [];
 
   document.getElementById("emoji").innerText = q.emoji || "";
   document.getElementById("question").innerText = q.text || "";
