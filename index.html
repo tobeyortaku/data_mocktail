@@ -5,28 +5,26 @@
 <title>🎄 Data Picks Your Drink 🍹</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- PRELOAD IMAGES -->
+<link rel="preload" as="image" href="./image1_1.png">
+<link rel="preload" as="image" href="./image2_1.png">
+<link rel="preload" as="image" href="./image3_1.png">
+
 <style>
 body {
   background: linear-gradient(to bottom, #ffecd2, #fcb69f);
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   min-height: 100vh;
-
   display: flex;
   justify-content: center;
-
-  /* IMPORTANT FIX */
   align-items: flex-start;
-
   padding: 20px;
   box-sizing: border-box;
 }
 
-/* 🧠 center ONLY on desktop */
 @media (min-width: 700px) {
-  body {
-    align-items: center;
-  }
+  body { align-items: center; }
 }
 
 .container {
@@ -106,18 +104,30 @@ button {
 .fill { height:100%; background:#d94f4f; }
 .percent { width:55px; text-align:right; font-weight:bold; }
 
-img.drink-small { width:50px; border-radius:8px; margin-right:5px; vertical-align:middle; }
-img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
+img.drink-large {
+  width:150px;
+  border-radius:12px;
+  margin-bottom:10px;
+}
+
+.placeholder {
+  width:150px;
+  height:150px;
+  background:#eee;
+  border-radius:12px;
+  margin: 0 auto 10px auto;
+}
 
 @media (max-width: 600px) {
   .container { padding: 1.2rem; }
   .emoji { font-size: 3.5rem; }
-  img.drink-large { width: 120px; }
+  img.drink-large, .placeholder { width:120px; height:120px; }
 }
 </style>
 </head>
 
 <body>
+
 <div class="container">
 
 <div id="welcome">
@@ -142,6 +152,9 @@ img.drink-large { width:150px; border-radius:12px; margin-bottom:10px; }
 
 <div id="result" class="hidden">
   <h2>Your Perfect Drink</h2>
+
+  <div id="drinkContainer"></div>
+
   <div class="result" id="best"></div>
   <div id="probs"></div>
 </div>
@@ -160,6 +173,14 @@ const drinkImages = {
   "Matcha Strawberry Latte": "./image3_1.png"
 };
 
+// ---------- PRELOAD IMAGES ----------
+function preloadImages() {
+  Object.values(drinkImages).forEach(src => {
+    const img = new Image();
+    img.src = src;
+  });
+}
+
 // ---------- LOAD ----------
 async function loadData() {
   const [qRes, mRes] = await Promise.all([
@@ -169,6 +190,8 @@ async function loadData() {
 
   questions = await qRes.json();
   modelData = await mRes.json();
+
+  preloadImages();
 }
 
 // ---------- START ----------
@@ -226,7 +249,8 @@ function answer(i) {
 function finish() {
   document.getElementById("quiz").classList.add("hidden");
   document.getElementById("loading").classList.remove("hidden");
-  setTimeout(showResult, 800);
+
+  setTimeout(showResult, 600);
 }
 
 // ---------- RESULT ----------
@@ -239,8 +263,8 @@ function showResult() {
 
   if (!probs) {
     probs = {
-      "Matcha Cloud Coconut": 0.34,
-      "Vin Chaud": 0.33,
+      "Blue Ade": 0.34,
+      "Taro Cloud Coconut": 0.33,
       "Matcha Strawberry Latte": 0.33
     };
   }
@@ -249,8 +273,20 @@ function showResult() {
     probs[a] > probs[b] ? a : b
   );
 
-  document.getElementById("best").innerHTML =
-    `<img src="${drinkImages[best] || ""}" class="drink-large"><br>${best}`;
+  // placeholder first (instant render)
+  const container = document.getElementById("drinkContainer");
+  container.innerHTML = `<div class="placeholder"></div>`;
+
+  const img = new Image();
+  img.src = drinkImages[best] || "";
+  img.className = "drink-large";
+
+  img.onload = () => {
+    container.innerHTML = "";
+    container.appendChild(img);
+  };
+
+  document.getElementById("best").innerText = best;
 
   const pDiv = document.getElementById("probs");
   pDiv.innerHTML = "";
