@@ -1,0 +1,5122 @@
+{
+  "0-0-0-0-0": {
+    "Green Ade": 0.1679,
+    "Matcha Cloud Coconut": 0.4184,
+    "Matcha Strawberry Latte": 0.4137
+  },
+  "0-0-0-0-1": {
+    "Green Ade": 0.7411,
+    "Matcha Cloud Coconut": 0.1937,
+    "Matcha Strawberry Latte": 0.0652
+  },
+  "0-0-0-0-2": {
+    "Green Ade": 0.1731,
+    "Matcha Cloud Coconut": 0.3949,
+    "Matcha Strawberry Latte": 0.432
+  },
+  "0-0-0-0-3": {
+    "Green Ade": 0.0609,
+    "Matcha Cloud Coconut": 0.4593,
+    "Matcha Strawberry Latte": 0.4798
+  },
+  "0-0-0-1-0": {
+    "Green Ade": 0.2256,
+    "Matcha Cloud Coconut": 0.5023,
+    "Matcha Strawberry Latte": 0.2722
+  },
+  "0-0-0-1-1": {
+    "Green Ade": 0.2763,
+    "Matcha Cloud Coconut": 0.0563,
+    "Matcha Strawberry Latte": 0.6674
+  },
+  "0-0-0-1-2": {
+    "Green Ade": 0.3754,
+    "Matcha Cloud Coconut": 0.1981,
+    "Matcha Strawberry Latte": 0.4266
+  },
+  "0-0-0-1-3": {
+    "Green Ade": 0.3269,
+    "Matcha Cloud Coconut": 0.3917,
+    "Matcha Strawberry Latte": 0.2814
+  },
+  "0-0-0-2-0": {
+    "Green Ade": 0.3487,
+    "Matcha Cloud Coconut": 0.2803,
+    "Matcha Strawberry Latte": 0.371
+  },
+  "0-0-0-2-1": {
+    "Green Ade": 0.6373,
+    "Matcha Cloud Coconut": 0.3404,
+    "Matcha Strawberry Latte": 0.0223
+  },
+  "0-0-0-2-2": {
+    "Green Ade": 0.3588,
+    "Matcha Cloud Coconut": 0.0029,
+    "Matcha Strawberry Latte": 0.6383
+  },
+  "0-0-0-2-3": {
+    "Green Ade": 0.3617,
+    "Matcha Cloud Coconut": 0.0689,
+    "Matcha Strawberry Latte": 0.5693
+  },
+  "0-0-0-3-0": {
+    "Green Ade": 0.4009,
+    "Matcha Cloud Coconut": 0.1881,
+    "Matcha Strawberry Latte": 0.411
+  },
+  "0-0-0-3-1": {
+    "Green Ade": 0.3473,
+    "Matcha Cloud Coconut": 0.082,
+    "Matcha Strawberry Latte": 0.5707
+  },
+  "0-0-0-3-2": {
+    "Green Ade": 0.159,
+    "Matcha Cloud Coconut": 0.4051,
+    "Matcha Strawberry Latte": 0.4359
+  },
+  "0-0-0-3-3": {
+    "Green Ade": 0.3585,
+    "Matcha Cloud Coconut": 0.3129,
+    "Matcha Strawberry Latte": 0.3286
+  },
+  "0-0-1-0-0": {
+    "Green Ade": 0.3744,
+    "Matcha Cloud Coconut": 0.0856,
+    "Matcha Strawberry Latte": 0.54
+  },
+  "0-0-1-0-1": {
+    "Green Ade": 0.2804,
+    "Matcha Cloud Coconut": 0.4073,
+    "Matcha Strawberry Latte": 0.3123
+  },
+  "0-0-1-0-2": {
+    "Green Ade": 0.2174,
+    "Matcha Cloud Coconut": 0.3263,
+    "Matcha Strawberry Latte": 0.4563
+  },
+  "0-0-1-0-3": {
+    "Green Ade": 0.3905,
+    "Matcha Cloud Coconut": 0.4926,
+    "Matcha Strawberry Latte": 0.1168
+  },
+  "0-0-1-1-0": {
+    "Green Ade": 0.2205,
+    "Matcha Cloud Coconut": 0.202,
+    "Matcha Strawberry Latte": 0.5775
+  },
+  "0-0-1-1-1": {
+    "Green Ade": 0.274,
+    "Matcha Cloud Coconut": 0.3741,
+    "Matcha Strawberry Latte": 0.352
+  },
+  "0-0-1-1-2": {
+    "Green Ade": 0.3683,
+    "Matcha Cloud Coconut": 0.3786,
+    "Matcha Strawberry Latte": 0.2531
+  },
+  "0-0-1-1-3": {
+    "Green Ade": 0.2358,
+    "Matcha Cloud Coconut": 0.6442,
+    "Matcha Strawberry Latte": 0.12
+  },
+  "0-0-1-2-0": {
+    "Green Ade": 0.0189,
+    "Matcha Cloud Coconut": 0.1234,
+    "Matcha Strawberry Latte": 0.8577
+  },
+  "0-0-1-2-1": {
+    "Green Ade": 0.1141,
+    "Matcha Cloud Coconut": 0.4412,
+    "Matcha Strawberry Latte": 0.4448
+  },
+  "0-0-1-2-2": {
+    "Green Ade": 0.5913,
+    "Matcha Cloud Coconut": 0.1902,
+    "Matcha Strawberry Latte": 0.2186
+  },
+  "0-0-1-2-3": {
+    "Green Ade": 0.3475,
+    "Matcha Cloud Coconut": 0.2429,
+    "Matcha Strawberry Latte": 0.4096
+  },
+  "0-0-1-3-0": {
+    "Green Ade": 0.0774,
+    "Matcha Cloud Coconut": 0.5433,
+    "Matcha Strawberry Latte": 0.3793
+  },
+  "0-0-1-3-1": {
+    "Green Ade": 0.0667,
+    "Matcha Cloud Coconut": 0.7402,
+    "Matcha Strawberry Latte": 0.1931
+  },
+  "0-0-1-3-2": {
+    "Green Ade": 0.3416,
+    "Matcha Cloud Coconut": 0.4722,
+    "Matcha Strawberry Latte": 0.1862
+  },
+  "0-0-1-3-3": {
+    "Green Ade": 0.6109,
+    "Matcha Cloud Coconut": 0.0782,
+    "Matcha Strawberry Latte": 0.3109
+  },
+  "0-0-2-0-0": {
+    "Green Ade": 0.2168,
+    "Matcha Cloud Coconut": 0.2753,
+    "Matcha Strawberry Latte": 0.5079
+  },
+  "0-0-2-0-1": {
+    "Green Ade": 0.2583,
+    "Matcha Cloud Coconut": 0.5571,
+    "Matcha Strawberry Latte": 0.1846
+  },
+  "0-0-2-0-2": {
+    "Green Ade": 0.3699,
+    "Matcha Cloud Coconut": 0.2434,
+    "Matcha Strawberry Latte": 0.3866
+  },
+  "0-0-2-0-3": {
+    "Green Ade": 0.0831,
+    "Matcha Cloud Coconut": 0.5312,
+    "Matcha Strawberry Latte": 0.3857
+  },
+  "0-0-2-1-0": {
+    "Green Ade": 0.1673,
+    "Matcha Cloud Coconut": 0.4422,
+    "Matcha Strawberry Latte": 0.3905
+  },
+  "0-0-2-1-1": {
+    "Green Ade": 0.3403,
+    "Matcha Cloud Coconut": 0.2796,
+    "Matcha Strawberry Latte": 0.3801
+  },
+  "0-0-2-1-2": {
+    "Green Ade": 0.4691,
+    "Matcha Cloud Coconut": 0.4277,
+    "Matcha Strawberry Latte": 0.1032
+  },
+  "0-0-2-1-3": {
+    "Green Ade": 0.0575,
+    "Matcha Cloud Coconut": 0.441,
+    "Matcha Strawberry Latte": 0.5015
+  },
+  "0-0-2-2-0": {
+    "Green Ade": 0.2452,
+    "Matcha Cloud Coconut": 0.1527,
+    "Matcha Strawberry Latte": 0.6021
+  },
+  "0-0-2-2-1": {
+    "Green Ade": 0.4326,
+    "Matcha Cloud Coconut": 0.3541,
+    "Matcha Strawberry Latte": 0.2133
+  },
+  "0-0-2-2-2": {
+    "Green Ade": 0.4707,
+    "Matcha Cloud Coconut": 0.1638,
+    "Matcha Strawberry Latte": 0.3655
+  },
+  "0-0-2-2-3": {
+    "Green Ade": 0.2741,
+    "Matcha Cloud Coconut": 0.4101,
+    "Matcha Strawberry Latte": 0.3158
+  },
+  "0-0-2-3-0": {
+    "Green Ade": 0.571,
+    "Matcha Cloud Coconut": 0.3502,
+    "Matcha Strawberry Latte": 0.0788
+  },
+  "0-0-2-3-1": {
+    "Green Ade": 0.327,
+    "Matcha Cloud Coconut": 0.4494,
+    "Matcha Strawberry Latte": 0.2236
+  },
+  "0-0-2-3-2": {
+    "Green Ade": 0.5815,
+    "Matcha Cloud Coconut": 0.0657,
+    "Matcha Strawberry Latte": 0.3527
+  },
+  "0-0-2-3-3": {
+    "Green Ade": 0.529,
+    "Matcha Cloud Coconut": 0.1787,
+    "Matcha Strawberry Latte": 0.2923
+  },
+  "0-0-3-0-0": {
+    "Green Ade": 0.4834,
+    "Matcha Cloud Coconut": 0.4398,
+    "Matcha Strawberry Latte": 0.0768
+  },
+  "0-0-3-0-1": {
+    "Green Ade": 0.7117,
+    "Matcha Cloud Coconut": 0.1396,
+    "Matcha Strawberry Latte": 0.1487
+  },
+  "0-0-3-0-2": {
+    "Green Ade": 0.2184,
+    "Matcha Cloud Coconut": 0.6471,
+    "Matcha Strawberry Latte": 0.1345
+  },
+  "0-0-3-0-3": {
+    "Green Ade": 0.3594,
+    "Matcha Cloud Coconut": 0.2141,
+    "Matcha Strawberry Latte": 0.4265
+  },
+  "0-0-3-1-0": {
+    "Green Ade": 0.1253,
+    "Matcha Cloud Coconut": 0.8336,
+    "Matcha Strawberry Latte": 0.0411
+  },
+  "0-0-3-1-1": {
+    "Green Ade": 0.1326,
+    "Matcha Cloud Coconut": 0.3426,
+    "Matcha Strawberry Latte": 0.5249
+  },
+  "0-0-3-1-2": {
+    "Green Ade": 0.3211,
+    "Matcha Cloud Coconut": 0.5565,
+    "Matcha Strawberry Latte": 0.1224
+  },
+  "0-0-3-1-3": {
+    "Green Ade": 0.4191,
+    "Matcha Cloud Coconut": 0.1226,
+    "Matcha Strawberry Latte": 0.4583
+  },
+  "0-0-3-2-0": {
+    "Green Ade": 0.1443,
+    "Matcha Cloud Coconut": 0.78,
+    "Matcha Strawberry Latte": 0.0757
+  },
+  "0-0-3-2-1": {
+    "Green Ade": 0.1951,
+    "Matcha Cloud Coconut": 0.4682,
+    "Matcha Strawberry Latte": 0.3367
+  },
+  "0-0-3-2-2": {
+    "Green Ade": 0.1455,
+    "Matcha Cloud Coconut": 0.8129,
+    "Matcha Strawberry Latte": 0.0416
+  },
+  "0-0-3-2-3": {
+    "Green Ade": 0.354,
+    "Matcha Cloud Coconut": 0.2062,
+    "Matcha Strawberry Latte": 0.4399
+  },
+  "0-0-3-3-0": {
+    "Green Ade": 0.3825,
+    "Matcha Cloud Coconut": 0.5645,
+    "Matcha Strawberry Latte": 0.053
+  },
+  "0-0-3-3-1": {
+    "Green Ade": 0.0463,
+    "Matcha Cloud Coconut": 0.5926,
+    "Matcha Strawberry Latte": 0.361
+  },
+  "0-0-3-3-2": {
+    "Green Ade": 0.0645,
+    "Matcha Cloud Coconut": 0.6022,
+    "Matcha Strawberry Latte": 0.3333
+  },
+  "0-0-3-3-3": {
+    "Green Ade": 0.2927,
+    "Matcha Cloud Coconut": 0.2615,
+    "Matcha Strawberry Latte": 0.4457
+  },
+  "0-1-0-0-0": {
+    "Green Ade": 0.1233,
+    "Matcha Cloud Coconut": 0.4688,
+    "Matcha Strawberry Latte": 0.4078
+  },
+  "0-1-0-0-1": {
+    "Green Ade": 0.0181,
+    "Matcha Cloud Coconut": 0.2607,
+    "Matcha Strawberry Latte": 0.7212
+  },
+  "0-1-0-0-2": {
+    "Green Ade": 0.2777,
+    "Matcha Cloud Coconut": 0.2682,
+    "Matcha Strawberry Latte": 0.4541
+  },
+  "0-1-0-0-3": {
+    "Green Ade": 0.0758,
+    "Matcha Cloud Coconut": 0.608,
+    "Matcha Strawberry Latte": 0.3162
+  },
+  "0-1-0-1-0": {
+    "Green Ade": 0.2972,
+    "Matcha Cloud Coconut": 0.3523,
+    "Matcha Strawberry Latte": 0.3505
+  },
+  "0-1-0-1-1": {
+    "Green Ade": 0.2541,
+    "Matcha Cloud Coconut": 0.4352,
+    "Matcha Strawberry Latte": 0.3108
+  },
+  "0-1-0-1-2": {
+    "Green Ade": 0.7612,
+    "Matcha Cloud Coconut": 0.0213,
+    "Matcha Strawberry Latte": 0.2175
+  },
+  "0-1-0-1-3": {
+    "Green Ade": 0.4798,
+    "Matcha Cloud Coconut": 0.2792,
+    "Matcha Strawberry Latte": 0.241
+  },
+  "0-1-0-2-0": {
+    "Green Ade": 0.9724,
+    "Matcha Cloud Coconut": 0.0047,
+    "Matcha Strawberry Latte": 0.0229
+  },
+  "0-1-0-2-1": {
+    "Green Ade": 0.2029,
+    "Matcha Cloud Coconut": 0.5097,
+    "Matcha Strawberry Latte": 0.2874
+  },
+  "0-1-0-2-2": {
+    "Green Ade": 0.2043,
+    "Matcha Cloud Coconut": 0.5112,
+    "Matcha Strawberry Latte": 0.2845
+  },
+  "0-1-0-2-3": {
+    "Green Ade": 0.5904,
+    "Matcha Cloud Coconut": 0.0636,
+    "Matcha Strawberry Latte": 0.346
+  },
+  "0-1-0-3-0": {
+    "Green Ade": 0.3879,
+    "Matcha Cloud Coconut": 0.0381,
+    "Matcha Strawberry Latte": 0.574
+  },
+  "0-1-0-3-1": {
+    "Green Ade": 0.3442,
+    "Matcha Cloud Coconut": 0.6229,
+    "Matcha Strawberry Latte": 0.033
+  },
+  "0-1-0-3-2": {
+    "Green Ade": 0.2094,
+    "Matcha Cloud Coconut": 0.3896,
+    "Matcha Strawberry Latte": 0.401
+  },
+  "0-1-0-3-3": {
+    "Green Ade": 0.1989,
+    "Matcha Cloud Coconut": 0.25,
+    "Matcha Strawberry Latte": 0.5512
+  },
+  "0-1-1-0-0": {
+    "Green Ade": 0.3082,
+    "Matcha Cloud Coconut": 0.2767,
+    "Matcha Strawberry Latte": 0.4151
+  },
+  "0-1-1-0-1": {
+    "Green Ade": 0.3453,
+    "Matcha Cloud Coconut": 0.3175,
+    "Matcha Strawberry Latte": 0.3371
+  },
+  "0-1-1-0-2": {
+    "Green Ade": 0.2863,
+    "Matcha Cloud Coconut": 0.3849,
+    "Matcha Strawberry Latte": 0.3288
+  },
+  "0-1-1-0-3": {
+    "Green Ade": 0.3892,
+    "Matcha Cloud Coconut": 0.2414,
+    "Matcha Strawberry Latte": 0.3694
+  },
+  "0-1-1-1-0": {
+    "Green Ade": 0.1613,
+    "Matcha Cloud Coconut": 0.7265,
+    "Matcha Strawberry Latte": 0.1122
+  },
+  "0-1-1-1-1": {
+    "Green Ade": 0.0677,
+    "Matcha Cloud Coconut": 0.6595,
+    "Matcha Strawberry Latte": 0.2727
+  },
+  "0-1-1-1-2": {
+    "Green Ade": 0.0146,
+    "Matcha Cloud Coconut": 0.4226,
+    "Matcha Strawberry Latte": 0.5628
+  },
+  "0-1-1-1-3": {
+    "Green Ade": 0.1009,
+    "Matcha Cloud Coconut": 0.5328,
+    "Matcha Strawberry Latte": 0.3664
+  },
+  "0-1-1-2-0": {
+    "Green Ade": 0.1057,
+    "Matcha Cloud Coconut": 0.5158,
+    "Matcha Strawberry Latte": 0.3785
+  },
+  "0-1-1-2-1": {
+    "Green Ade": 0.4702,
+    "Matcha Cloud Coconut": 0.3669,
+    "Matcha Strawberry Latte": 0.1629
+  },
+  "0-1-1-2-2": {
+    "Green Ade": 0.0761,
+    "Matcha Cloud Coconut": 0.3048,
+    "Matcha Strawberry Latte": 0.6191
+  },
+  "0-1-1-2-3": {
+    "Green Ade": 0.2951,
+    "Matcha Cloud Coconut": 0.5829,
+    "Matcha Strawberry Latte": 0.122
+  },
+  "0-1-1-3-0": {
+    "Green Ade": 0.3311,
+    "Matcha Cloud Coconut": 0.1909,
+    "Matcha Strawberry Latte": 0.4779
+  },
+  "0-1-1-3-1": {
+    "Green Ade": 0.3367,
+    "Matcha Cloud Coconut": 0.5841,
+    "Matcha Strawberry Latte": 0.0792
+  },
+  "0-1-1-3-2": {
+    "Green Ade": 0.2745,
+    "Matcha Cloud Coconut": 0.4963,
+    "Matcha Strawberry Latte": 0.2291
+  },
+  "0-1-1-3-3": {
+    "Green Ade": 0.1384,
+    "Matcha Cloud Coconut": 0.8104,
+    "Matcha Strawberry Latte": 0.0512
+  },
+  "0-1-2-0-0": {
+    "Green Ade": 0.3795,
+    "Matcha Cloud Coconut": 0.0577,
+    "Matcha Strawberry Latte": 0.5628
+  },
+  "0-1-2-0-1": {
+    "Green Ade": 0.5337,
+    "Matcha Cloud Coconut": 0.2798,
+    "Matcha Strawberry Latte": 0.1865
+  },
+  "0-1-2-0-2": {
+    "Green Ade": 0.0514,
+    "Matcha Cloud Coconut": 0.4919,
+    "Matcha Strawberry Latte": 0.4568
+  },
+  "0-1-2-0-3": {
+    "Green Ade": 0.2852,
+    "Matcha Cloud Coconut": 0.4419,
+    "Matcha Strawberry Latte": 0.2728
+  },
+  "0-1-2-1-0": {
+    "Green Ade": 0.3296,
+    "Matcha Cloud Coconut": 0.0404,
+    "Matcha Strawberry Latte": 0.6301
+  },
+  "0-1-2-1-1": {
+    "Green Ade": 0.2644,
+    "Matcha Cloud Coconut": 0.0997,
+    "Matcha Strawberry Latte": 0.6359
+  },
+  "0-1-2-1-2": {
+    "Green Ade": 0.4192,
+    "Matcha Cloud Coconut": 0.2521,
+    "Matcha Strawberry Latte": 0.3287
+  },
+  "0-1-2-1-3": {
+    "Green Ade": 0.4742,
+    "Matcha Cloud Coconut": 0.3369,
+    "Matcha Strawberry Latte": 0.1889
+  },
+  "0-1-2-2-0": {
+    "Green Ade": 0.4538,
+    "Matcha Cloud Coconut": 0.5085,
+    "Matcha Strawberry Latte": 0.0377
+  },
+  "0-1-2-2-1": {
+    "Green Ade": 0.2271,
+    "Matcha Cloud Coconut": 0.4049,
+    "Matcha Strawberry Latte": 0.3681
+  },
+  "0-1-2-2-2": {
+    "Green Ade": 0.3045,
+    "Matcha Cloud Coconut": 0.4474,
+    "Matcha Strawberry Latte": 0.2481
+  },
+  "0-1-2-2-3": {
+    "Green Ade": 0.2211,
+    "Matcha Cloud Coconut": 0.4087,
+    "Matcha Strawberry Latte": 0.3701
+  },
+  "0-1-2-3-0": {
+    "Green Ade": 0.2636,
+    "Matcha Cloud Coconut": 0.2949,
+    "Matcha Strawberry Latte": 0.4415
+  },
+  "0-1-2-3-1": {
+    "Green Ade": 0.4335,
+    "Matcha Cloud Coconut": 0.0755,
+    "Matcha Strawberry Latte": 0.4909
+  },
+  "0-1-2-3-2": {
+    "Green Ade": 0.1061,
+    "Matcha Cloud Coconut": 0.3289,
+    "Matcha Strawberry Latte": 0.5651
+  },
+  "0-1-2-3-3": {
+    "Green Ade": 0.4018,
+    "Matcha Cloud Coconut": 0.4122,
+    "Matcha Strawberry Latte": 0.186
+  },
+  "0-1-3-0-0": {
+    "Green Ade": 0.2491,
+    "Matcha Cloud Coconut": 0.3042,
+    "Matcha Strawberry Latte": 0.4467
+  },
+  "0-1-3-0-1": {
+    "Green Ade": 0.3036,
+    "Matcha Cloud Coconut": 0.2777,
+    "Matcha Strawberry Latte": 0.4187
+  },
+  "0-1-3-0-2": {
+    "Green Ade": 0.0601,
+    "Matcha Cloud Coconut": 0.2369,
+    "Matcha Strawberry Latte": 0.703
+  },
+  "0-1-3-0-3": {
+    "Green Ade": 0.0658,
+    "Matcha Cloud Coconut": 0.5395,
+    "Matcha Strawberry Latte": 0.3947
+  },
+  "0-1-3-1-0": {
+    "Green Ade": 0.0573,
+    "Matcha Cloud Coconut": 0.1101,
+    "Matcha Strawberry Latte": 0.8326
+  },
+  "0-1-3-1-1": {
+    "Green Ade": 0.0713,
+    "Matcha Cloud Coconut": 0.5383,
+    "Matcha Strawberry Latte": 0.3904
+  },
+  "0-1-3-1-2": {
+    "Green Ade": 0.3454,
+    "Matcha Cloud Coconut": 0.2681,
+    "Matcha Strawberry Latte": 0.3865
+  },
+  "0-1-3-1-3": {
+    "Green Ade": 0.3075,
+    "Matcha Cloud Coconut": 0.3613,
+    "Matcha Strawberry Latte": 0.3312
+  },
+  "0-1-3-2-0": {
+    "Green Ade": 0.2929,
+    "Matcha Cloud Coconut": 0.4648,
+    "Matcha Strawberry Latte": 0.2423
+  },
+  "0-1-3-2-1": {
+    "Green Ade": 0.0182,
+    "Matcha Cloud Coconut": 0.4524,
+    "Matcha Strawberry Latte": 0.5293
+  },
+  "0-1-3-2-2": {
+    "Green Ade": 0.3503,
+    "Matcha Cloud Coconut": 0.2064,
+    "Matcha Strawberry Latte": 0.4433
+  },
+  "0-1-3-2-3": {
+    "Green Ade": 0.1424,
+    "Matcha Cloud Coconut": 0.2817,
+    "Matcha Strawberry Latte": 0.5759
+  },
+  "0-1-3-3-0": {
+    "Green Ade": 0.2893,
+    "Matcha Cloud Coconut": 0.3468,
+    "Matcha Strawberry Latte": 0.3639
+  },
+  "0-1-3-3-1": {
+    "Green Ade": 0.5652,
+    "Matcha Cloud Coconut": 0.0126,
+    "Matcha Strawberry Latte": 0.4222
+  },
+  "0-1-3-3-2": {
+    "Green Ade": 0.617,
+    "Matcha Cloud Coconut": 0.3519,
+    "Matcha Strawberry Latte": 0.0311
+  },
+  "0-1-3-3-3": {
+    "Green Ade": 0.133,
+    "Matcha Cloud Coconut": 0.2352,
+    "Matcha Strawberry Latte": 0.6318
+  },
+  "0-2-0-0-0": {
+    "Green Ade": 0.4121,
+    "Matcha Cloud Coconut": 0.1896,
+    "Matcha Strawberry Latte": 0.3982
+  },
+  "0-2-0-0-1": {
+    "Green Ade": 0.3371,
+    "Matcha Cloud Coconut": 0.3024,
+    "Matcha Strawberry Latte": 0.3604
+  },
+  "0-2-0-0-2": {
+    "Green Ade": 0.4378,
+    "Matcha Cloud Coconut": 0.3357,
+    "Matcha Strawberry Latte": 0.2265
+  },
+  "0-2-0-0-3": {
+    "Green Ade": 0.453,
+    "Matcha Cloud Coconut": 0.4936,
+    "Matcha Strawberry Latte": 0.0534
+  },
+  "0-2-0-1-0": {
+    "Green Ade": 0.3226,
+    "Matcha Cloud Coconut": 0.3642,
+    "Matcha Strawberry Latte": 0.3132
+  },
+  "0-2-0-1-1": {
+    "Green Ade": 0.2368,
+    "Matcha Cloud Coconut": 0.3569,
+    "Matcha Strawberry Latte": 0.4063
+  },
+  "0-2-0-1-2": {
+    "Green Ade": 0.3948,
+    "Matcha Cloud Coconut": 0.1984,
+    "Matcha Strawberry Latte": 0.4068
+  },
+  "0-2-0-1-3": {
+    "Green Ade": 0.1009,
+    "Matcha Cloud Coconut": 0.4462,
+    "Matcha Strawberry Latte": 0.4528
+  },
+  "0-2-0-2-0": {
+    "Green Ade": 0.3978,
+    "Matcha Cloud Coconut": 0.3021,
+    "Matcha Strawberry Latte": 0.3
+  },
+  "0-2-0-2-1": {
+    "Green Ade": 0.0143,
+    "Matcha Cloud Coconut": 0.8145,
+    "Matcha Strawberry Latte": 0.1712
+  },
+  "0-2-0-2-2": {
+    "Green Ade": 0.2903,
+    "Matcha Cloud Coconut": 0.2653,
+    "Matcha Strawberry Latte": 0.4444
+  },
+  "0-2-0-2-3": {
+    "Green Ade": 0.4207,
+    "Matcha Cloud Coconut": 0.1365,
+    "Matcha Strawberry Latte": 0.4428
+  },
+  "0-2-0-3-0": {
+    "Green Ade": 0.1649,
+    "Matcha Cloud Coconut": 0.5979,
+    "Matcha Strawberry Latte": 0.2372
+  },
+  "0-2-0-3-1": {
+    "Green Ade": 0.233,
+    "Matcha Cloud Coconut": 0.4411,
+    "Matcha Strawberry Latte": 0.3258
+  },
+  "0-2-0-3-2": {
+    "Green Ade": 0.3455,
+    "Matcha Cloud Coconut": 0.0803,
+    "Matcha Strawberry Latte": 0.5742
+  },
+  "0-2-0-3-3": {
+    "Green Ade": 0.3678,
+    "Matcha Cloud Coconut": 0.2792,
+    "Matcha Strawberry Latte": 0.3529
+  },
+  "0-2-1-0-0": {
+    "Green Ade": 0.3352,
+    "Matcha Cloud Coconut": 0.3404,
+    "Matcha Strawberry Latte": 0.3244
+  },
+  "0-2-1-0-1": {
+    "Green Ade": 0.1792,
+    "Matcha Cloud Coconut": 0.1985,
+    "Matcha Strawberry Latte": 0.6223
+  },
+  "0-2-1-0-2": {
+    "Green Ade": 0.5456,
+    "Matcha Cloud Coconut": 0.2365,
+    "Matcha Strawberry Latte": 0.2179
+  },
+  "0-2-1-0-3": {
+    "Green Ade": 0.2289,
+    "Matcha Cloud Coconut": 0.3736,
+    "Matcha Strawberry Latte": 0.3975
+  },
+  "0-2-1-1-0": {
+    "Green Ade": 0.28,
+    "Matcha Cloud Coconut": 0.3076,
+    "Matcha Strawberry Latte": 0.4124
+  },
+  "0-2-1-1-1": {
+    "Green Ade": 0.2698,
+    "Matcha Cloud Coconut": 0.6422,
+    "Matcha Strawberry Latte": 0.088
+  },
+  "0-2-1-1-2": {
+    "Green Ade": 0.2141,
+    "Matcha Cloud Coconut": 0.6998,
+    "Matcha Strawberry Latte": 0.086
+  },
+  "0-2-1-1-3": {
+    "Green Ade": 0.4792,
+    "Matcha Cloud Coconut": 0.1622,
+    "Matcha Strawberry Latte": 0.3586
+  },
+  "0-2-1-2-0": {
+    "Green Ade": 0.5661,
+    "Matcha Cloud Coconut": 0.1471,
+    "Matcha Strawberry Latte": 0.2868
+  },
+  "0-2-1-2-1": {
+    "Green Ade": 0.1737,
+    "Matcha Cloud Coconut": 0.7671,
+    "Matcha Strawberry Latte": 0.0591
+  },
+  "0-2-1-2-2": {
+    "Green Ade": 0.4062,
+    "Matcha Cloud Coconut": 0.3267,
+    "Matcha Strawberry Latte": 0.2671
+  },
+  "0-2-1-2-3": {
+    "Green Ade": 0.0626,
+    "Matcha Cloud Coconut": 0.5312,
+    "Matcha Strawberry Latte": 0.4061
+  },
+  "0-2-1-3-0": {
+    "Green Ade": 0.6174,
+    "Matcha Cloud Coconut": 0.2647,
+    "Matcha Strawberry Latte": 0.1179
+  },
+  "0-2-1-3-1": {
+    "Green Ade": 0.3728,
+    "Matcha Cloud Coconut": 0.4083,
+    "Matcha Strawberry Latte": 0.2188
+  },
+  "0-2-1-3-2": {
+    "Green Ade": 0.456,
+    "Matcha Cloud Coconut": 0.5425,
+    "Matcha Strawberry Latte": 0.0015
+  },
+  "0-2-1-3-3": {
+    "Green Ade": 0.3221,
+    "Matcha Cloud Coconut": 0.116,
+    "Matcha Strawberry Latte": 0.5619
+  },
+  "0-2-2-0-0": {
+    "Green Ade": 0.2974,
+    "Matcha Cloud Coconut": 0.3936,
+    "Matcha Strawberry Latte": 0.3089
+  },
+  "0-2-2-0-1": {
+    "Green Ade": 0.4914,
+    "Matcha Cloud Coconut": 0.0101,
+    "Matcha Strawberry Latte": 0.4985
+  },
+  "0-2-2-0-2": {
+    "Green Ade": 0.6163,
+    "Matcha Cloud Coconut": 0.2042,
+    "Matcha Strawberry Latte": 0.1795
+  },
+  "0-2-2-0-3": {
+    "Green Ade": 0.0955,
+    "Matcha Cloud Coconut": 0.6363,
+    "Matcha Strawberry Latte": 0.2682
+  },
+  "0-2-2-1-0": {
+    "Green Ade": 0.3573,
+    "Matcha Cloud Coconut": 0.5009,
+    "Matcha Strawberry Latte": 0.1418
+  },
+  "0-2-2-1-1": {
+    "Green Ade": 0.3907,
+    "Matcha Cloud Coconut": 0.5354,
+    "Matcha Strawberry Latte": 0.0739
+  },
+  "0-2-2-1-2": {
+    "Green Ade": 0.028,
+    "Matcha Cloud Coconut": 0.8945,
+    "Matcha Strawberry Latte": 0.0775
+  },
+  "0-2-2-1-3": {
+    "Green Ade": 0.6667,
+    "Matcha Cloud Coconut": 0.115,
+    "Matcha Strawberry Latte": 0.2183
+  },
+  "0-2-2-2-0": {
+    "Green Ade": 0.1007,
+    "Matcha Cloud Coconut": 0.1676,
+    "Matcha Strawberry Latte": 0.7318
+  },
+  "0-2-2-2-1": {
+    "Green Ade": 0.6835,
+    "Matcha Cloud Coconut": 0.1391,
+    "Matcha Strawberry Latte": 0.1775
+  },
+  "0-2-2-2-2": {
+    "Green Ade": 0.3483,
+    "Matcha Cloud Coconut": 0.4414,
+    "Matcha Strawberry Latte": 0.2103
+  },
+  "0-2-2-2-3": {
+    "Green Ade": 0.3282,
+    "Matcha Cloud Coconut": 0.4975,
+    "Matcha Strawberry Latte": 0.1743
+  },
+  "0-2-2-3-0": {
+    "Green Ade": 0.2966,
+    "Matcha Cloud Coconut": 0.3309,
+    "Matcha Strawberry Latte": 0.3725
+  },
+  "0-2-2-3-1": {
+    "Green Ade": 0.3569,
+    "Matcha Cloud Coconut": 0.2545,
+    "Matcha Strawberry Latte": 0.3886
+  },
+  "0-2-2-3-2": {
+    "Green Ade": 0.39,
+    "Matcha Cloud Coconut": 0.4655,
+    "Matcha Strawberry Latte": 0.1445
+  },
+  "0-2-2-3-3": {
+    "Green Ade": 0.3921,
+    "Matcha Cloud Coconut": 0.4683,
+    "Matcha Strawberry Latte": 0.1396
+  },
+  "0-2-3-0-0": {
+    "Green Ade": 0.1802,
+    "Matcha Cloud Coconut": 0.4488,
+    "Matcha Strawberry Latte": 0.371
+  },
+  "0-2-3-0-1": {
+    "Green Ade": 0.3305,
+    "Matcha Cloud Coconut": 0.2807,
+    "Matcha Strawberry Latte": 0.3888
+  },
+  "0-2-3-0-2": {
+    "Green Ade": 0.2305,
+    "Matcha Cloud Coconut": 0.3879,
+    "Matcha Strawberry Latte": 0.3816
+  },
+  "0-2-3-0-3": {
+    "Green Ade": 0.6643,
+    "Matcha Cloud Coconut": 0.1132,
+    "Matcha Strawberry Latte": 0.2225
+  },
+  "0-2-3-1-0": {
+    "Green Ade": 0.1335,
+    "Matcha Cloud Coconut": 0.8468,
+    "Matcha Strawberry Latte": 0.0198
+  },
+  "0-2-3-1-1": {
+    "Green Ade": 0.5455,
+    "Matcha Cloud Coconut": 0.2622,
+    "Matcha Strawberry Latte": 0.1923
+  },
+  "0-2-3-1-2": {
+    "Green Ade": 0.4912,
+    "Matcha Cloud Coconut": 0.3716,
+    "Matcha Strawberry Latte": 0.1373
+  },
+  "0-2-3-1-3": {
+    "Green Ade": 0.1171,
+    "Matcha Cloud Coconut": 0.1051,
+    "Matcha Strawberry Latte": 0.7778
+  },
+  "0-2-3-2-0": {
+    "Green Ade": 0.1967,
+    "Matcha Cloud Coconut": 0.543,
+    "Matcha Strawberry Latte": 0.2603
+  },
+  "0-2-3-2-1": {
+    "Green Ade": 0.4464,
+    "Matcha Cloud Coconut": 0.4004,
+    "Matcha Strawberry Latte": 0.1533
+  },
+  "0-2-3-2-2": {
+    "Green Ade": 0.1473,
+    "Matcha Cloud Coconut": 0.7828,
+    "Matcha Strawberry Latte": 0.0698
+  },
+  "0-2-3-2-3": {
+    "Green Ade": 0.0734,
+    "Matcha Cloud Coconut": 0.0738,
+    "Matcha Strawberry Latte": 0.8528
+  },
+  "0-2-3-3-0": {
+    "Green Ade": 0.2434,
+    "Matcha Cloud Coconut": 0.4243,
+    "Matcha Strawberry Latte": 0.3323
+  },
+  "0-2-3-3-1": {
+    "Green Ade": 0.3928,
+    "Matcha Cloud Coconut": 0.3565,
+    "Matcha Strawberry Latte": 0.2507
+  },
+  "0-2-3-3-2": {
+    "Green Ade": 0.4028,
+    "Matcha Cloud Coconut": 0.4028,
+    "Matcha Strawberry Latte": 0.1944
+  },
+  "0-2-3-3-3": {
+    "Green Ade": 0.4362,
+    "Matcha Cloud Coconut": 0.2789,
+    "Matcha Strawberry Latte": 0.2848
+  },
+  "0-3-0-0-0": {
+    "Green Ade": 0.5309,
+    "Matcha Cloud Coconut": 0.1097,
+    "Matcha Strawberry Latte": 0.3594
+  },
+  "0-3-0-0-1": {
+    "Green Ade": 0.3404,
+    "Matcha Cloud Coconut": 0.4024,
+    "Matcha Strawberry Latte": 0.2572
+  },
+  "0-3-0-0-2": {
+    "Green Ade": 0.2332,
+    "Matcha Cloud Coconut": 0.3469,
+    "Matcha Strawberry Latte": 0.42
+  },
+  "0-3-0-0-3": {
+    "Green Ade": 0.4642,
+    "Matcha Cloud Coconut": 0.0534,
+    "Matcha Strawberry Latte": 0.4824
+  },
+  "0-3-0-1-0": {
+    "Green Ade": 0.4407,
+    "Matcha Cloud Coconut": 0.4489,
+    "Matcha Strawberry Latte": 0.1103
+  },
+  "0-3-0-1-1": {
+    "Green Ade": 0.6691,
+    "Matcha Cloud Coconut": 0.0536,
+    "Matcha Strawberry Latte": 0.2773
+  },
+  "0-3-0-1-2": {
+    "Green Ade": 0.2694,
+    "Matcha Cloud Coconut": 0.2981,
+    "Matcha Strawberry Latte": 0.4325
+  },
+  "0-3-0-1-3": {
+    "Green Ade": 0.2842,
+    "Matcha Cloud Coconut": 0.1992,
+    "Matcha Strawberry Latte": 0.5167
+  },
+  "0-3-0-2-0": {
+    "Green Ade": 0.4186,
+    "Matcha Cloud Coconut": 0.1421,
+    "Matcha Strawberry Latte": 0.4393
+  },
+  "0-3-0-2-1": {
+    "Green Ade": 0.4218,
+    "Matcha Cloud Coconut": 0.0855,
+    "Matcha Strawberry Latte": 0.4927
+  },
+  "0-3-0-2-2": {
+    "Green Ade": 0.3983,
+    "Matcha Cloud Coconut": 0.3549,
+    "Matcha Strawberry Latte": 0.2468
+  },
+  "0-3-0-2-3": {
+    "Green Ade": 0.3353,
+    "Matcha Cloud Coconut": 0.1986,
+    "Matcha Strawberry Latte": 0.466
+  },
+  "0-3-0-3-0": {
+    "Green Ade": 0.2816,
+    "Matcha Cloud Coconut": 0.2241,
+    "Matcha Strawberry Latte": 0.4943
+  },
+  "0-3-0-3-1": {
+    "Green Ade": 0.4232,
+    "Matcha Cloud Coconut": 0.0354,
+    "Matcha Strawberry Latte": 0.5415
+  },
+  "0-3-0-3-2": {
+    "Green Ade": 0.0844,
+    "Matcha Cloud Coconut": 0.0984,
+    "Matcha Strawberry Latte": 0.8172
+  },
+  "0-3-0-3-3": {
+    "Green Ade": 0.6625,
+    "Matcha Cloud Coconut": 0.2503,
+    "Matcha Strawberry Latte": 0.0872
+  },
+  "0-3-1-0-0": {
+    "Green Ade": 0.3345,
+    "Matcha Cloud Coconut": 0.3208,
+    "Matcha Strawberry Latte": 0.3447
+  },
+  "0-3-1-0-1": {
+    "Green Ade": 0.5022,
+    "Matcha Cloud Coconut": 0.2671,
+    "Matcha Strawberry Latte": 0.2307
+  },
+  "0-3-1-0-2": {
+    "Green Ade": 0.2938,
+    "Matcha Cloud Coconut": 0.6322,
+    "Matcha Strawberry Latte": 0.074
+  },
+  "0-3-1-0-3": {
+    "Green Ade": 0.0989,
+    "Matcha Cloud Coconut": 0.7762,
+    "Matcha Strawberry Latte": 0.1249
+  },
+  "0-3-1-1-0": {
+    "Green Ade": 0.5477,
+    "Matcha Cloud Coconut": 0.0167,
+    "Matcha Strawberry Latte": 0.4356
+  },
+  "0-3-1-1-1": {
+    "Green Ade": 0.1751,
+    "Matcha Cloud Coconut": 0.7816,
+    "Matcha Strawberry Latte": 0.0434
+  },
+  "0-3-1-1-2": {
+    "Green Ade": 0.5231,
+    "Matcha Cloud Coconut": 0.1336,
+    "Matcha Strawberry Latte": 0.3433
+  },
+  "0-3-1-1-3": {
+    "Green Ade": 0.0614,
+    "Matcha Cloud Coconut": 0.5622,
+    "Matcha Strawberry Latte": 0.3764
+  },
+  "0-3-1-2-0": {
+    "Green Ade": 0.3872,
+    "Matcha Cloud Coconut": 0.1929,
+    "Matcha Strawberry Latte": 0.4199
+  },
+  "0-3-1-2-1": {
+    "Green Ade": 0.4112,
+    "Matcha Cloud Coconut": 0.244,
+    "Matcha Strawberry Latte": 0.3448
+  },
+  "0-3-1-2-2": {
+    "Green Ade": 0.6061,
+    "Matcha Cloud Coconut": 0.0419,
+    "Matcha Strawberry Latte": 0.3521
+  },
+  "0-3-1-2-3": {
+    "Green Ade": 0.5572,
+    "Matcha Cloud Coconut": 0.1783,
+    "Matcha Strawberry Latte": 0.2645
+  },
+  "0-3-1-3-0": {
+    "Green Ade": 0.2329,
+    "Matcha Cloud Coconut": 0.7505,
+    "Matcha Strawberry Latte": 0.0166
+  },
+  "0-3-1-3-1": {
+    "Green Ade": 0.2601,
+    "Matcha Cloud Coconut": 0.4963,
+    "Matcha Strawberry Latte": 0.2437
+  },
+  "0-3-1-3-2": {
+    "Green Ade": 0.1893,
+    "Matcha Cloud Coconut": 0.2306,
+    "Matcha Strawberry Latte": 0.58
+  },
+  "0-3-1-3-3": {
+    "Green Ade": 0.34,
+    "Matcha Cloud Coconut": 0.4999,
+    "Matcha Strawberry Latte": 0.1601
+  },
+  "0-3-2-0-0": {
+    "Green Ade": 0.4858,
+    "Matcha Cloud Coconut": 0.2707,
+    "Matcha Strawberry Latte": 0.2435
+  },
+  "0-3-2-0-1": {
+    "Green Ade": 0.4635,
+    "Matcha Cloud Coconut": 0.3171,
+    "Matcha Strawberry Latte": 0.2194
+  },
+  "0-3-2-0-2": {
+    "Green Ade": 0.4546,
+    "Matcha Cloud Coconut": 0.2005,
+    "Matcha Strawberry Latte": 0.3449
+  },
+  "0-3-2-0-3": {
+    "Green Ade": 0.3354,
+    "Matcha Cloud Coconut": 0.3388,
+    "Matcha Strawberry Latte": 0.3257
+  },
+  "0-3-2-1-0": {
+    "Green Ade": 0.4258,
+    "Matcha Cloud Coconut": 0.1138,
+    "Matcha Strawberry Latte": 0.4604
+  },
+  "0-3-2-1-1": {
+    "Green Ade": 0.1948,
+    "Matcha Cloud Coconut": 0.3295,
+    "Matcha Strawberry Latte": 0.4758
+  },
+  "0-3-2-1-2": {
+    "Green Ade": 0.0031,
+    "Matcha Cloud Coconut": 0.6413,
+    "Matcha Strawberry Latte": 0.3557
+  },
+  "0-3-2-1-3": {
+    "Green Ade": 0.173,
+    "Matcha Cloud Coconut": 0.3026,
+    "Matcha Strawberry Latte": 0.5243
+  },
+  "0-3-2-2-0": {
+    "Green Ade": 0.3114,
+    "Matcha Cloud Coconut": 0.4416,
+    "Matcha Strawberry Latte": 0.2471
+  },
+  "0-3-2-2-1": {
+    "Green Ade": 0.1869,
+    "Matcha Cloud Coconut": 0.4539,
+    "Matcha Strawberry Latte": 0.3593
+  },
+  "0-3-2-2-2": {
+    "Green Ade": 0.4034,
+    "Matcha Cloud Coconut": 0.324,
+    "Matcha Strawberry Latte": 0.2726
+  },
+  "0-3-2-2-3": {
+    "Green Ade": 0.4853,
+    "Matcha Cloud Coconut": 0.0911,
+    "Matcha Strawberry Latte": 0.4236
+  },
+  "0-3-2-3-0": {
+    "Green Ade": 0.3029,
+    "Matcha Cloud Coconut": 0.3895,
+    "Matcha Strawberry Latte": 0.3076
+  },
+  "0-3-2-3-1": {
+    "Green Ade": 0.0956,
+    "Matcha Cloud Coconut": 0.1859,
+    "Matcha Strawberry Latte": 0.7186
+  },
+  "0-3-2-3-2": {
+    "Green Ade": 0.6431,
+    "Matcha Cloud Coconut": 0.2482,
+    "Matcha Strawberry Latte": 0.1088
+  },
+  "0-3-2-3-3": {
+    "Green Ade": 0.5012,
+    "Matcha Cloud Coconut": 0.2945,
+    "Matcha Strawberry Latte": 0.2043
+  },
+  "0-3-3-0-0": {
+    "Green Ade": 0.2589,
+    "Matcha Cloud Coconut": 0.3735,
+    "Matcha Strawberry Latte": 0.3676
+  },
+  "0-3-3-0-1": {
+    "Green Ade": 0.2462,
+    "Matcha Cloud Coconut": 0.4222,
+    "Matcha Strawberry Latte": 0.3316
+  },
+  "0-3-3-0-2": {
+    "Green Ade": 0.1662,
+    "Matcha Cloud Coconut": 0.4724,
+    "Matcha Strawberry Latte": 0.3614
+  },
+  "0-3-3-0-3": {
+    "Green Ade": 0.6319,
+    "Matcha Cloud Coconut": 0.3611,
+    "Matcha Strawberry Latte": 0.007
+  },
+  "0-3-3-1-0": {
+    "Green Ade": 0.2982,
+    "Matcha Cloud Coconut": 0.3746,
+    "Matcha Strawberry Latte": 0.3272
+  },
+  "0-3-3-1-1": {
+    "Green Ade": 0.2975,
+    "Matcha Cloud Coconut": 0.0876,
+    "Matcha Strawberry Latte": 0.6149
+  },
+  "0-3-3-1-2": {
+    "Green Ade": 0.6993,
+    "Matcha Cloud Coconut": 0.1564,
+    "Matcha Strawberry Latte": 0.1444
+  },
+  "0-3-3-1-3": {
+    "Green Ade": 0.4965,
+    "Matcha Cloud Coconut": 0.3201,
+    "Matcha Strawberry Latte": 0.1834
+  },
+  "0-3-3-2-0": {
+    "Green Ade": 0.7554,
+    "Matcha Cloud Coconut": 0.0804,
+    "Matcha Strawberry Latte": 0.1642
+  },
+  "0-3-3-2-1": {
+    "Green Ade": 0.1129,
+    "Matcha Cloud Coconut": 0.5248,
+    "Matcha Strawberry Latte": 0.3623
+  },
+  "0-3-3-2-2": {
+    "Green Ade": 0.3586,
+    "Matcha Cloud Coconut": 0.2648,
+    "Matcha Strawberry Latte": 0.3767
+  },
+  "0-3-3-2-3": {
+    "Green Ade": 0.1089,
+    "Matcha Cloud Coconut": 0.1384,
+    "Matcha Strawberry Latte": 0.7527
+  },
+  "0-3-3-3-0": {
+    "Green Ade": 0.2486,
+    "Matcha Cloud Coconut": 0.2461,
+    "Matcha Strawberry Latte": 0.5054
+  },
+  "0-3-3-3-1": {
+    "Green Ade": 0.2271,
+    "Matcha Cloud Coconut": 0.0166,
+    "Matcha Strawberry Latte": 0.7562
+  },
+  "0-3-3-3-2": {
+    "Green Ade": 0.3993,
+    "Matcha Cloud Coconut": 0.3062,
+    "Matcha Strawberry Latte": 0.2945
+  },
+  "0-3-3-3-3": {
+    "Green Ade": 0.59,
+    "Matcha Cloud Coconut": 0.2589,
+    "Matcha Strawberry Latte": 0.1511
+  },
+  "1-0-0-0-0": {
+    "Green Ade": 0.3727,
+    "Matcha Cloud Coconut": 0.5009,
+    "Matcha Strawberry Latte": 0.1264
+  },
+  "1-0-0-0-1": {
+    "Green Ade": 0.273,
+    "Matcha Cloud Coconut": 0.4277,
+    "Matcha Strawberry Latte": 0.2992
+  },
+  "1-0-0-0-2": {
+    "Green Ade": 0.3993,
+    "Matcha Cloud Coconut": 0.327,
+    "Matcha Strawberry Latte": 0.2737
+  },
+  "1-0-0-0-3": {
+    "Green Ade": 0.5091,
+    "Matcha Cloud Coconut": 0.4672,
+    "Matcha Strawberry Latte": 0.0237
+  },
+  "1-0-0-1-0": {
+    "Green Ade": 0.4445,
+    "Matcha Cloud Coconut": 0.3488,
+    "Matcha Strawberry Latte": 0.2068
+  },
+  "1-0-0-1-1": {
+    "Green Ade": 0.1923,
+    "Matcha Cloud Coconut": 0.3579,
+    "Matcha Strawberry Latte": 0.4498
+  },
+  "1-0-0-1-2": {
+    "Green Ade": 0.4302,
+    "Matcha Cloud Coconut": 0.0972,
+    "Matcha Strawberry Latte": 0.4727
+  },
+  "1-0-0-1-3": {
+    "Green Ade": 0.2581,
+    "Matcha Cloud Coconut": 0.2708,
+    "Matcha Strawberry Latte": 0.4711
+  },
+  "1-0-0-2-0": {
+    "Green Ade": 0.0164,
+    "Matcha Cloud Coconut": 0.1615,
+    "Matcha Strawberry Latte": 0.8221
+  },
+  "1-0-0-2-1": {
+    "Green Ade": 0.2224,
+    "Matcha Cloud Coconut": 0.3961,
+    "Matcha Strawberry Latte": 0.3815
+  },
+  "1-0-0-2-2": {
+    "Green Ade": 0.0905,
+    "Matcha Cloud Coconut": 0.6163,
+    "Matcha Strawberry Latte": 0.2932
+  },
+  "1-0-0-2-3": {
+    "Green Ade": 0.3823,
+    "Matcha Cloud Coconut": 0.4972,
+    "Matcha Strawberry Latte": 0.1206
+  },
+  "1-0-0-3-0": {
+    "Green Ade": 0.3461,
+    "Matcha Cloud Coconut": 0.4032,
+    "Matcha Strawberry Latte": 0.2506
+  },
+  "1-0-0-3-1": {
+    "Green Ade": 0.4926,
+    "Matcha Cloud Coconut": 0.0806,
+    "Matcha Strawberry Latte": 0.4269
+  },
+  "1-0-0-3-2": {
+    "Green Ade": 0.5245,
+    "Matcha Cloud Coconut": 0.1518,
+    "Matcha Strawberry Latte": 0.3237
+  },
+  "1-0-0-3-3": {
+    "Green Ade": 0.1412,
+    "Matcha Cloud Coconut": 0.4208,
+    "Matcha Strawberry Latte": 0.438
+  },
+  "1-0-1-0-0": {
+    "Green Ade": 0.1597,
+    "Matcha Cloud Coconut": 0.3864,
+    "Matcha Strawberry Latte": 0.4539
+  },
+  "1-0-1-0-1": {
+    "Green Ade": 0.255,
+    "Matcha Cloud Coconut": 0.2008,
+    "Matcha Strawberry Latte": 0.5442
+  },
+  "1-0-1-0-2": {
+    "Green Ade": 0.503,
+    "Matcha Cloud Coconut": 0.297,
+    "Matcha Strawberry Latte": 0.2
+  },
+  "1-0-1-0-3": {
+    "Green Ade": 0.4961,
+    "Matcha Cloud Coconut": 0.3797,
+    "Matcha Strawberry Latte": 0.1242
+  },
+  "1-0-1-1-0": {
+    "Green Ade": 0.4254,
+    "Matcha Cloud Coconut": 0.4238,
+    "Matcha Strawberry Latte": 0.1508
+  },
+  "1-0-1-1-1": {
+    "Green Ade": 0.2975,
+    "Matcha Cloud Coconut": 0.546,
+    "Matcha Strawberry Latte": 0.1565
+  },
+  "1-0-1-1-2": {
+    "Green Ade": 0.3386,
+    "Matcha Cloud Coconut": 0.3742,
+    "Matcha Strawberry Latte": 0.2871
+  },
+  "1-0-1-1-3": {
+    "Green Ade": 0.1606,
+    "Matcha Cloud Coconut": 0.2646,
+    "Matcha Strawberry Latte": 0.5748
+  },
+  "1-0-1-2-0": {
+    "Green Ade": 0.3822,
+    "Matcha Cloud Coconut": 0.427,
+    "Matcha Strawberry Latte": 0.1908
+  },
+  "1-0-1-2-1": {
+    "Green Ade": 0.3753,
+    "Matcha Cloud Coconut": 0.3655,
+    "Matcha Strawberry Latte": 0.2592
+  },
+  "1-0-1-2-2": {
+    "Green Ade": 0.1908,
+    "Matcha Cloud Coconut": 0.4516,
+    "Matcha Strawberry Latte": 0.3576
+  },
+  "1-0-1-2-3": {
+    "Green Ade": 0.5469,
+    "Matcha Cloud Coconut": 0.3245,
+    "Matcha Strawberry Latte": 0.1286
+  },
+  "1-0-1-3-0": {
+    "Green Ade": 0.2983,
+    "Matcha Cloud Coconut": 0.4748,
+    "Matcha Strawberry Latte": 0.2269
+  },
+  "1-0-1-3-1": {
+    "Green Ade": 0.3186,
+    "Matcha Cloud Coconut": 0.3383,
+    "Matcha Strawberry Latte": 0.3431
+  },
+  "1-0-1-3-2": {
+    "Green Ade": 0.3989,
+    "Matcha Cloud Coconut": 0.5289,
+    "Matcha Strawberry Latte": 0.0723
+  },
+  "1-0-1-3-3": {
+    "Green Ade": 0.1208,
+    "Matcha Cloud Coconut": 0.8692,
+    "Matcha Strawberry Latte": 0.01
+  },
+  "1-0-2-0-0": {
+    "Green Ade": 0.3029,
+    "Matcha Cloud Coconut": 0.2986,
+    "Matcha Strawberry Latte": 0.3985
+  },
+  "1-0-2-0-1": {
+    "Green Ade": 0.1107,
+    "Matcha Cloud Coconut": 0.2459,
+    "Matcha Strawberry Latte": 0.6435
+  },
+  "1-0-2-0-2": {
+    "Green Ade": 0.3755,
+    "Matcha Cloud Coconut": 0.4009,
+    "Matcha Strawberry Latte": 0.2236
+  },
+  "1-0-2-0-3": {
+    "Green Ade": 0.3893,
+    "Matcha Cloud Coconut": 0.3045,
+    "Matcha Strawberry Latte": 0.3062
+  },
+  "1-0-2-1-0": {
+    "Green Ade": 0.4036,
+    "Matcha Cloud Coconut": 0.1454,
+    "Matcha Strawberry Latte": 0.451
+  },
+  "1-0-2-1-1": {
+    "Green Ade": 0.266,
+    "Matcha Cloud Coconut": 0.4618,
+    "Matcha Strawberry Latte": 0.2722
+  },
+  "1-0-2-1-2": {
+    "Green Ade": 0.0001,
+    "Matcha Cloud Coconut": 0.2419,
+    "Matcha Strawberry Latte": 0.7581
+  },
+  "1-0-2-1-3": {
+    "Green Ade": 0.3568,
+    "Matcha Cloud Coconut": 0.1253,
+    "Matcha Strawberry Latte": 0.5179
+  },
+  "1-0-2-2-0": {
+    "Green Ade": 0.3847,
+    "Matcha Cloud Coconut": 0.3528,
+    "Matcha Strawberry Latte": 0.2625
+  },
+  "1-0-2-2-1": {
+    "Green Ade": 0.3742,
+    "Matcha Cloud Coconut": 0.5452,
+    "Matcha Strawberry Latte": 0.0806
+  },
+  "1-0-2-2-2": {
+    "Green Ade": 0.2795,
+    "Matcha Cloud Coconut": 0.4638,
+    "Matcha Strawberry Latte": 0.2567
+  },
+  "1-0-2-2-3": {
+    "Green Ade": 0.0378,
+    "Matcha Cloud Coconut": 0.2476,
+    "Matcha Strawberry Latte": 0.7146
+  },
+  "1-0-2-3-0": {
+    "Green Ade": 0.2549,
+    "Matcha Cloud Coconut": 0.1814,
+    "Matcha Strawberry Latte": 0.5638
+  },
+  "1-0-2-3-1": {
+    "Green Ade": 0.3681,
+    "Matcha Cloud Coconut": 0.3954,
+    "Matcha Strawberry Latte": 0.2365
+  },
+  "1-0-2-3-2": {
+    "Green Ade": 0.3937,
+    "Matcha Cloud Coconut": 0.2534,
+    "Matcha Strawberry Latte": 0.3528
+  },
+  "1-0-2-3-3": {
+    "Green Ade": 0.2818,
+    "Matcha Cloud Coconut": 0.2525,
+    "Matcha Strawberry Latte": 0.4657
+  },
+  "1-0-3-0-0": {
+    "Green Ade": 0.2701,
+    "Matcha Cloud Coconut": 0.3381,
+    "Matcha Strawberry Latte": 0.3918
+  },
+  "1-0-3-0-1": {
+    "Green Ade": 0.6151,
+    "Matcha Cloud Coconut": 0.2048,
+    "Matcha Strawberry Latte": 0.1801
+  },
+  "1-0-3-0-2": {
+    "Green Ade": 0.0292,
+    "Matcha Cloud Coconut": 0.5053,
+    "Matcha Strawberry Latte": 0.4655
+  },
+  "1-0-3-0-3": {
+    "Green Ade": 0.0815,
+    "Matcha Cloud Coconut": 0.3863,
+    "Matcha Strawberry Latte": 0.5322
+  },
+  "1-0-3-1-0": {
+    "Green Ade": 0.2013,
+    "Matcha Cloud Coconut": 0.0017,
+    "Matcha Strawberry Latte": 0.797
+  },
+  "1-0-3-1-1": {
+    "Green Ade": 0.4169,
+    "Matcha Cloud Coconut": 0.3183,
+    "Matcha Strawberry Latte": 0.2647
+  },
+  "1-0-3-1-2": {
+    "Green Ade": 0.2904,
+    "Matcha Cloud Coconut": 0.5905,
+    "Matcha Strawberry Latte": 0.119
+  },
+  "1-0-3-1-3": {
+    "Green Ade": 0.2017,
+    "Matcha Cloud Coconut": 0.719,
+    "Matcha Strawberry Latte": 0.0793
+  },
+  "1-0-3-2-0": {
+    "Green Ade": 0.4676,
+    "Matcha Cloud Coconut": 0.1237,
+    "Matcha Strawberry Latte": 0.4087
+  },
+  "1-0-3-2-1": {
+    "Green Ade": 0.0763,
+    "Matcha Cloud Coconut": 0.5948,
+    "Matcha Strawberry Latte": 0.3289
+  },
+  "1-0-3-2-2": {
+    "Green Ade": 0.0491,
+    "Matcha Cloud Coconut": 0.0486,
+    "Matcha Strawberry Latte": 0.9023
+  },
+  "1-0-3-2-3": {
+    "Green Ade": 0.2779,
+    "Matcha Cloud Coconut": 0.3164,
+    "Matcha Strawberry Latte": 0.4057
+  },
+  "1-0-3-3-0": {
+    "Green Ade": 0.437,
+    "Matcha Cloud Coconut": 0.1435,
+    "Matcha Strawberry Latte": 0.4196
+  },
+  "1-0-3-3-1": {
+    "Green Ade": 0.409,
+    "Matcha Cloud Coconut": 0.1517,
+    "Matcha Strawberry Latte": 0.4393
+  },
+  "1-0-3-3-2": {
+    "Green Ade": 0.2533,
+    "Matcha Cloud Coconut": 0.6191,
+    "Matcha Strawberry Latte": 0.1276
+  },
+  "1-0-3-3-3": {
+    "Green Ade": 0.5227,
+    "Matcha Cloud Coconut": 0.3766,
+    "Matcha Strawberry Latte": 0.1006
+  },
+  "1-1-0-0-0": {
+    "Green Ade": 0.2698,
+    "Matcha Cloud Coconut": 0.3861,
+    "Matcha Strawberry Latte": 0.3441
+  },
+  "1-1-0-0-1": {
+    "Green Ade": 0.428,
+    "Matcha Cloud Coconut": 0.3564,
+    "Matcha Strawberry Latte": 0.2156
+  },
+  "1-1-0-0-2": {
+    "Green Ade": 0.344,
+    "Matcha Cloud Coconut": 0.1545,
+    "Matcha Strawberry Latte": 0.5015
+  },
+  "1-1-0-0-3": {
+    "Green Ade": 0.422,
+    "Matcha Cloud Coconut": 0.0017,
+    "Matcha Strawberry Latte": 0.5763
+  },
+  "1-1-0-1-0": {
+    "Green Ade": 0.4957,
+    "Matcha Cloud Coconut": 0.1656,
+    "Matcha Strawberry Latte": 0.3386
+  },
+  "1-1-0-1-1": {
+    "Green Ade": 0.4378,
+    "Matcha Cloud Coconut": 0.129,
+    "Matcha Strawberry Latte": 0.4332
+  },
+  "1-1-0-1-2": {
+    "Green Ade": 0.013,
+    "Matcha Cloud Coconut": 0.5312,
+    "Matcha Strawberry Latte": 0.4558
+  },
+  "1-1-0-1-3": {
+    "Green Ade": 0.1819,
+    "Matcha Cloud Coconut": 0.4394,
+    "Matcha Strawberry Latte": 0.3786
+  },
+  "1-1-0-2-0": {
+    "Green Ade": 0.4601,
+    "Matcha Cloud Coconut": 0.422,
+    "Matcha Strawberry Latte": 0.1179
+  },
+  "1-1-0-2-1": {
+    "Green Ade": 0.4536,
+    "Matcha Cloud Coconut": 0.1584,
+    "Matcha Strawberry Latte": 0.388
+  },
+  "1-1-0-2-2": {
+    "Green Ade": 0.1983,
+    "Matcha Cloud Coconut": 0.5345,
+    "Matcha Strawberry Latte": 0.2672
+  },
+  "1-1-0-2-3": {
+    "Green Ade": 0.4614,
+    "Matcha Cloud Coconut": 0.0523,
+    "Matcha Strawberry Latte": 0.4863
+  },
+  "1-1-0-3-0": {
+    "Green Ade": 0.3247,
+    "Matcha Cloud Coconut": 0.4929,
+    "Matcha Strawberry Latte": 0.1824
+  },
+  "1-1-0-3-1": {
+    "Green Ade": 0.3312,
+    "Matcha Cloud Coconut": 0.303,
+    "Matcha Strawberry Latte": 0.3658
+  },
+  "1-1-0-3-2": {
+    "Green Ade": 0.03,
+    "Matcha Cloud Coconut": 0.2476,
+    "Matcha Strawberry Latte": 0.7224
+  },
+  "1-1-0-3-3": {
+    "Green Ade": 0.2347,
+    "Matcha Cloud Coconut": 0.522,
+    "Matcha Strawberry Latte": 0.2433
+  },
+  "1-1-1-0-0": {
+    "Green Ade": 0.3495,
+    "Matcha Cloud Coconut": 0.2692,
+    "Matcha Strawberry Latte": 0.3812
+  },
+  "1-1-1-0-1": {
+    "Green Ade": 0.6963,
+    "Matcha Cloud Coconut": 0.2415,
+    "Matcha Strawberry Latte": 0.0623
+  },
+  "1-1-1-0-2": {
+    "Green Ade": 0.2324,
+    "Matcha Cloud Coconut": 0.4474,
+    "Matcha Strawberry Latte": 0.3202
+  },
+  "1-1-1-0-3": {
+    "Green Ade": 0.1726,
+    "Matcha Cloud Coconut": 0.575,
+    "Matcha Strawberry Latte": 0.2524
+  },
+  "1-1-1-1-0": {
+    "Green Ade": 0.3048,
+    "Matcha Cloud Coconut": 0.5489,
+    "Matcha Strawberry Latte": 0.1464
+  },
+  "1-1-1-1-1": {
+    "Green Ade": 0.4331,
+    "Matcha Cloud Coconut": 0.1719,
+    "Matcha Strawberry Latte": 0.395
+  },
+  "1-1-1-1-2": {
+    "Green Ade": 0.2785,
+    "Matcha Cloud Coconut": 0.386,
+    "Matcha Strawberry Latte": 0.3356
+  },
+  "1-1-1-1-3": {
+    "Green Ade": 0.7058,
+    "Matcha Cloud Coconut": 0.0064,
+    "Matcha Strawberry Latte": 0.2879
+  },
+  "1-1-1-2-0": {
+    "Green Ade": 0.1712,
+    "Matcha Cloud Coconut": 0.2251,
+    "Matcha Strawberry Latte": 0.6038
+  },
+  "1-1-1-2-1": {
+    "Green Ade": 0.4126,
+    "Matcha Cloud Coconut": 0.2334,
+    "Matcha Strawberry Latte": 0.354
+  },
+  "1-1-1-2-2": {
+    "Green Ade": 0.3894,
+    "Matcha Cloud Coconut": 0.1829,
+    "Matcha Strawberry Latte": 0.4277
+  },
+  "1-1-1-2-3": {
+    "Green Ade": 0.1065,
+    "Matcha Cloud Coconut": 0.3674,
+    "Matcha Strawberry Latte": 0.526
+  },
+  "1-1-1-3-0": {
+    "Green Ade": 0.3354,
+    "Matcha Cloud Coconut": 0.288,
+    "Matcha Strawberry Latte": 0.3766
+  },
+  "1-1-1-3-1": {
+    "Green Ade": 0.3071,
+    "Matcha Cloud Coconut": 0.3305,
+    "Matcha Strawberry Latte": 0.3625
+  },
+  "1-1-1-3-2": {
+    "Green Ade": 0.1782,
+    "Matcha Cloud Coconut": 0.2149,
+    "Matcha Strawberry Latte": 0.607
+  },
+  "1-1-1-3-3": {
+    "Green Ade": 0.2727,
+    "Matcha Cloud Coconut": 0.3247,
+    "Matcha Strawberry Latte": 0.4026
+  },
+  "1-1-2-0-0": {
+    "Green Ade": 0.2832,
+    "Matcha Cloud Coconut": 0.4691,
+    "Matcha Strawberry Latte": 0.2477
+  },
+  "1-1-2-0-1": {
+    "Green Ade": 0.5587,
+    "Matcha Cloud Coconut": 0.1641,
+    "Matcha Strawberry Latte": 0.2773
+  },
+  "1-1-2-0-2": {
+    "Green Ade": 0.3274,
+    "Matcha Cloud Coconut": 0.3675,
+    "Matcha Strawberry Latte": 0.3051
+  },
+  "1-1-2-0-3": {
+    "Green Ade": 0.2748,
+    "Matcha Cloud Coconut": 0.5301,
+    "Matcha Strawberry Latte": 0.1952
+  },
+  "1-1-2-1-0": {
+    "Green Ade": 0.1066,
+    "Matcha Cloud Coconut": 0.86,
+    "Matcha Strawberry Latte": 0.0334
+  },
+  "1-1-2-1-1": {
+    "Green Ade": 0.2345,
+    "Matcha Cloud Coconut": 0.4022,
+    "Matcha Strawberry Latte": 0.3632
+  },
+  "1-1-2-1-2": {
+    "Green Ade": 0.1728,
+    "Matcha Cloud Coconut": 0.2928,
+    "Matcha Strawberry Latte": 0.5344
+  },
+  "1-1-2-1-3": {
+    "Green Ade": 0.1949,
+    "Matcha Cloud Coconut": 0.4594,
+    "Matcha Strawberry Latte": 0.3457
+  },
+  "1-1-2-2-0": {
+    "Green Ade": 0.1645,
+    "Matcha Cloud Coconut": 0.3505,
+    "Matcha Strawberry Latte": 0.485
+  },
+  "1-1-2-2-1": {
+    "Green Ade": 0.0474,
+    "Matcha Cloud Coconut": 0.3732,
+    "Matcha Strawberry Latte": 0.5794
+  },
+  "1-1-2-2-2": {
+    "Green Ade": 0.1754,
+    "Matcha Cloud Coconut": 0.1777,
+    "Matcha Strawberry Latte": 0.6468
+  },
+  "1-1-2-2-3": {
+    "Green Ade": 0.0369,
+    "Matcha Cloud Coconut": 0.7697,
+    "Matcha Strawberry Latte": 0.1933
+  },
+  "1-1-2-3-0": {
+    "Green Ade": 0.2708,
+    "Matcha Cloud Coconut": 0.4088,
+    "Matcha Strawberry Latte": 0.3205
+  },
+  "1-1-2-3-1": {
+    "Green Ade": 0.3493,
+    "Matcha Cloud Coconut": 0.5832,
+    "Matcha Strawberry Latte": 0.0675
+  },
+  "1-1-2-3-2": {
+    "Green Ade": 0.3491,
+    "Matcha Cloud Coconut": 0.5881,
+    "Matcha Strawberry Latte": 0.0628
+  },
+  "1-1-2-3-3": {
+    "Green Ade": 0.2103,
+    "Matcha Cloud Coconut": 0.17,
+    "Matcha Strawberry Latte": 0.6197
+  },
+  "1-1-3-0-0": {
+    "Green Ade": 0.0294,
+    "Matcha Cloud Coconut": 0.339,
+    "Matcha Strawberry Latte": 0.6315
+  },
+  "1-1-3-0-1": {
+    "Green Ade": 0.3696,
+    "Matcha Cloud Coconut": 0.3321,
+    "Matcha Strawberry Latte": 0.2983
+  },
+  "1-1-3-0-2": {
+    "Green Ade": 0.7101,
+    "Matcha Cloud Coconut": 0.2492,
+    "Matcha Strawberry Latte": 0.0407
+  },
+  "1-1-3-0-3": {
+    "Green Ade": 0.2196,
+    "Matcha Cloud Coconut": 0.2418,
+    "Matcha Strawberry Latte": 0.5386
+  },
+  "1-1-3-1-0": {
+    "Green Ade": 0.0683,
+    "Matcha Cloud Coconut": 0.4833,
+    "Matcha Strawberry Latte": 0.4483
+  },
+  "1-1-3-1-1": {
+    "Green Ade": 0.1368,
+    "Matcha Cloud Coconut": 0.1206,
+    "Matcha Strawberry Latte": 0.7426
+  },
+  "1-1-3-1-2": {
+    "Green Ade": 0.4106,
+    "Matcha Cloud Coconut": 0.4843,
+    "Matcha Strawberry Latte": 0.1051
+  },
+  "1-1-3-1-3": {
+    "Green Ade": 0.3985,
+    "Matcha Cloud Coconut": 0.4072,
+    "Matcha Strawberry Latte": 0.1943
+  },
+  "1-1-3-2-0": {
+    "Green Ade": 0.4787,
+    "Matcha Cloud Coconut": 0.1149,
+    "Matcha Strawberry Latte": 0.4065
+  },
+  "1-1-3-2-1": {
+    "Green Ade": 0.3605,
+    "Matcha Cloud Coconut": 0.5052,
+    "Matcha Strawberry Latte": 0.1343
+  },
+  "1-1-3-2-2": {
+    "Green Ade": 0.0614,
+    "Matcha Cloud Coconut": 0.3507,
+    "Matcha Strawberry Latte": 0.588
+  },
+  "1-1-3-2-3": {
+    "Green Ade": 0.4248,
+    "Matcha Cloud Coconut": 0.0471,
+    "Matcha Strawberry Latte": 0.5281
+  },
+  "1-1-3-3-0": {
+    "Green Ade": 0.0064,
+    "Matcha Cloud Coconut": 0.4831,
+    "Matcha Strawberry Latte": 0.5104
+  },
+  "1-1-3-3-1": {
+    "Green Ade": 0.3847,
+    "Matcha Cloud Coconut": 0.4331,
+    "Matcha Strawberry Latte": 0.1822
+  },
+  "1-1-3-3-2": {
+    "Green Ade": 0.8386,
+    "Matcha Cloud Coconut": 0.1107,
+    "Matcha Strawberry Latte": 0.0507
+  },
+  "1-1-3-3-3": {
+    "Green Ade": 0.1719,
+    "Matcha Cloud Coconut": 0.5077,
+    "Matcha Strawberry Latte": 0.3204
+  },
+  "1-2-0-0-0": {
+    "Green Ade": 0.513,
+    "Matcha Cloud Coconut": 0.3587,
+    "Matcha Strawberry Latte": 0.1283
+  },
+  "1-2-0-0-1": {
+    "Green Ade": 0.3319,
+    "Matcha Cloud Coconut": 0.3591,
+    "Matcha Strawberry Latte": 0.309
+  },
+  "1-2-0-0-2": {
+    "Green Ade": 0.2372,
+    "Matcha Cloud Coconut": 0.3038,
+    "Matcha Strawberry Latte": 0.459
+  },
+  "1-2-0-0-3": {
+    "Green Ade": 0.1465,
+    "Matcha Cloud Coconut": 0.3349,
+    "Matcha Strawberry Latte": 0.5186
+  },
+  "1-2-0-1-0": {
+    "Green Ade": 0.3452,
+    "Matcha Cloud Coconut": 0.1885,
+    "Matcha Strawberry Latte": 0.4663
+  },
+  "1-2-0-1-1": {
+    "Green Ade": 0.0158,
+    "Matcha Cloud Coconut": 0.4236,
+    "Matcha Strawberry Latte": 0.5606
+  },
+  "1-2-0-1-2": {
+    "Green Ade": 0.435,
+    "Matcha Cloud Coconut": 0.0156,
+    "Matcha Strawberry Latte": 0.5494
+  },
+  "1-2-0-1-3": {
+    "Green Ade": 0.8001,
+    "Matcha Cloud Coconut": 0.1421,
+    "Matcha Strawberry Latte": 0.0577
+  },
+  "1-2-0-2-0": {
+    "Green Ade": 0.1984,
+    "Matcha Cloud Coconut": 0.1117,
+    "Matcha Strawberry Latte": 0.6899
+  },
+  "1-2-0-2-1": {
+    "Green Ade": 0.0268,
+    "Matcha Cloud Coconut": 0.1181,
+    "Matcha Strawberry Latte": 0.8551
+  },
+  "1-2-0-2-2": {
+    "Green Ade": 0.0732,
+    "Matcha Cloud Coconut": 0.4137,
+    "Matcha Strawberry Latte": 0.5131
+  },
+  "1-2-0-2-3": {
+    "Green Ade": 0.2988,
+    "Matcha Cloud Coconut": 0.3898,
+    "Matcha Strawberry Latte": 0.3114
+  },
+  "1-2-0-3-0": {
+    "Green Ade": 0.3407,
+    "Matcha Cloud Coconut": 0.3348,
+    "Matcha Strawberry Latte": 0.3244
+  },
+  "1-2-0-3-1": {
+    "Green Ade": 0.455,
+    "Matcha Cloud Coconut": 0.5244,
+    "Matcha Strawberry Latte": 0.0206
+  },
+  "1-2-0-3-2": {
+    "Green Ade": 0.407,
+    "Matcha Cloud Coconut": 0.2391,
+    "Matcha Strawberry Latte": 0.3538
+  },
+  "1-2-0-3-3": {
+    "Green Ade": 0.4944,
+    "Matcha Cloud Coconut": 0.1205,
+    "Matcha Strawberry Latte": 0.3852
+  },
+  "1-2-1-0-0": {
+    "Green Ade": 0.3698,
+    "Matcha Cloud Coconut": 0.6011,
+    "Matcha Strawberry Latte": 0.0291
+  },
+  "1-2-1-0-1": {
+    "Green Ade": 0.548,
+    "Matcha Cloud Coconut": 0.4285,
+    "Matcha Strawberry Latte": 0.0235
+  },
+  "1-2-1-0-2": {
+    "Green Ade": 0.0178,
+    "Matcha Cloud Coconut": 0.8277,
+    "Matcha Strawberry Latte": 0.1545
+  },
+  "1-2-1-0-3": {
+    "Green Ade": 0.6101,
+    "Matcha Cloud Coconut": 0.29,
+    "Matcha Strawberry Latte": 0.0999
+  },
+  "1-2-1-1-0": {
+    "Green Ade": 0.6629,
+    "Matcha Cloud Coconut": 0.0399,
+    "Matcha Strawberry Latte": 0.2972
+  },
+  "1-2-1-1-1": {
+    "Green Ade": 0.3903,
+    "Matcha Cloud Coconut": 0.2533,
+    "Matcha Strawberry Latte": 0.3564
+  },
+  "1-2-1-1-2": {
+    "Green Ade": 0.6038,
+    "Matcha Cloud Coconut": 0.1226,
+    "Matcha Strawberry Latte": 0.2736
+  },
+  "1-2-1-1-3": {
+    "Green Ade": 0.2579,
+    "Matcha Cloud Coconut": 0.2951,
+    "Matcha Strawberry Latte": 0.447
+  },
+  "1-2-1-2-0": {
+    "Green Ade": 0.4096,
+    "Matcha Cloud Coconut": 0.2485,
+    "Matcha Strawberry Latte": 0.3419
+  },
+  "1-2-1-2-1": {
+    "Green Ade": 0.2105,
+    "Matcha Cloud Coconut": 0.4215,
+    "Matcha Strawberry Latte": 0.3681
+  },
+  "1-2-1-2-2": {
+    "Green Ade": 0.2556,
+    "Matcha Cloud Coconut": 0.0419,
+    "Matcha Strawberry Latte": 0.7025
+  },
+  "1-2-1-2-3": {
+    "Green Ade": 0.0814,
+    "Matcha Cloud Coconut": 0.7997,
+    "Matcha Strawberry Latte": 0.1189
+  },
+  "1-2-1-3-0": {
+    "Green Ade": 0.2374,
+    "Matcha Cloud Coconut": 0.3126,
+    "Matcha Strawberry Latte": 0.45
+  },
+  "1-2-1-3-1": {
+    "Green Ade": 0.0254,
+    "Matcha Cloud Coconut": 0.496,
+    "Matcha Strawberry Latte": 0.4786
+  },
+  "1-2-1-3-2": {
+    "Green Ade": 0.16,
+    "Matcha Cloud Coconut": 0.7007,
+    "Matcha Strawberry Latte": 0.1393
+  },
+  "1-2-1-3-3": {
+    "Green Ade": 0.2593,
+    "Matcha Cloud Coconut": 0.4885,
+    "Matcha Strawberry Latte": 0.2521
+  },
+  "1-2-2-0-0": {
+    "Green Ade": 0.4477,
+    "Matcha Cloud Coconut": 0.1636,
+    "Matcha Strawberry Latte": 0.3888
+  },
+  "1-2-2-0-1": {
+    "Green Ade": 0.3944,
+    "Matcha Cloud Coconut": 0.1861,
+    "Matcha Strawberry Latte": 0.4195
+  },
+  "1-2-2-0-2": {
+    "Green Ade": 0.0269,
+    "Matcha Cloud Coconut": 0.8705,
+    "Matcha Strawberry Latte": 0.1025
+  },
+  "1-2-2-0-3": {
+    "Green Ade": 0.457,
+    "Matcha Cloud Coconut": 0.2767,
+    "Matcha Strawberry Latte": 0.2664
+  },
+  "1-2-2-1-0": {
+    "Green Ade": 0.2647,
+    "Matcha Cloud Coconut": 0.6141,
+    "Matcha Strawberry Latte": 0.1212
+  },
+  "1-2-2-1-1": {
+    "Green Ade": 0.3898,
+    "Matcha Cloud Coconut": 0.2501,
+    "Matcha Strawberry Latte": 0.3601
+  },
+  "1-2-2-1-2": {
+    "Green Ade": 0.3634,
+    "Matcha Cloud Coconut": 0.1071,
+    "Matcha Strawberry Latte": 0.5294
+  },
+  "1-2-2-1-3": {
+    "Green Ade": 0.2328,
+    "Matcha Cloud Coconut": 0.2645,
+    "Matcha Strawberry Latte": 0.5027
+  },
+  "1-2-2-2-0": {
+    "Green Ade": 0.6399,
+    "Matcha Cloud Coconut": 0.231,
+    "Matcha Strawberry Latte": 0.129
+  },
+  "1-2-2-2-1": {
+    "Green Ade": 0.3588,
+    "Matcha Cloud Coconut": 0.491,
+    "Matcha Strawberry Latte": 0.1502
+  },
+  "1-2-2-2-2": {
+    "Green Ade": 0.2147,
+    "Matcha Cloud Coconut": 0.0169,
+    "Matcha Strawberry Latte": 0.7684
+  },
+  "1-2-2-2-3": {
+    "Green Ade": 0.1299,
+    "Matcha Cloud Coconut": 0.1542,
+    "Matcha Strawberry Latte": 0.7159
+  },
+  "1-2-2-3-0": {
+    "Green Ade": 0.0392,
+    "Matcha Cloud Coconut": 0.4853,
+    "Matcha Strawberry Latte": 0.4755
+  },
+  "1-2-2-3-1": {
+    "Green Ade": 0.0491,
+    "Matcha Cloud Coconut": 0.6329,
+    "Matcha Strawberry Latte": 0.318
+  },
+  "1-2-2-3-2": {
+    "Green Ade": 0.0234,
+    "Matcha Cloud Coconut": 0.3536,
+    "Matcha Strawberry Latte": 0.6229
+  },
+  "1-2-2-3-3": {
+    "Green Ade": 0.3785,
+    "Matcha Cloud Coconut": 0.1984,
+    "Matcha Strawberry Latte": 0.4232
+  },
+  "1-2-3-0-0": {
+    "Green Ade": 0.3668,
+    "Matcha Cloud Coconut": 0.3015,
+    "Matcha Strawberry Latte": 0.3318
+  },
+  "1-2-3-0-1": {
+    "Green Ade": 0.5031,
+    "Matcha Cloud Coconut": 0.2387,
+    "Matcha Strawberry Latte": 0.2582
+  },
+  "1-2-3-0-2": {
+    "Green Ade": 0.3042,
+    "Matcha Cloud Coconut": 0.384,
+    "Matcha Strawberry Latte": 0.3118
+  },
+  "1-2-3-0-3": {
+    "Green Ade": 0.4603,
+    "Matcha Cloud Coconut": 0.4424,
+    "Matcha Strawberry Latte": 0.0973
+  },
+  "1-2-3-1-0": {
+    "Green Ade": 0.7297,
+    "Matcha Cloud Coconut": 0.0162,
+    "Matcha Strawberry Latte": 0.2542
+  },
+  "1-2-3-1-1": {
+    "Green Ade": 0.2509,
+    "Matcha Cloud Coconut": 0.3192,
+    "Matcha Strawberry Latte": 0.4299
+  },
+  "1-2-3-1-2": {
+    "Green Ade": 0.6355,
+    "Matcha Cloud Coconut": 0.3289,
+    "Matcha Strawberry Latte": 0.0356
+  },
+  "1-2-3-1-3": {
+    "Green Ade": 0.4025,
+    "Matcha Cloud Coconut": 0.3773,
+    "Matcha Strawberry Latte": 0.2201
+  },
+  "1-2-3-2-0": {
+    "Green Ade": 0.1753,
+    "Matcha Cloud Coconut": 0.3927,
+    "Matcha Strawberry Latte": 0.432
+  },
+  "1-2-3-2-1": {
+    "Green Ade": 0.2112,
+    "Matcha Cloud Coconut": 0.3244,
+    "Matcha Strawberry Latte": 0.4643
+  },
+  "1-2-3-2-2": {
+    "Green Ade": 0.0184,
+    "Matcha Cloud Coconut": 0.3092,
+    "Matcha Strawberry Latte": 0.6724
+  },
+  "1-2-3-2-3": {
+    "Green Ade": 0.4359,
+    "Matcha Cloud Coconut": 0.3929,
+    "Matcha Strawberry Latte": 0.1712
+  },
+  "1-2-3-3-0": {
+    "Green Ade": 0.6077,
+    "Matcha Cloud Coconut": 0.1998,
+    "Matcha Strawberry Latte": 0.1925
+  },
+  "1-2-3-3-1": {
+    "Green Ade": 0.345,
+    "Matcha Cloud Coconut": 0.1996,
+    "Matcha Strawberry Latte": 0.4554
+  },
+  "1-2-3-3-2": {
+    "Green Ade": 0.4165,
+    "Matcha Cloud Coconut": 0.1243,
+    "Matcha Strawberry Latte": 0.4592
+  },
+  "1-2-3-3-3": {
+    "Green Ade": 0.5678,
+    "Matcha Cloud Coconut": 0.3162,
+    "Matcha Strawberry Latte": 0.116
+  },
+  "1-3-0-0-0": {
+    "Green Ade": 0.3316,
+    "Matcha Cloud Coconut": 0.0874,
+    "Matcha Strawberry Latte": 0.581
+  },
+  "1-3-0-0-1": {
+    "Green Ade": 0.176,
+    "Matcha Cloud Coconut": 0.6463,
+    "Matcha Strawberry Latte": 0.1777
+  },
+  "1-3-0-0-2": {
+    "Green Ade": 0.3033,
+    "Matcha Cloud Coconut": 0.4038,
+    "Matcha Strawberry Latte": 0.2929
+  },
+  "1-3-0-0-3": {
+    "Green Ade": 0.2322,
+    "Matcha Cloud Coconut": 0.2957,
+    "Matcha Strawberry Latte": 0.4721
+  },
+  "1-3-0-1-0": {
+    "Green Ade": 0.1106,
+    "Matcha Cloud Coconut": 0.6697,
+    "Matcha Strawberry Latte": 0.2197
+  },
+  "1-3-0-1-1": {
+    "Green Ade": 0.338,
+    "Matcha Cloud Coconut": 0.098,
+    "Matcha Strawberry Latte": 0.564
+  },
+  "1-3-0-1-2": {
+    "Green Ade": 0.2016,
+    "Matcha Cloud Coconut": 0.2313,
+    "Matcha Strawberry Latte": 0.5671
+  },
+  "1-3-0-1-3": {
+    "Green Ade": 0.0307,
+    "Matcha Cloud Coconut": 0.4083,
+    "Matcha Strawberry Latte": 0.561
+  },
+  "1-3-0-2-0": {
+    "Green Ade": 0.3756,
+    "Matcha Cloud Coconut": 0.3755,
+    "Matcha Strawberry Latte": 0.2489
+  },
+  "1-3-0-2-1": {
+    "Green Ade": 0.1799,
+    "Matcha Cloud Coconut": 0.1602,
+    "Matcha Strawberry Latte": 0.6599
+  },
+  "1-3-0-2-2": {
+    "Green Ade": 0.1476,
+    "Matcha Cloud Coconut": 0.493,
+    "Matcha Strawberry Latte": 0.3594
+  },
+  "1-3-0-2-3": {
+    "Green Ade": 0.2797,
+    "Matcha Cloud Coconut": 0.4716,
+    "Matcha Strawberry Latte": 0.2487
+  },
+  "1-3-0-3-0": {
+    "Green Ade": 0.3509,
+    "Matcha Cloud Coconut": 0.4308,
+    "Matcha Strawberry Latte": 0.2183
+  },
+  "1-3-0-3-1": {
+    "Green Ade": 0.4091,
+    "Matcha Cloud Coconut": 0.176,
+    "Matcha Strawberry Latte": 0.4149
+  },
+  "1-3-0-3-2": {
+    "Green Ade": 0.6874,
+    "Matcha Cloud Coconut": 0.2117,
+    "Matcha Strawberry Latte": 0.101
+  },
+  "1-3-0-3-3": {
+    "Green Ade": 0.2003,
+    "Matcha Cloud Coconut": 0.439,
+    "Matcha Strawberry Latte": 0.3608
+  },
+  "1-3-1-0-0": {
+    "Green Ade": 0.0744,
+    "Matcha Cloud Coconut": 0.0145,
+    "Matcha Strawberry Latte": 0.911
+  },
+  "1-3-1-0-1": {
+    "Green Ade": 0.4318,
+    "Matcha Cloud Coconut": 0.3844,
+    "Matcha Strawberry Latte": 0.1839
+  },
+  "1-3-1-0-2": {
+    "Green Ade": 0.3773,
+    "Matcha Cloud Coconut": 0.2651,
+    "Matcha Strawberry Latte": 0.3576
+  },
+  "1-3-1-0-3": {
+    "Green Ade": 0.2559,
+    "Matcha Cloud Coconut": 0.5157,
+    "Matcha Strawberry Latte": 0.2284
+  },
+  "1-3-1-1-0": {
+    "Green Ade": 0.3333,
+    "Matcha Cloud Coconut": 0.3763,
+    "Matcha Strawberry Latte": 0.2904
+  },
+  "1-3-1-1-1": {
+    "Green Ade": 0.1806,
+    "Matcha Cloud Coconut": 0.3968,
+    "Matcha Strawberry Latte": 0.4226
+  },
+  "1-3-1-1-2": {
+    "Green Ade": 0.9394,
+    "Matcha Cloud Coconut": 0.0233,
+    "Matcha Strawberry Latte": 0.0374
+  },
+  "1-3-1-1-3": {
+    "Green Ade": 0.1192,
+    "Matcha Cloud Coconut": 0.7646,
+    "Matcha Strawberry Latte": 0.1162
+  },
+  "1-3-1-2-0": {
+    "Green Ade": 0.2563,
+    "Matcha Cloud Coconut": 0.3952,
+    "Matcha Strawberry Latte": 0.3485
+  },
+  "1-3-1-2-1": {
+    "Green Ade": 0.0831,
+    "Matcha Cloud Coconut": 0.376,
+    "Matcha Strawberry Latte": 0.5408
+  },
+  "1-3-1-2-2": {
+    "Green Ade": 0.1473,
+    "Matcha Cloud Coconut": 0.235,
+    "Matcha Strawberry Latte": 0.6177
+  },
+  "1-3-1-2-3": {
+    "Green Ade": 0.452,
+    "Matcha Cloud Coconut": 0.2284,
+    "Matcha Strawberry Latte": 0.3196
+  },
+  "1-3-1-3-0": {
+    "Green Ade": 0.4046,
+    "Matcha Cloud Coconut": 0.3096,
+    "Matcha Strawberry Latte": 0.2858
+  },
+  "1-3-1-3-1": {
+    "Green Ade": 0.5269,
+    "Matcha Cloud Coconut": 0.3281,
+    "Matcha Strawberry Latte": 0.145
+  },
+  "1-3-1-3-2": {
+    "Green Ade": 0.187,
+    "Matcha Cloud Coconut": 0.7625,
+    "Matcha Strawberry Latte": 0.0505
+  },
+  "1-3-1-3-3": {
+    "Green Ade": 0.4669,
+    "Matcha Cloud Coconut": 0.1269,
+    "Matcha Strawberry Latte": 0.4062
+  },
+  "1-3-2-0-0": {
+    "Green Ade": 0.4566,
+    "Matcha Cloud Coconut": 0.0313,
+    "Matcha Strawberry Latte": 0.5121
+  },
+  "1-3-2-0-1": {
+    "Green Ade": 0.28,
+    "Matcha Cloud Coconut": 0.407,
+    "Matcha Strawberry Latte": 0.313
+  },
+  "1-3-2-0-2": {
+    "Green Ade": 0.6062,
+    "Matcha Cloud Coconut": 0.2685,
+    "Matcha Strawberry Latte": 0.1253
+  },
+  "1-3-2-0-3": {
+    "Green Ade": 0.4122,
+    "Matcha Cloud Coconut": 0.251,
+    "Matcha Strawberry Latte": 0.3368
+  },
+  "1-3-2-1-0": {
+    "Green Ade": 0.056,
+    "Matcha Cloud Coconut": 0.0771,
+    "Matcha Strawberry Latte": 0.8669
+  },
+  "1-3-2-1-1": {
+    "Green Ade": 0.6241,
+    "Matcha Cloud Coconut": 0.0214,
+    "Matcha Strawberry Latte": 0.3546
+  },
+  "1-3-2-1-2": {
+    "Green Ade": 0.2493,
+    "Matcha Cloud Coconut": 0.4332,
+    "Matcha Strawberry Latte": 0.3175
+  },
+  "1-3-2-1-3": {
+    "Green Ade": 0.3904,
+    "Matcha Cloud Coconut": 0.3857,
+    "Matcha Strawberry Latte": 0.2238
+  },
+  "1-3-2-2-0": {
+    "Green Ade": 0.3141,
+    "Matcha Cloud Coconut": 0.3772,
+    "Matcha Strawberry Latte": 0.3086
+  },
+  "1-3-2-2-1": {
+    "Green Ade": 0.3922,
+    "Matcha Cloud Coconut": 0.4712,
+    "Matcha Strawberry Latte": 0.1366
+  },
+  "1-3-2-2-2": {
+    "Green Ade": 0.3906,
+    "Matcha Cloud Coconut": 0.0219,
+    "Matcha Strawberry Latte": 0.5875
+  },
+  "1-3-2-2-3": {
+    "Green Ade": 0.381,
+    "Matcha Cloud Coconut": 0.0969,
+    "Matcha Strawberry Latte": 0.5221
+  },
+  "1-3-2-3-0": {
+    "Green Ade": 0.4109,
+    "Matcha Cloud Coconut": 0.1884,
+    "Matcha Strawberry Latte": 0.4007
+  },
+  "1-3-2-3-1": {
+    "Green Ade": 0.4889,
+    "Matcha Cloud Coconut": 0.3519,
+    "Matcha Strawberry Latte": 0.1591
+  },
+  "1-3-2-3-2": {
+    "Green Ade": 0.3084,
+    "Matcha Cloud Coconut": 0.4236,
+    "Matcha Strawberry Latte": 0.268
+  },
+  "1-3-2-3-3": {
+    "Green Ade": 0.4014,
+    "Matcha Cloud Coconut": 0.2656,
+    "Matcha Strawberry Latte": 0.333
+  },
+  "1-3-3-0-0": {
+    "Green Ade": 0.2616,
+    "Matcha Cloud Coconut": 0.3469,
+    "Matcha Strawberry Latte": 0.3915
+  },
+  "1-3-3-0-1": {
+    "Green Ade": 0.0892,
+    "Matcha Cloud Coconut": 0.3809,
+    "Matcha Strawberry Latte": 0.5299
+  },
+  "1-3-3-0-2": {
+    "Green Ade": 0.2033,
+    "Matcha Cloud Coconut": 0.5257,
+    "Matcha Strawberry Latte": 0.271
+  },
+  "1-3-3-0-3": {
+    "Green Ade": 0.4804,
+    "Matcha Cloud Coconut": 0.5177,
+    "Matcha Strawberry Latte": 0.0019
+  },
+  "1-3-3-1-0": {
+    "Green Ade": 0.1091,
+    "Matcha Cloud Coconut": 0.328,
+    "Matcha Strawberry Latte": 0.5629
+  },
+  "1-3-3-1-1": {
+    "Green Ade": 0.1468,
+    "Matcha Cloud Coconut": 0.4387,
+    "Matcha Strawberry Latte": 0.4145
+  },
+  "1-3-3-1-2": {
+    "Green Ade": 0.547,
+    "Matcha Cloud Coconut": 0.3518,
+    "Matcha Strawberry Latte": 0.1011
+  },
+  "1-3-3-1-3": {
+    "Green Ade": 0.3505,
+    "Matcha Cloud Coconut": 0.2722,
+    "Matcha Strawberry Latte": 0.3773
+  },
+  "1-3-3-2-0": {
+    "Green Ade": 0.3081,
+    "Matcha Cloud Coconut": 0.5771,
+    "Matcha Strawberry Latte": 0.1148
+  },
+  "1-3-3-2-1": {
+    "Green Ade": 0.4801,
+    "Matcha Cloud Coconut": 0.1368,
+    "Matcha Strawberry Latte": 0.3831
+  },
+  "1-3-3-2-2": {
+    "Green Ade": 0.606,
+    "Matcha Cloud Coconut": 0.0845,
+    "Matcha Strawberry Latte": 0.3095
+  },
+  "1-3-3-2-3": {
+    "Green Ade": 0.3367,
+    "Matcha Cloud Coconut": 0.1692,
+    "Matcha Strawberry Latte": 0.4941
+  },
+  "1-3-3-3-0": {
+    "Green Ade": 0.486,
+    "Matcha Cloud Coconut": 0.0602,
+    "Matcha Strawberry Latte": 0.4538
+  },
+  "1-3-3-3-1": {
+    "Green Ade": 0.5299,
+    "Matcha Cloud Coconut": 0.1478,
+    "Matcha Strawberry Latte": 0.3223
+  },
+  "1-3-3-3-2": {
+    "Green Ade": 0.3911,
+    "Matcha Cloud Coconut": 0.0556,
+    "Matcha Strawberry Latte": 0.5533
+  },
+  "1-3-3-3-3": {
+    "Green Ade": 0.3573,
+    "Matcha Cloud Coconut": 0.3234,
+    "Matcha Strawberry Latte": 0.3194
+  },
+  "2-0-0-0-0": {
+    "Green Ade": 0.3294,
+    "Matcha Cloud Coconut": 0.1726,
+    "Matcha Strawberry Latte": 0.498
+  },
+  "2-0-0-0-1": {
+    "Green Ade": 0.4663,
+    "Matcha Cloud Coconut": 0.1928,
+    "Matcha Strawberry Latte": 0.341
+  },
+  "2-0-0-0-2": {
+    "Green Ade": 0.5142,
+    "Matcha Cloud Coconut": 0.2688,
+    "Matcha Strawberry Latte": 0.217
+  },
+  "2-0-0-0-3": {
+    "Green Ade": 0.1818,
+    "Matcha Cloud Coconut": 0.3114,
+    "Matcha Strawberry Latte": 0.5068
+  },
+  "2-0-0-1-0": {
+    "Green Ade": 0.1331,
+    "Matcha Cloud Coconut": 0.3768,
+    "Matcha Strawberry Latte": 0.4901
+  },
+  "2-0-0-1-1": {
+    "Green Ade": 0.2479,
+    "Matcha Cloud Coconut": 0.0999,
+    "Matcha Strawberry Latte": 0.6522
+  },
+  "2-0-0-1-2": {
+    "Green Ade": 0.1527,
+    "Matcha Cloud Coconut": 0.4056,
+    "Matcha Strawberry Latte": 0.4417
+  },
+  "2-0-0-1-3": {
+    "Green Ade": 0.435,
+    "Matcha Cloud Coconut": 0.101,
+    "Matcha Strawberry Latte": 0.464
+  },
+  "2-0-0-2-0": {
+    "Green Ade": 0.4329,
+    "Matcha Cloud Coconut": 0.1527,
+    "Matcha Strawberry Latte": 0.4144
+  },
+  "2-0-0-2-1": {
+    "Green Ade": 0.8584,
+    "Matcha Cloud Coconut": 0.1177,
+    "Matcha Strawberry Latte": 0.0239
+  },
+  "2-0-0-2-2": {
+    "Green Ade": 0.2357,
+    "Matcha Cloud Coconut": 0.5314,
+    "Matcha Strawberry Latte": 0.233
+  },
+  "2-0-0-2-3": {
+    "Green Ade": 0.1403,
+    "Matcha Cloud Coconut": 0.5541,
+    "Matcha Strawberry Latte": 0.3057
+  },
+  "2-0-0-3-0": {
+    "Green Ade": 0.3149,
+    "Matcha Cloud Coconut": 0.4763,
+    "Matcha Strawberry Latte": 0.2088
+  },
+  "2-0-0-3-1": {
+    "Green Ade": 0.5467,
+    "Matcha Cloud Coconut": 0.4186,
+    "Matcha Strawberry Latte": 0.0347
+  },
+  "2-0-0-3-2": {
+    "Green Ade": 0.3102,
+    "Matcha Cloud Coconut": 0.257,
+    "Matcha Strawberry Latte": 0.4327
+  },
+  "2-0-0-3-3": {
+    "Green Ade": 0.2793,
+    "Matcha Cloud Coconut": 0.4749,
+    "Matcha Strawberry Latte": 0.2458
+  },
+  "2-0-1-0-0": {
+    "Green Ade": 0.3744,
+    "Matcha Cloud Coconut": 0.2718,
+    "Matcha Strawberry Latte": 0.3538
+  },
+  "2-0-1-0-1": {
+    "Green Ade": 0.6001,
+    "Matcha Cloud Coconut": 0.3833,
+    "Matcha Strawberry Latte": 0.0166
+  },
+  "2-0-1-0-2": {
+    "Green Ade": 0.4932,
+    "Matcha Cloud Coconut": 0.2752,
+    "Matcha Strawberry Latte": 0.2316
+  },
+  "2-0-1-0-3": {
+    "Green Ade": 0.3108,
+    "Matcha Cloud Coconut": 0.1775,
+    "Matcha Strawberry Latte": 0.5117
+  },
+  "2-0-1-1-0": {
+    "Green Ade": 0.0475,
+    "Matcha Cloud Coconut": 0.6351,
+    "Matcha Strawberry Latte": 0.3174
+  },
+  "2-0-1-1-1": {
+    "Green Ade": 0.1459,
+    "Matcha Cloud Coconut": 0.3981,
+    "Matcha Strawberry Latte": 0.456
+  },
+  "2-0-1-1-2": {
+    "Green Ade": 0.3991,
+    "Matcha Cloud Coconut": 0.1806,
+    "Matcha Strawberry Latte": 0.4202
+  },
+  "2-0-1-1-3": {
+    "Green Ade": 0.3938,
+    "Matcha Cloud Coconut": 0.0038,
+    "Matcha Strawberry Latte": 0.6024
+  },
+  "2-0-1-2-0": {
+    "Green Ade": 0.1603,
+    "Matcha Cloud Coconut": 0.628,
+    "Matcha Strawberry Latte": 0.2117
+  },
+  "2-0-1-2-1": {
+    "Green Ade": 0.479,
+    "Matcha Cloud Coconut": 0.361,
+    "Matcha Strawberry Latte": 0.16
+  },
+  "2-0-1-2-2": {
+    "Green Ade": 0.3947,
+    "Matcha Cloud Coconut": 0.0781,
+    "Matcha Strawberry Latte": 0.5272
+  },
+  "2-0-1-2-3": {
+    "Green Ade": 0.587,
+    "Matcha Cloud Coconut": 0.083,
+    "Matcha Strawberry Latte": 0.3299
+  },
+  "2-0-1-3-0": {
+    "Green Ade": 0.4959,
+    "Matcha Cloud Coconut": 0.3062,
+    "Matcha Strawberry Latte": 0.1978
+  },
+  "2-0-1-3-1": {
+    "Green Ade": 0.3909,
+    "Matcha Cloud Coconut": 0.366,
+    "Matcha Strawberry Latte": 0.2431
+  },
+  "2-0-1-3-2": {
+    "Green Ade": 0.4189,
+    "Matcha Cloud Coconut": 0.2171,
+    "Matcha Strawberry Latte": 0.364
+  },
+  "2-0-1-3-3": {
+    "Green Ade": 0.1654,
+    "Matcha Cloud Coconut": 0.2712,
+    "Matcha Strawberry Latte": 0.5634
+  },
+  "2-0-2-0-0": {
+    "Green Ade": 0.6004,
+    "Matcha Cloud Coconut": 0.3602,
+    "Matcha Strawberry Latte": 0.0394
+  },
+  "2-0-2-0-1": {
+    "Green Ade": 0.1004,
+    "Matcha Cloud Coconut": 0.5134,
+    "Matcha Strawberry Latte": 0.3862
+  },
+  "2-0-2-0-2": {
+    "Green Ade": 0.307,
+    "Matcha Cloud Coconut": 0.5268,
+    "Matcha Strawberry Latte": 0.1663
+  },
+  "2-0-2-0-3": {
+    "Green Ade": 0.5757,
+    "Matcha Cloud Coconut": 0.4169,
+    "Matcha Strawberry Latte": 0.0074
+  },
+  "2-0-2-1-0": {
+    "Green Ade": 0.1465,
+    "Matcha Cloud Coconut": 0.2488,
+    "Matcha Strawberry Latte": 0.6047
+  },
+  "2-0-2-1-1": {
+    "Green Ade": 0.1179,
+    "Matcha Cloud Coconut": 0.6848,
+    "Matcha Strawberry Latte": 0.1973
+  },
+  "2-0-2-1-2": {
+    "Green Ade": 0.345,
+    "Matcha Cloud Coconut": 0.5071,
+    "Matcha Strawberry Latte": 0.1479
+  },
+  "2-0-2-1-3": {
+    "Green Ade": 0.3473,
+    "Matcha Cloud Coconut": 0.2067,
+    "Matcha Strawberry Latte": 0.446
+  },
+  "2-0-2-2-0": {
+    "Green Ade": 0.5009,
+    "Matcha Cloud Coconut": 0.4444,
+    "Matcha Strawberry Latte": 0.0547
+  },
+  "2-0-2-2-1": {
+    "Green Ade": 0.3987,
+    "Matcha Cloud Coconut": 0.5329,
+    "Matcha Strawberry Latte": 0.0685
+  },
+  "2-0-2-2-2": {
+    "Green Ade": 0.5862,
+    "Matcha Cloud Coconut": 0.2682,
+    "Matcha Strawberry Latte": 0.1456
+  },
+  "2-0-2-2-3": {
+    "Green Ade": 0.229,
+    "Matcha Cloud Coconut": 0.2049,
+    "Matcha Strawberry Latte": 0.5662
+  },
+  "2-0-2-3-0": {
+    "Green Ade": 0.4415,
+    "Matcha Cloud Coconut": 0.1231,
+    "Matcha Strawberry Latte": 0.4354
+  },
+  "2-0-2-3-1": {
+    "Green Ade": 0.2772,
+    "Matcha Cloud Coconut": 0.4373,
+    "Matcha Strawberry Latte": 0.2855
+  },
+  "2-0-2-3-2": {
+    "Green Ade": 0.7557,
+    "Matcha Cloud Coconut": 0.0217,
+    "Matcha Strawberry Latte": 0.2227
+  },
+  "2-0-2-3-3": {
+    "Green Ade": 0.2826,
+    "Matcha Cloud Coconut": 0.525,
+    "Matcha Strawberry Latte": 0.1924
+  },
+  "2-0-3-0-0": {
+    "Green Ade": 0.522,
+    "Matcha Cloud Coconut": 0.3552,
+    "Matcha Strawberry Latte": 0.1228
+  },
+  "2-0-3-0-1": {
+    "Green Ade": 0.3049,
+    "Matcha Cloud Coconut": 0.4029,
+    "Matcha Strawberry Latte": 0.2922
+  },
+  "2-0-3-0-2": {
+    "Green Ade": 0.1314,
+    "Matcha Cloud Coconut": 0.6333,
+    "Matcha Strawberry Latte": 0.2354
+  },
+  "2-0-3-0-3": {
+    "Green Ade": 0.0228,
+    "Matcha Cloud Coconut": 0.4018,
+    "Matcha Strawberry Latte": 0.5754
+  },
+  "2-0-3-1-0": {
+    "Green Ade": 0.3124,
+    "Matcha Cloud Coconut": 0.5036,
+    "Matcha Strawberry Latte": 0.184
+  },
+  "2-0-3-1-1": {
+    "Green Ade": 0.5422,
+    "Matcha Cloud Coconut": 0.2463,
+    "Matcha Strawberry Latte": 0.2115
+  },
+  "2-0-3-1-2": {
+    "Green Ade": 0.0028,
+    "Matcha Cloud Coconut": 0.4381,
+    "Matcha Strawberry Latte": 0.5591
+  },
+  "2-0-3-1-3": {
+    "Green Ade": 0.4098,
+    "Matcha Cloud Coconut": 0.1856,
+    "Matcha Strawberry Latte": 0.4046
+  },
+  "2-0-3-2-0": {
+    "Green Ade": 0.3404,
+    "Matcha Cloud Coconut": 0.4498,
+    "Matcha Strawberry Latte": 0.2099
+  },
+  "2-0-3-2-1": {
+    "Green Ade": 0.3276,
+    "Matcha Cloud Coconut": 0.2858,
+    "Matcha Strawberry Latte": 0.3865
+  },
+  "2-0-3-2-2": {
+    "Green Ade": 0.3598,
+    "Matcha Cloud Coconut": 0.3469,
+    "Matcha Strawberry Latte": 0.2932
+  },
+  "2-0-3-2-3": {
+    "Green Ade": 0.0092,
+    "Matcha Cloud Coconut": 0.8136,
+    "Matcha Strawberry Latte": 0.1771
+  },
+  "2-0-3-3-0": {
+    "Green Ade": 0.2718,
+    "Matcha Cloud Coconut": 0.3945,
+    "Matcha Strawberry Latte": 0.3337
+  },
+  "2-0-3-3-1": {
+    "Green Ade": 0.4259,
+    "Matcha Cloud Coconut": 0.5344,
+    "Matcha Strawberry Latte": 0.0397
+  },
+  "2-0-3-3-2": {
+    "Green Ade": 0.1926,
+    "Matcha Cloud Coconut": 0.611,
+    "Matcha Strawberry Latte": 0.1965
+  },
+  "2-0-3-3-3": {
+    "Green Ade": 0.2184,
+    "Matcha Cloud Coconut": 0.4639,
+    "Matcha Strawberry Latte": 0.3177
+  },
+  "2-1-0-0-0": {
+    "Green Ade": 0.5265,
+    "Matcha Cloud Coconut": 0.204,
+    "Matcha Strawberry Latte": 0.2695
+  },
+  "2-1-0-0-1": {
+    "Green Ade": 0.1384,
+    "Matcha Cloud Coconut": 0.6076,
+    "Matcha Strawberry Latte": 0.254
+  },
+  "2-1-0-0-2": {
+    "Green Ade": 0.2249,
+    "Matcha Cloud Coconut": 0.2316,
+    "Matcha Strawberry Latte": 0.5435
+  },
+  "2-1-0-0-3": {
+    "Green Ade": 0.3253,
+    "Matcha Cloud Coconut": 0.2419,
+    "Matcha Strawberry Latte": 0.4328
+  },
+  "2-1-0-1-0": {
+    "Green Ade": 0.6592,
+    "Matcha Cloud Coconut": 0.0375,
+    "Matcha Strawberry Latte": 0.3033
+  },
+  "2-1-0-1-1": {
+    "Green Ade": 0.377,
+    "Matcha Cloud Coconut": 0.1383,
+    "Matcha Strawberry Latte": 0.4847
+  },
+  "2-1-0-1-2": {
+    "Green Ade": 0.2775,
+    "Matcha Cloud Coconut": 0.1348,
+    "Matcha Strawberry Latte": 0.5877
+  },
+  "2-1-0-1-3": {
+    "Green Ade": 0.2662,
+    "Matcha Cloud Coconut": 0.121,
+    "Matcha Strawberry Latte": 0.6128
+  },
+  "2-1-0-2-0": {
+    "Green Ade": 0.1268,
+    "Matcha Cloud Coconut": 0.4848,
+    "Matcha Strawberry Latte": 0.3885
+  },
+  "2-1-0-2-1": {
+    "Green Ade": 0.4684,
+    "Matcha Cloud Coconut": 0.1691,
+    "Matcha Strawberry Latte": 0.3625
+  },
+  "2-1-0-2-2": {
+    "Green Ade": 0.3693,
+    "Matcha Cloud Coconut": 0.2828,
+    "Matcha Strawberry Latte": 0.3478
+  },
+  "2-1-0-2-3": {
+    "Green Ade": 0.0728,
+    "Matcha Cloud Coconut": 0.3418,
+    "Matcha Strawberry Latte": 0.5854
+  },
+  "2-1-0-3-0": {
+    "Green Ade": 0.2205,
+    "Matcha Cloud Coconut": 0.1667,
+    "Matcha Strawberry Latte": 0.6128
+  },
+  "2-1-0-3-1": {
+    "Green Ade": 0.254,
+    "Matcha Cloud Coconut": 0.3277,
+    "Matcha Strawberry Latte": 0.4184
+  },
+  "2-1-0-3-2": {
+    "Green Ade": 0.2459,
+    "Matcha Cloud Coconut": 0.3814,
+    "Matcha Strawberry Latte": 0.3728
+  },
+  "2-1-0-3-3": {
+    "Green Ade": 0.3259,
+    "Matcha Cloud Coconut": 0.6649,
+    "Matcha Strawberry Latte": 0.0092
+  },
+  "2-1-1-0-0": {
+    "Green Ade": 0.1739,
+    "Matcha Cloud Coconut": 0.4375,
+    "Matcha Strawberry Latte": 0.3886
+  },
+  "2-1-1-0-1": {
+    "Green Ade": 0.1669,
+    "Matcha Cloud Coconut": 0.5934,
+    "Matcha Strawberry Latte": 0.2397
+  },
+  "2-1-1-0-2": {
+    "Green Ade": 0.4586,
+    "Matcha Cloud Coconut": 0.2294,
+    "Matcha Strawberry Latte": 0.3121
+  },
+  "2-1-1-0-3": {
+    "Green Ade": 0.5889,
+    "Matcha Cloud Coconut": 0.1357,
+    "Matcha Strawberry Latte": 0.2753
+  },
+  "2-1-1-1-0": {
+    "Green Ade": 0.4496,
+    "Matcha Cloud Coconut": 0.4327,
+    "Matcha Strawberry Latte": 0.1177
+  },
+  "2-1-1-1-1": {
+    "Green Ade": 0.114,
+    "Matcha Cloud Coconut": 0.0355,
+    "Matcha Strawberry Latte": 0.8505
+  },
+  "2-1-1-1-2": {
+    "Green Ade": 0.3436,
+    "Matcha Cloud Coconut": 0.3772,
+    "Matcha Strawberry Latte": 0.2792
+  },
+  "2-1-1-1-3": {
+    "Green Ade": 0.3593,
+    "Matcha Cloud Coconut": 0.2426,
+    "Matcha Strawberry Latte": 0.3981
+  },
+  "2-1-1-2-0": {
+    "Green Ade": 0.5468,
+    "Matcha Cloud Coconut": 0.1038,
+    "Matcha Strawberry Latte": 0.3494
+  },
+  "2-1-1-2-1": {
+    "Green Ade": 0.0887,
+    "Matcha Cloud Coconut": 0.4583,
+    "Matcha Strawberry Latte": 0.453
+  },
+  "2-1-1-2-2": {
+    "Green Ade": 0.0269,
+    "Matcha Cloud Coconut": 0.4415,
+    "Matcha Strawberry Latte": 0.5316
+  },
+  "2-1-1-2-3": {
+    "Green Ade": 0.2267,
+    "Matcha Cloud Coconut": 0.4675,
+    "Matcha Strawberry Latte": 0.3058
+  },
+  "2-1-1-3-0": {
+    "Green Ade": 0.0837,
+    "Matcha Cloud Coconut": 0.5232,
+    "Matcha Strawberry Latte": 0.3931
+  },
+  "2-1-1-3-1": {
+    "Green Ade": 0.303,
+    "Matcha Cloud Coconut": 0.4603,
+    "Matcha Strawberry Latte": 0.2368
+  },
+  "2-1-1-3-2": {
+    "Green Ade": 0.1176,
+    "Matcha Cloud Coconut": 0.4557,
+    "Matcha Strawberry Latte": 0.4268
+  },
+  "2-1-1-3-3": {
+    "Green Ade": 0.4864,
+    "Matcha Cloud Coconut": 0.2142,
+    "Matcha Strawberry Latte": 0.2994
+  },
+  "2-1-2-0-0": {
+    "Green Ade": 0.1848,
+    "Matcha Cloud Coconut": 0.4995,
+    "Matcha Strawberry Latte": 0.3157
+  },
+  "2-1-2-0-1": {
+    "Green Ade": 0.1417,
+    "Matcha Cloud Coconut": 0.734,
+    "Matcha Strawberry Latte": 0.1243
+  },
+  "2-1-2-0-2": {
+    "Green Ade": 0.3458,
+    "Matcha Cloud Coconut": 0.3204,
+    "Matcha Strawberry Latte": 0.3338
+  },
+  "2-1-2-0-3": {
+    "Green Ade": 0.6023,
+    "Matcha Cloud Coconut": 0.1084,
+    "Matcha Strawberry Latte": 0.2892
+  },
+  "2-1-2-1-0": {
+    "Green Ade": 0.4212,
+    "Matcha Cloud Coconut": 0.2498,
+    "Matcha Strawberry Latte": 0.329
+  },
+  "2-1-2-1-1": {
+    "Green Ade": 0.3273,
+    "Matcha Cloud Coconut": 0.3338,
+    "Matcha Strawberry Latte": 0.3389
+  },
+  "2-1-2-1-2": {
+    "Green Ade": 0.2777,
+    "Matcha Cloud Coconut": 0.4503,
+    "Matcha Strawberry Latte": 0.2721
+  },
+  "2-1-2-1-3": {
+    "Green Ade": 0.4823,
+    "Matcha Cloud Coconut": 0.0389,
+    "Matcha Strawberry Latte": 0.4788
+  },
+  "2-1-2-2-0": {
+    "Green Ade": 0.0624,
+    "Matcha Cloud Coconut": 0.147,
+    "Matcha Strawberry Latte": 0.7906
+  },
+  "2-1-2-2-1": {
+    "Green Ade": 0.0611,
+    "Matcha Cloud Coconut": 0.2631,
+    "Matcha Strawberry Latte": 0.6758
+  },
+  "2-1-2-2-2": {
+    "Green Ade": 0.0579,
+    "Matcha Cloud Coconut": 0.4466,
+    "Matcha Strawberry Latte": 0.4955
+  },
+  "2-1-2-2-3": {
+    "Green Ade": 0.1658,
+    "Matcha Cloud Coconut": 0.0458,
+    "Matcha Strawberry Latte": 0.7883
+  },
+  "2-1-2-3-0": {
+    "Green Ade": 0.5535,
+    "Matcha Cloud Coconut": 0.2232,
+    "Matcha Strawberry Latte": 0.2233
+  },
+  "2-1-2-3-1": {
+    "Green Ade": 0.1673,
+    "Matcha Cloud Coconut": 0.2245,
+    "Matcha Strawberry Latte": 0.6083
+  },
+  "2-1-2-3-2": {
+    "Green Ade": 0.4829,
+    "Matcha Cloud Coconut": 0.0601,
+    "Matcha Strawberry Latte": 0.457
+  },
+  "2-1-2-3-3": {
+    "Green Ade": 0.3323,
+    "Matcha Cloud Coconut": 0.5016,
+    "Matcha Strawberry Latte": 0.1661
+  },
+  "2-1-3-0-0": {
+    "Green Ade": 0.5011,
+    "Matcha Cloud Coconut": 0.2848,
+    "Matcha Strawberry Latte": 0.2141
+  },
+  "2-1-3-0-1": {
+    "Green Ade": 0.2343,
+    "Matcha Cloud Coconut": 0.6144,
+    "Matcha Strawberry Latte": 0.1513
+  },
+  "2-1-3-0-2": {
+    "Green Ade": 0.8221,
+    "Matcha Cloud Coconut": 0.1142,
+    "Matcha Strawberry Latte": 0.0637
+  },
+  "2-1-3-0-3": {
+    "Green Ade": 0.2683,
+    "Matcha Cloud Coconut": 0.627,
+    "Matcha Strawberry Latte": 0.1046
+  },
+  "2-1-3-1-0": {
+    "Green Ade": 0.1983,
+    "Matcha Cloud Coconut": 0.4671,
+    "Matcha Strawberry Latte": 0.3346
+  },
+  "2-1-3-1-1": {
+    "Green Ade": 0.7659,
+    "Matcha Cloud Coconut": 0.0005,
+    "Matcha Strawberry Latte": 0.2336
+  },
+  "2-1-3-1-2": {
+    "Green Ade": 0.283,
+    "Matcha Cloud Coconut": 0.2264,
+    "Matcha Strawberry Latte": 0.4907
+  },
+  "2-1-3-1-3": {
+    "Green Ade": 0.1686,
+    "Matcha Cloud Coconut": 0.4087,
+    "Matcha Strawberry Latte": 0.4228
+  },
+  "2-1-3-2-0": {
+    "Green Ade": 0.4985,
+    "Matcha Cloud Coconut": 0.2412,
+    "Matcha Strawberry Latte": 0.2603
+  },
+  "2-1-3-2-1": {
+    "Green Ade": 0.0107,
+    "Matcha Cloud Coconut": 0.9822,
+    "Matcha Strawberry Latte": 0.0071
+  },
+  "2-1-3-2-2": {
+    "Green Ade": 0.0357,
+    "Matcha Cloud Coconut": 0.3949,
+    "Matcha Strawberry Latte": 0.5694
+  },
+  "2-1-3-2-3": {
+    "Green Ade": 0.4288,
+    "Matcha Cloud Coconut": 0.522,
+    "Matcha Strawberry Latte": 0.0492
+  },
+  "2-1-3-3-0": {
+    "Green Ade": 0.3961,
+    "Matcha Cloud Coconut": 0.3953,
+    "Matcha Strawberry Latte": 0.2086
+  },
+  "2-1-3-3-1": {
+    "Green Ade": 0.5313,
+    "Matcha Cloud Coconut": 0.3264,
+    "Matcha Strawberry Latte": 0.1424
+  },
+  "2-1-3-3-2": {
+    "Green Ade": 0.0501,
+    "Matcha Cloud Coconut": 0.3158,
+    "Matcha Strawberry Latte": 0.6342
+  },
+  "2-1-3-3-3": {
+    "Green Ade": 0.0431,
+    "Matcha Cloud Coconut": 0.3968,
+    "Matcha Strawberry Latte": 0.5601
+  },
+  "2-2-0-0-0": {
+    "Green Ade": 0.0732,
+    "Matcha Cloud Coconut": 0.2652,
+    "Matcha Strawberry Latte": 0.6616
+  },
+  "2-2-0-0-1": {
+    "Green Ade": 0.4391,
+    "Matcha Cloud Coconut": 0.219,
+    "Matcha Strawberry Latte": 0.3419
+  },
+  "2-2-0-0-2": {
+    "Green Ade": 0.3296,
+    "Matcha Cloud Coconut": 0.3519,
+    "Matcha Strawberry Latte": 0.3185
+  },
+  "2-2-0-0-3": {
+    "Green Ade": 0.6842,
+    "Matcha Cloud Coconut": 0.0245,
+    "Matcha Strawberry Latte": 0.2914
+  },
+  "2-2-0-1-0": {
+    "Green Ade": 0.6333,
+    "Matcha Cloud Coconut": 0.1615,
+    "Matcha Strawberry Latte": 0.2053
+  },
+  "2-2-0-1-1": {
+    "Green Ade": 0.4343,
+    "Matcha Cloud Coconut": 0.4594,
+    "Matcha Strawberry Latte": 0.1064
+  },
+  "2-2-0-1-2": {
+    "Green Ade": 0.473,
+    "Matcha Cloud Coconut": 0.0143,
+    "Matcha Strawberry Latte": 0.5127
+  },
+  "2-2-0-1-3": {
+    "Green Ade": 0.2826,
+    "Matcha Cloud Coconut": 0.4562,
+    "Matcha Strawberry Latte": 0.2613
+  },
+  "2-2-0-2-0": {
+    "Green Ade": 0.2967,
+    "Matcha Cloud Coconut": 0.0247,
+    "Matcha Strawberry Latte": 0.6786
+  },
+  "2-2-0-2-1": {
+    "Green Ade": 0.3849,
+    "Matcha Cloud Coconut": 0.2195,
+    "Matcha Strawberry Latte": 0.3956
+  },
+  "2-2-0-2-2": {
+    "Green Ade": 0.2323,
+    "Matcha Cloud Coconut": 0.4113,
+    "Matcha Strawberry Latte": 0.3564
+  },
+  "2-2-0-2-3": {
+    "Green Ade": 0.2562,
+    "Matcha Cloud Coconut": 0.4882,
+    "Matcha Strawberry Latte": 0.2556
+  },
+  "2-2-0-3-0": {
+    "Green Ade": 0.3689,
+    "Matcha Cloud Coconut": 0.4263,
+    "Matcha Strawberry Latte": 0.2048
+  },
+  "2-2-0-3-1": {
+    "Green Ade": 0.1594,
+    "Matcha Cloud Coconut": 0.506,
+    "Matcha Strawberry Latte": 0.3346
+  },
+  "2-2-0-3-2": {
+    "Green Ade": 0.7253,
+    "Matcha Cloud Coconut": 0.1652,
+    "Matcha Strawberry Latte": 0.1095
+  },
+  "2-2-0-3-3": {
+    "Green Ade": 0.399,
+    "Matcha Cloud Coconut": 0.441,
+    "Matcha Strawberry Latte": 0.1599
+  },
+  "2-2-1-0-0": {
+    "Green Ade": 0.877,
+    "Matcha Cloud Coconut": 0.1066,
+    "Matcha Strawberry Latte": 0.0164
+  },
+  "2-2-1-0-1": {
+    "Green Ade": 0.086,
+    "Matcha Cloud Coconut": 0.8118,
+    "Matcha Strawberry Latte": 0.1022
+  },
+  "2-2-1-0-2": {
+    "Green Ade": 0.1824,
+    "Matcha Cloud Coconut": 0.656,
+    "Matcha Strawberry Latte": 0.1617
+  },
+  "2-2-1-0-3": {
+    "Green Ade": 0.1367,
+    "Matcha Cloud Coconut": 0.2152,
+    "Matcha Strawberry Latte": 0.6481
+  },
+  "2-2-1-1-0": {
+    "Green Ade": 0.3795,
+    "Matcha Cloud Coconut": 0.3786,
+    "Matcha Strawberry Latte": 0.2419
+  },
+  "2-2-1-1-1": {
+    "Green Ade": 0.3218,
+    "Matcha Cloud Coconut": 0.2617,
+    "Matcha Strawberry Latte": 0.4165
+  },
+  "2-2-1-1-2": {
+    "Green Ade": 0.3847,
+    "Matcha Cloud Coconut": 0.1598,
+    "Matcha Strawberry Latte": 0.4555
+  },
+  "2-2-1-1-3": {
+    "Green Ade": 0.1764,
+    "Matcha Cloud Coconut": 0.423,
+    "Matcha Strawberry Latte": 0.4006
+  },
+  "2-2-1-2-0": {
+    "Green Ade": 0.2571,
+    "Matcha Cloud Coconut": 0.6979,
+    "Matcha Strawberry Latte": 0.045
+  },
+  "2-2-1-2-1": {
+    "Green Ade": 0.1597,
+    "Matcha Cloud Coconut": 0.4927,
+    "Matcha Strawberry Latte": 0.3477
+  },
+  "2-2-1-2-2": {
+    "Green Ade": 0.4507,
+    "Matcha Cloud Coconut": 0.3629,
+    "Matcha Strawberry Latte": 0.1864
+  },
+  "2-2-1-2-3": {
+    "Green Ade": 0.5063,
+    "Matcha Cloud Coconut": 0.1462,
+    "Matcha Strawberry Latte": 0.3475
+  },
+  "2-2-1-3-0": {
+    "Green Ade": 0.29,
+    "Matcha Cloud Coconut": 0.2151,
+    "Matcha Strawberry Latte": 0.4949
+  },
+  "2-2-1-3-1": {
+    "Green Ade": 0.3649,
+    "Matcha Cloud Coconut": 0.2776,
+    "Matcha Strawberry Latte": 0.3575
+  },
+  "2-2-1-3-2": {
+    "Green Ade": 0.2032,
+    "Matcha Cloud Coconut": 0.3673,
+    "Matcha Strawberry Latte": 0.4294
+  },
+  "2-2-1-3-3": {
+    "Green Ade": 0.4582,
+    "Matcha Cloud Coconut": 0.3491,
+    "Matcha Strawberry Latte": 0.1928
+  },
+  "2-2-2-0-0": {
+    "Green Ade": 0.4981,
+    "Matcha Cloud Coconut": 0.1814,
+    "Matcha Strawberry Latte": 0.3205
+  },
+  "2-2-2-0-1": {
+    "Green Ade": 0.4879,
+    "Matcha Cloud Coconut": 0.1036,
+    "Matcha Strawberry Latte": 0.4086
+  },
+  "2-2-2-0-2": {
+    "Green Ade": 0.4033,
+    "Matcha Cloud Coconut": 0.1847,
+    "Matcha Strawberry Latte": 0.412
+  },
+  "2-2-2-0-3": {
+    "Green Ade": 0.6774,
+    "Matcha Cloud Coconut": 0.3162,
+    "Matcha Strawberry Latte": 0.0065
+  },
+  "2-2-2-1-0": {
+    "Green Ade": 0.2116,
+    "Matcha Cloud Coconut": 0.3287,
+    "Matcha Strawberry Latte": 0.4597
+  },
+  "2-2-2-1-1": {
+    "Green Ade": 0.3069,
+    "Matcha Cloud Coconut": 0.2822,
+    "Matcha Strawberry Latte": 0.4109
+  },
+  "2-2-2-1-2": {
+    "Green Ade": 0.3384,
+    "Matcha Cloud Coconut": 0.0967,
+    "Matcha Strawberry Latte": 0.5649
+  },
+  "2-2-2-1-3": {
+    "Green Ade": 0.1359,
+    "Matcha Cloud Coconut": 0.4679,
+    "Matcha Strawberry Latte": 0.3962
+  },
+  "2-2-2-2-0": {
+    "Green Ade": 0.3995,
+    "Matcha Cloud Coconut": 0.3158,
+    "Matcha Strawberry Latte": 0.2847
+  },
+  "2-2-2-2-1": {
+    "Green Ade": 0.0686,
+    "Matcha Cloud Coconut": 0.724,
+    "Matcha Strawberry Latte": 0.2074
+  },
+  "2-2-2-2-2": {
+    "Green Ade": 0.3042,
+    "Matcha Cloud Coconut": 0.3853,
+    "Matcha Strawberry Latte": 0.3105
+  },
+  "2-2-2-2-3": {
+    "Green Ade": 0.4499,
+    "Matcha Cloud Coconut": 0.2387,
+    "Matcha Strawberry Latte": 0.3114
+  },
+  "2-2-2-3-0": {
+    "Green Ade": 0.3835,
+    "Matcha Cloud Coconut": 0.4635,
+    "Matcha Strawberry Latte": 0.1529
+  },
+  "2-2-2-3-1": {
+    "Green Ade": 0.2409,
+    "Matcha Cloud Coconut": 0.7508,
+    "Matcha Strawberry Latte": 0.0084
+  },
+  "2-2-2-3-2": {
+    "Green Ade": 0.4653,
+    "Matcha Cloud Coconut": 0.1579,
+    "Matcha Strawberry Latte": 0.3768
+  },
+  "2-2-2-3-3": {
+    "Green Ade": 0.7948,
+    "Matcha Cloud Coconut": 0.1101,
+    "Matcha Strawberry Latte": 0.095
+  },
+  "2-2-3-0-0": {
+    "Green Ade": 0.511,
+    "Matcha Cloud Coconut": 0.377,
+    "Matcha Strawberry Latte": 0.112
+  },
+  "2-2-3-0-1": {
+    "Green Ade": 0.3279,
+    "Matcha Cloud Coconut": 0.3188,
+    "Matcha Strawberry Latte": 0.3533
+  },
+  "2-2-3-0-2": {
+    "Green Ade": 0.4255,
+    "Matcha Cloud Coconut": 0.0552,
+    "Matcha Strawberry Latte": 0.5193
+  },
+  "2-2-3-0-3": {
+    "Green Ade": 0.0535,
+    "Matcha Cloud Coconut": 0.9373,
+    "Matcha Strawberry Latte": 0.0092
+  },
+  "2-2-3-1-0": {
+    "Green Ade": 0.5699,
+    "Matcha Cloud Coconut": 0.0776,
+    "Matcha Strawberry Latte": 0.3525
+  },
+  "2-2-3-1-1": {
+    "Green Ade": 0.1666,
+    "Matcha Cloud Coconut": 0.2029,
+    "Matcha Strawberry Latte": 0.6304
+  },
+  "2-2-3-1-2": {
+    "Green Ade": 0.6089,
+    "Matcha Cloud Coconut": 0.1749,
+    "Matcha Strawberry Latte": 0.2162
+  },
+  "2-2-3-1-3": {
+    "Green Ade": 0.1506,
+    "Matcha Cloud Coconut": 0.5295,
+    "Matcha Strawberry Latte": 0.32
+  },
+  "2-2-3-2-0": {
+    "Green Ade": 0.1212,
+    "Matcha Cloud Coconut": 0.4775,
+    "Matcha Strawberry Latte": 0.4013
+  },
+  "2-2-3-2-1": {
+    "Green Ade": 0.2159,
+    "Matcha Cloud Coconut": 0.4755,
+    "Matcha Strawberry Latte": 0.3086
+  },
+  "2-2-3-2-2": {
+    "Green Ade": 0.2295,
+    "Matcha Cloud Coconut": 0.2999,
+    "Matcha Strawberry Latte": 0.4706
+  },
+  "2-2-3-2-3": {
+    "Green Ade": 0.2667,
+    "Matcha Cloud Coconut": 0.4266,
+    "Matcha Strawberry Latte": 0.3067
+  },
+  "2-2-3-3-0": {
+    "Green Ade": 0.0045,
+    "Matcha Cloud Coconut": 0.466,
+    "Matcha Strawberry Latte": 0.5295
+  },
+  "2-2-3-3-1": {
+    "Green Ade": 0.0671,
+    "Matcha Cloud Coconut": 0.5831,
+    "Matcha Strawberry Latte": 0.3498
+  },
+  "2-2-3-3-2": {
+    "Green Ade": 0.5082,
+    "Matcha Cloud Coconut": 0.0658,
+    "Matcha Strawberry Latte": 0.426
+  },
+  "2-2-3-3-3": {
+    "Green Ade": 0.0268,
+    "Matcha Cloud Coconut": 0.4308,
+    "Matcha Strawberry Latte": 0.5424
+  },
+  "2-3-0-0-0": {
+    "Green Ade": 0.6193,
+    "Matcha Cloud Coconut": 0.006,
+    "Matcha Strawberry Latte": 0.3747
+  },
+  "2-3-0-0-1": {
+    "Green Ade": 0.0221,
+    "Matcha Cloud Coconut": 0.9709,
+    "Matcha Strawberry Latte": 0.007
+  },
+  "2-3-0-0-2": {
+    "Green Ade": 0.0497,
+    "Matcha Cloud Coconut": 0.474,
+    "Matcha Strawberry Latte": 0.4764
+  },
+  "2-3-0-0-3": {
+    "Green Ade": 0.5836,
+    "Matcha Cloud Coconut": 0.3766,
+    "Matcha Strawberry Latte": 0.0398
+  },
+  "2-3-0-1-0": {
+    "Green Ade": 0.2538,
+    "Matcha Cloud Coconut": 0.4336,
+    "Matcha Strawberry Latte": 0.3126
+  },
+  "2-3-0-1-1": {
+    "Green Ade": 0.3036,
+    "Matcha Cloud Coconut": 0.3776,
+    "Matcha Strawberry Latte": 0.3188
+  },
+  "2-3-0-1-2": {
+    "Green Ade": 0.3355,
+    "Matcha Cloud Coconut": 0.5793,
+    "Matcha Strawberry Latte": 0.0852
+  },
+  "2-3-0-1-3": {
+    "Green Ade": 0.4553,
+    "Matcha Cloud Coconut": 0.0913,
+    "Matcha Strawberry Latte": 0.4534
+  },
+  "2-3-0-2-0": {
+    "Green Ade": 0.4271,
+    "Matcha Cloud Coconut": 0.2557,
+    "Matcha Strawberry Latte": 0.3171
+  },
+  "2-3-0-2-1": {
+    "Green Ade": 0.4194,
+    "Matcha Cloud Coconut": 0.2162,
+    "Matcha Strawberry Latte": 0.3644
+  },
+  "2-3-0-2-2": {
+    "Green Ade": 0.0844,
+    "Matcha Cloud Coconut": 0.4153,
+    "Matcha Strawberry Latte": 0.5003
+  },
+  "2-3-0-2-3": {
+    "Green Ade": 0.2243,
+    "Matcha Cloud Coconut": 0.3599,
+    "Matcha Strawberry Latte": 0.4158
+  },
+  "2-3-0-3-0": {
+    "Green Ade": 0.0724,
+    "Matcha Cloud Coconut": 0.828,
+    "Matcha Strawberry Latte": 0.0996
+  },
+  "2-3-0-3-1": {
+    "Green Ade": 0.2251,
+    "Matcha Cloud Coconut": 0.7016,
+    "Matcha Strawberry Latte": 0.0733
+  },
+  "2-3-0-3-2": {
+    "Green Ade": 0.3758,
+    "Matcha Cloud Coconut": 0.2212,
+    "Matcha Strawberry Latte": 0.403
+  },
+  "2-3-0-3-3": {
+    "Green Ade": 0.3618,
+    "Matcha Cloud Coconut": 0.6276,
+    "Matcha Strawberry Latte": 0.0106
+  },
+  "2-3-1-0-0": {
+    "Green Ade": 0.401,
+    "Matcha Cloud Coconut": 0.1326,
+    "Matcha Strawberry Latte": 0.4664
+  },
+  "2-3-1-0-1": {
+    "Green Ade": 0.3675,
+    "Matcha Cloud Coconut": 0.3195,
+    "Matcha Strawberry Latte": 0.313
+  },
+  "2-3-1-0-2": {
+    "Green Ade": 0.5759,
+    "Matcha Cloud Coconut": 0.2265,
+    "Matcha Strawberry Latte": 0.1976
+  },
+  "2-3-1-0-3": {
+    "Green Ade": 0.3223,
+    "Matcha Cloud Coconut": 0.2351,
+    "Matcha Strawberry Latte": 0.4426
+  },
+  "2-3-1-1-0": {
+    "Green Ade": 0.2523,
+    "Matcha Cloud Coconut": 0.3865,
+    "Matcha Strawberry Latte": 0.3612
+  },
+  "2-3-1-1-1": {
+    "Green Ade": 0.0587,
+    "Matcha Cloud Coconut": 0.4863,
+    "Matcha Strawberry Latte": 0.455
+  },
+  "2-3-1-1-2": {
+    "Green Ade": 0.5721,
+    "Matcha Cloud Coconut": 0.2003,
+    "Matcha Strawberry Latte": 0.2276
+  },
+  "2-3-1-1-3": {
+    "Green Ade": 0.829,
+    "Matcha Cloud Coconut": 0.0698,
+    "Matcha Strawberry Latte": 0.1012
+  },
+  "2-3-1-2-0": {
+    "Green Ade": 0.5283,
+    "Matcha Cloud Coconut": 0.3354,
+    "Matcha Strawberry Latte": 0.1363
+  },
+  "2-3-1-2-1": {
+    "Green Ade": 0.3764,
+    "Matcha Cloud Coconut": 0.4039,
+    "Matcha Strawberry Latte": 0.2197
+  },
+  "2-3-1-2-2": {
+    "Green Ade": 0.3349,
+    "Matcha Cloud Coconut": 0.4615,
+    "Matcha Strawberry Latte": 0.2036
+  },
+  "2-3-1-2-3": {
+    "Green Ade": 0.3969,
+    "Matcha Cloud Coconut": 0.2666,
+    "Matcha Strawberry Latte": 0.3365
+  },
+  "2-3-1-3-0": {
+    "Green Ade": 0.4525,
+    "Matcha Cloud Coconut": 0.2639,
+    "Matcha Strawberry Latte": 0.2836
+  },
+  "2-3-1-3-1": {
+    "Green Ade": 0.0746,
+    "Matcha Cloud Coconut": 0.7829,
+    "Matcha Strawberry Latte": 0.1425
+  },
+  "2-3-1-3-2": {
+    "Green Ade": 0.2724,
+    "Matcha Cloud Coconut": 0.0639,
+    "Matcha Strawberry Latte": 0.6637
+  },
+  "2-3-1-3-3": {
+    "Green Ade": 0.0732,
+    "Matcha Cloud Coconut": 0.6718,
+    "Matcha Strawberry Latte": 0.2549
+  },
+  "2-3-2-0-0": {
+    "Green Ade": 0.0611,
+    "Matcha Cloud Coconut": 0.4844,
+    "Matcha Strawberry Latte": 0.4545
+  },
+  "2-3-2-0-1": {
+    "Green Ade": 0.427,
+    "Matcha Cloud Coconut": 0.1553,
+    "Matcha Strawberry Latte": 0.4177
+  },
+  "2-3-2-0-2": {
+    "Green Ade": 0.5328,
+    "Matcha Cloud Coconut": 0.0409,
+    "Matcha Strawberry Latte": 0.4262
+  },
+  "2-3-2-0-3": {
+    "Green Ade": 0.223,
+    "Matcha Cloud Coconut": 0.3982,
+    "Matcha Strawberry Latte": 0.3788
+  },
+  "2-3-2-1-0": {
+    "Green Ade": 0.1708,
+    "Matcha Cloud Coconut": 0.4158,
+    "Matcha Strawberry Latte": 0.4134
+  },
+  "2-3-2-1-1": {
+    "Green Ade": 0.5512,
+    "Matcha Cloud Coconut": 0.4354,
+    "Matcha Strawberry Latte": 0.0134
+  },
+  "2-3-2-1-2": {
+    "Green Ade": 0.202,
+    "Matcha Cloud Coconut": 0.1017,
+    "Matcha Strawberry Latte": 0.6963
+  },
+  "2-3-2-1-3": {
+    "Green Ade": 0.7706,
+    "Matcha Cloud Coconut": 0.1034,
+    "Matcha Strawberry Latte": 0.126
+  },
+  "2-3-2-2-0": {
+    "Green Ade": 0.4079,
+    "Matcha Cloud Coconut": 0.365,
+    "Matcha Strawberry Latte": 0.2271
+  },
+  "2-3-2-2-1": {
+    "Green Ade": 0.2005,
+    "Matcha Cloud Coconut": 0.4823,
+    "Matcha Strawberry Latte": 0.3172
+  },
+  "2-3-2-2-2": {
+    "Green Ade": 0.2454,
+    "Matcha Cloud Coconut": 0.1718,
+    "Matcha Strawberry Latte": 0.5828
+  },
+  "2-3-2-2-3": {
+    "Green Ade": 0.235,
+    "Matcha Cloud Coconut": 0.5126,
+    "Matcha Strawberry Latte": 0.2524
+  },
+  "2-3-2-3-0": {
+    "Green Ade": 0.3717,
+    "Matcha Cloud Coconut": 0.0988,
+    "Matcha Strawberry Latte": 0.5295
+  },
+  "2-3-2-3-1": {
+    "Green Ade": 0.4202,
+    "Matcha Cloud Coconut": 0.4217,
+    "Matcha Strawberry Latte": 0.1581
+  },
+  "2-3-2-3-2": {
+    "Green Ade": 0.1426,
+    "Matcha Cloud Coconut": 0.4349,
+    "Matcha Strawberry Latte": 0.4224
+  },
+  "2-3-2-3-3": {
+    "Green Ade": 0.4153,
+    "Matcha Cloud Coconut": 0.5756,
+    "Matcha Strawberry Latte": 0.0091
+  },
+  "2-3-3-0-0": {
+    "Green Ade": 0.0669,
+    "Matcha Cloud Coconut": 0.2369,
+    "Matcha Strawberry Latte": 0.6962
+  },
+  "2-3-3-0-1": {
+    "Green Ade": 0.3303,
+    "Matcha Cloud Coconut": 0.1633,
+    "Matcha Strawberry Latte": 0.5064
+  },
+  "2-3-3-0-2": {
+    "Green Ade": 0.4262,
+    "Matcha Cloud Coconut": 0.2938,
+    "Matcha Strawberry Latte": 0.28
+  },
+  "2-3-3-0-3": {
+    "Green Ade": 0.3667,
+    "Matcha Cloud Coconut": 0.2129,
+    "Matcha Strawberry Latte": 0.4204
+  },
+  "2-3-3-1-0": {
+    "Green Ade": 0.3801,
+    "Matcha Cloud Coconut": 0.1765,
+    "Matcha Strawberry Latte": 0.4433
+  },
+  "2-3-3-1-1": {
+    "Green Ade": 0.2029,
+    "Matcha Cloud Coconut": 0.1293,
+    "Matcha Strawberry Latte": 0.6678
+  },
+  "2-3-3-1-2": {
+    "Green Ade": 0.0687,
+    "Matcha Cloud Coconut": 0.3608,
+    "Matcha Strawberry Latte": 0.5706
+  },
+  "2-3-3-1-3": {
+    "Green Ade": 0.0806,
+    "Matcha Cloud Coconut": 0.5766,
+    "Matcha Strawberry Latte": 0.3428
+  },
+  "2-3-3-2-0": {
+    "Green Ade": 0.0556,
+    "Matcha Cloud Coconut": 0.5764,
+    "Matcha Strawberry Latte": 0.368
+  },
+  "2-3-3-2-1": {
+    "Green Ade": 0.4256,
+    "Matcha Cloud Coconut": 0.4626,
+    "Matcha Strawberry Latte": 0.1118
+  },
+  "2-3-3-2-2": {
+    "Green Ade": 0.3281,
+    "Matcha Cloud Coconut": 0.0758,
+    "Matcha Strawberry Latte": 0.5962
+  },
+  "2-3-3-2-3": {
+    "Green Ade": 0.0821,
+    "Matcha Cloud Coconut": 0.2487,
+    "Matcha Strawberry Latte": 0.6692
+  },
+  "2-3-3-3-0": {
+    "Green Ade": 0.193,
+    "Matcha Cloud Coconut": 0.4188,
+    "Matcha Strawberry Latte": 0.3882
+  },
+  "2-3-3-3-1": {
+    "Green Ade": 0.1532,
+    "Matcha Cloud Coconut": 0.2731,
+    "Matcha Strawberry Latte": 0.5736
+  },
+  "2-3-3-3-2": {
+    "Green Ade": 0.1662,
+    "Matcha Cloud Coconut": 0.6927,
+    "Matcha Strawberry Latte": 0.1411
+  },
+  "2-3-3-3-3": {
+    "Green Ade": 0.2475,
+    "Matcha Cloud Coconut": 0.288,
+    "Matcha Strawberry Latte": 0.4645
+  },
+  "3-0-0-0-0": {
+    "Green Ade": 0.2351,
+    "Matcha Cloud Coconut": 0.4423,
+    "Matcha Strawberry Latte": 0.3227
+  },
+  "3-0-0-0-1": {
+    "Green Ade": 0.4928,
+    "Matcha Cloud Coconut": 0.4133,
+    "Matcha Strawberry Latte": 0.094
+  },
+  "3-0-0-0-2": {
+    "Green Ade": 0.5393,
+    "Matcha Cloud Coconut": 0.1497,
+    "Matcha Strawberry Latte": 0.311
+  },
+  "3-0-0-0-3": {
+    "Green Ade": 0.2452,
+    "Matcha Cloud Coconut": 0.6882,
+    "Matcha Strawberry Latte": 0.0666
+  },
+  "3-0-0-1-0": {
+    "Green Ade": 0.369,
+    "Matcha Cloud Coconut": 0.3311,
+    "Matcha Strawberry Latte": 0.2999
+  },
+  "3-0-0-1-1": {
+    "Green Ade": 0.1262,
+    "Matcha Cloud Coconut": 0.5037,
+    "Matcha Strawberry Latte": 0.3701
+  },
+  "3-0-0-1-2": {
+    "Green Ade": 0.4288,
+    "Matcha Cloud Coconut": 0.4004,
+    "Matcha Strawberry Latte": 0.1708
+  },
+  "3-0-0-1-3": {
+    "Green Ade": 0.4148,
+    "Matcha Cloud Coconut": 0.2344,
+    "Matcha Strawberry Latte": 0.3507
+  },
+  "3-0-0-2-0": {
+    "Green Ade": 0.3951,
+    "Matcha Cloud Coconut": 0.5484,
+    "Matcha Strawberry Latte": 0.0565
+  },
+  "3-0-0-2-1": {
+    "Green Ade": 0.2618,
+    "Matcha Cloud Coconut": 0.6265,
+    "Matcha Strawberry Latte": 0.1117
+  },
+  "3-0-0-2-2": {
+    "Green Ade": 0.3333,
+    "Matcha Cloud Coconut": 0.3241,
+    "Matcha Strawberry Latte": 0.3425
+  },
+  "3-0-0-2-3": {
+    "Green Ade": 0.3412,
+    "Matcha Cloud Coconut": 0.2699,
+    "Matcha Strawberry Latte": 0.3889
+  },
+  "3-0-0-3-0": {
+    "Green Ade": 0.348,
+    "Matcha Cloud Coconut": 0.4882,
+    "Matcha Strawberry Latte": 0.1638
+  },
+  "3-0-0-3-1": {
+    "Green Ade": 0.0914,
+    "Matcha Cloud Coconut": 0.5041,
+    "Matcha Strawberry Latte": 0.4045
+  },
+  "3-0-0-3-2": {
+    "Green Ade": 0.2298,
+    "Matcha Cloud Coconut": 0.4283,
+    "Matcha Strawberry Latte": 0.3418
+  },
+  "3-0-0-3-3": {
+    "Green Ade": 0.521,
+    "Matcha Cloud Coconut": 0.314,
+    "Matcha Strawberry Latte": 0.165
+  },
+  "3-0-1-0-0": {
+    "Green Ade": 0.5892,
+    "Matcha Cloud Coconut": 0.2194,
+    "Matcha Strawberry Latte": 0.1914
+  },
+  "3-0-1-0-1": {
+    "Green Ade": 0.1769,
+    "Matcha Cloud Coconut": 0.0238,
+    "Matcha Strawberry Latte": 0.7992
+  },
+  "3-0-1-0-2": {
+    "Green Ade": 0.2244,
+    "Matcha Cloud Coconut": 0.712,
+    "Matcha Strawberry Latte": 0.0637
+  },
+  "3-0-1-0-3": {
+    "Green Ade": 0.3585,
+    "Matcha Cloud Coconut": 0.3599,
+    "Matcha Strawberry Latte": 0.2815
+  },
+  "3-0-1-1-0": {
+    "Green Ade": 0.3738,
+    "Matcha Cloud Coconut": 0.2802,
+    "Matcha Strawberry Latte": 0.3461
+  },
+  "3-0-1-1-1": {
+    "Green Ade": 0.0483,
+    "Matcha Cloud Coconut": 0.2384,
+    "Matcha Strawberry Latte": 0.7133
+  },
+  "3-0-1-1-2": {
+    "Green Ade": 0.1878,
+    "Matcha Cloud Coconut": 0.3904,
+    "Matcha Strawberry Latte": 0.4217
+  },
+  "3-0-1-1-3": {
+    "Green Ade": 0.5143,
+    "Matcha Cloud Coconut": 0.3897,
+    "Matcha Strawberry Latte": 0.096
+  },
+  "3-0-1-2-0": {
+    "Green Ade": 0.216,
+    "Matcha Cloud Coconut": 0.4255,
+    "Matcha Strawberry Latte": 0.3586
+  },
+  "3-0-1-2-1": {
+    "Green Ade": 0.2464,
+    "Matcha Cloud Coconut": 0.5203,
+    "Matcha Strawberry Latte": 0.2333
+  },
+  "3-0-1-2-2": {
+    "Green Ade": 0.0268,
+    "Matcha Cloud Coconut": 0.3931,
+    "Matcha Strawberry Latte": 0.58
+  },
+  "3-0-1-2-3": {
+    "Green Ade": 0.2613,
+    "Matcha Cloud Coconut": 0.4193,
+    "Matcha Strawberry Latte": 0.3194
+  },
+  "3-0-1-3-0": {
+    "Green Ade": 0.46,
+    "Matcha Cloud Coconut": 0.0503,
+    "Matcha Strawberry Latte": 0.4897
+  },
+  "3-0-1-3-1": {
+    "Green Ade": 0.4529,
+    "Matcha Cloud Coconut": 0.4463,
+    "Matcha Strawberry Latte": 0.1008
+  },
+  "3-0-1-3-2": {
+    "Green Ade": 0.2963,
+    "Matcha Cloud Coconut": 0.463,
+    "Matcha Strawberry Latte": 0.2408
+  },
+  "3-0-1-3-3": {
+    "Green Ade": 0.3566,
+    "Matcha Cloud Coconut": 0.4087,
+    "Matcha Strawberry Latte": 0.2346
+  },
+  "3-0-2-0-0": {
+    "Green Ade": 0.5154,
+    "Matcha Cloud Coconut": 0.2397,
+    "Matcha Strawberry Latte": 0.2449
+  },
+  "3-0-2-0-1": {
+    "Green Ade": 0.2418,
+    "Matcha Cloud Coconut": 0.2497,
+    "Matcha Strawberry Latte": 0.5085
+  },
+  "3-0-2-0-2": {
+    "Green Ade": 0.3391,
+    "Matcha Cloud Coconut": 0.3728,
+    "Matcha Strawberry Latte": 0.2881
+  },
+  "3-0-2-0-3": {
+    "Green Ade": 0.6342,
+    "Matcha Cloud Coconut": 0.2988,
+    "Matcha Strawberry Latte": 0.067
+  },
+  "3-0-2-1-0": {
+    "Green Ade": 0.2173,
+    "Matcha Cloud Coconut": 0.6937,
+    "Matcha Strawberry Latte": 0.0889
+  },
+  "3-0-2-1-1": {
+    "Green Ade": 0.2942,
+    "Matcha Cloud Coconut": 0.3164,
+    "Matcha Strawberry Latte": 0.3894
+  },
+  "3-0-2-1-2": {
+    "Green Ade": 0.656,
+    "Matcha Cloud Coconut": 0.2877,
+    "Matcha Strawberry Latte": 0.0562
+  },
+  "3-0-2-1-3": {
+    "Green Ade": 0.4787,
+    "Matcha Cloud Coconut": 0.3471,
+    "Matcha Strawberry Latte": 0.1742
+  },
+  "3-0-2-2-0": {
+    "Green Ade": 0.1738,
+    "Matcha Cloud Coconut": 0.5583,
+    "Matcha Strawberry Latte": 0.2679
+  },
+  "3-0-2-2-1": {
+    "Green Ade": 0.1471,
+    "Matcha Cloud Coconut": 0.6076,
+    "Matcha Strawberry Latte": 0.2453
+  },
+  "3-0-2-2-2": {
+    "Green Ade": 0.6745,
+    "Matcha Cloud Coconut": 0.2492,
+    "Matcha Strawberry Latte": 0.0764
+  },
+  "3-0-2-2-3": {
+    "Green Ade": 0.2345,
+    "Matcha Cloud Coconut": 0.4781,
+    "Matcha Strawberry Latte": 0.2874
+  },
+  "3-0-2-3-0": {
+    "Green Ade": 0.0963,
+    "Matcha Cloud Coconut": 0.4766,
+    "Matcha Strawberry Latte": 0.4271
+  },
+  "3-0-2-3-1": {
+    "Green Ade": 0.2887,
+    "Matcha Cloud Coconut": 0.3644,
+    "Matcha Strawberry Latte": 0.3469
+  },
+  "3-0-2-3-2": {
+    "Green Ade": 0.3397,
+    "Matcha Cloud Coconut": 0.5917,
+    "Matcha Strawberry Latte": 0.0686
+  },
+  "3-0-2-3-3": {
+    "Green Ade": 0.075,
+    "Matcha Cloud Coconut": 0.1439,
+    "Matcha Strawberry Latte": 0.7811
+  },
+  "3-0-3-0-0": {
+    "Green Ade": 0.694,
+    "Matcha Cloud Coconut": 0.0095,
+    "Matcha Strawberry Latte": 0.2965
+  },
+  "3-0-3-0-1": {
+    "Green Ade": 0.056,
+    "Matcha Cloud Coconut": 0.3687,
+    "Matcha Strawberry Latte": 0.5753
+  },
+  "3-0-3-0-2": {
+    "Green Ade": 0.4461,
+    "Matcha Cloud Coconut": 0.5295,
+    "Matcha Strawberry Latte": 0.0244
+  },
+  "3-0-3-0-3": {
+    "Green Ade": 0.5935,
+    "Matcha Cloud Coconut": 0.1327,
+    "Matcha Strawberry Latte": 0.2738
+  },
+  "3-0-3-1-0": {
+    "Green Ade": 0.198,
+    "Matcha Cloud Coconut": 0.171,
+    "Matcha Strawberry Latte": 0.631
+  },
+  "3-0-3-1-1": {
+    "Green Ade": 0.5836,
+    "Matcha Cloud Coconut": 0.2593,
+    "Matcha Strawberry Latte": 0.1572
+  },
+  "3-0-3-1-2": {
+    "Green Ade": 0.6119,
+    "Matcha Cloud Coconut": 0.3295,
+    "Matcha Strawberry Latte": 0.0587
+  },
+  "3-0-3-1-3": {
+    "Green Ade": 0.1844,
+    "Matcha Cloud Coconut": 0.4377,
+    "Matcha Strawberry Latte": 0.378
+  },
+  "3-0-3-2-0": {
+    "Green Ade": 0.2184,
+    "Matcha Cloud Coconut": 0.428,
+    "Matcha Strawberry Latte": 0.3536
+  },
+  "3-0-3-2-1": {
+    "Green Ade": 0.0017,
+    "Matcha Cloud Coconut": 0.6406,
+    "Matcha Strawberry Latte": 0.3576
+  },
+  "3-0-3-2-2": {
+    "Green Ade": 0.2792,
+    "Matcha Cloud Coconut": 0.3259,
+    "Matcha Strawberry Latte": 0.3949
+  },
+  "3-0-3-2-3": {
+    "Green Ade": 0.2201,
+    "Matcha Cloud Coconut": 0.6986,
+    "Matcha Strawberry Latte": 0.0813
+  },
+  "3-0-3-3-0": {
+    "Green Ade": 0.364,
+    "Matcha Cloud Coconut": 0.1859,
+    "Matcha Strawberry Latte": 0.4501
+  },
+  "3-0-3-3-1": {
+    "Green Ade": 0.3076,
+    "Matcha Cloud Coconut": 0.3056,
+    "Matcha Strawberry Latte": 0.3868
+  },
+  "3-0-3-3-2": {
+    "Green Ade": 0.3481,
+    "Matcha Cloud Coconut": 0.2412,
+    "Matcha Strawberry Latte": 0.4107
+  },
+  "3-0-3-3-3": {
+    "Green Ade": 0.6462,
+    "Matcha Cloud Coconut": 0.2662,
+    "Matcha Strawberry Latte": 0.0875
+  },
+  "3-1-0-0-0": {
+    "Green Ade": 0.425,
+    "Matcha Cloud Coconut": 0.5044,
+    "Matcha Strawberry Latte": 0.0706
+  },
+  "3-1-0-0-1": {
+    "Green Ade": 0.2684,
+    "Matcha Cloud Coconut": 0.6889,
+    "Matcha Strawberry Latte": 0.0427
+  },
+  "3-1-0-0-2": {
+    "Green Ade": 0.3905,
+    "Matcha Cloud Coconut": 0.1601,
+    "Matcha Strawberry Latte": 0.4494
+  },
+  "3-1-0-0-3": {
+    "Green Ade": 0.0532,
+    "Matcha Cloud Coconut": 0.408,
+    "Matcha Strawberry Latte": 0.5388
+  },
+  "3-1-0-1-0": {
+    "Green Ade": 0.4067,
+    "Matcha Cloud Coconut": 0.0538,
+    "Matcha Strawberry Latte": 0.5394
+  },
+  "3-1-0-1-1": {
+    "Green Ade": 0.2641,
+    "Matcha Cloud Coconut": 0.5769,
+    "Matcha Strawberry Latte": 0.159
+  },
+  "3-1-0-1-2": {
+    "Green Ade": 0.2893,
+    "Matcha Cloud Coconut": 0.3491,
+    "Matcha Strawberry Latte": 0.3616
+  },
+  "3-1-0-1-3": {
+    "Green Ade": 0.2732,
+    "Matcha Cloud Coconut": 0.136,
+    "Matcha Strawberry Latte": 0.5908
+  },
+  "3-1-0-2-0": {
+    "Green Ade": 0.4138,
+    "Matcha Cloud Coconut": 0.017,
+    "Matcha Strawberry Latte": 0.5692
+  },
+  "3-1-0-2-1": {
+    "Green Ade": 0.5359,
+    "Matcha Cloud Coconut": 0.0196,
+    "Matcha Strawberry Latte": 0.4445
+  },
+  "3-1-0-2-2": {
+    "Green Ade": 0.3091,
+    "Matcha Cloud Coconut": 0.3735,
+    "Matcha Strawberry Latte": 0.3174
+  },
+  "3-1-0-2-3": {
+    "Green Ade": 0.0687,
+    "Matcha Cloud Coconut": 0.5684,
+    "Matcha Strawberry Latte": 0.3629
+  },
+  "3-1-0-3-0": {
+    "Green Ade": 0.3271,
+    "Matcha Cloud Coconut": 0.6206,
+    "Matcha Strawberry Latte": 0.0523
+  },
+  "3-1-0-3-1": {
+    "Green Ade": 0.4135,
+    "Matcha Cloud Coconut": 0.215,
+    "Matcha Strawberry Latte": 0.3714
+  },
+  "3-1-0-3-2": {
+    "Green Ade": 0.0642,
+    "Matcha Cloud Coconut": 0.3778,
+    "Matcha Strawberry Latte": 0.558
+  },
+  "3-1-0-3-3": {
+    "Green Ade": 0.0767,
+    "Matcha Cloud Coconut": 0.0846,
+    "Matcha Strawberry Latte": 0.8386
+  },
+  "3-1-1-0-0": {
+    "Green Ade": 0.1293,
+    "Matcha Cloud Coconut": 0.442,
+    "Matcha Strawberry Latte": 0.4287
+  },
+  "3-1-1-0-1": {
+    "Green Ade": 0.277,
+    "Matcha Cloud Coconut": 0.3688,
+    "Matcha Strawberry Latte": 0.3542
+  },
+  "3-1-1-0-2": {
+    "Green Ade": 0.1065,
+    "Matcha Cloud Coconut": 0.5936,
+    "Matcha Strawberry Latte": 0.2999
+  },
+  "3-1-1-0-3": {
+    "Green Ade": 0.7271,
+    "Matcha Cloud Coconut": 0.1014,
+    "Matcha Strawberry Latte": 0.1715
+  },
+  "3-1-1-1-0": {
+    "Green Ade": 0.3505,
+    "Matcha Cloud Coconut": 0.4738,
+    "Matcha Strawberry Latte": 0.1757
+  },
+  "3-1-1-1-1": {
+    "Green Ade": 0.0082,
+    "Matcha Cloud Coconut": 0.5277,
+    "Matcha Strawberry Latte": 0.4641
+  },
+  "3-1-1-1-2": {
+    "Green Ade": 0.3851,
+    "Matcha Cloud Coconut": 0.3234,
+    "Matcha Strawberry Latte": 0.2915
+  },
+  "3-1-1-1-3": {
+    "Green Ade": 0.0589,
+    "Matcha Cloud Coconut": 0.4556,
+    "Matcha Strawberry Latte": 0.4855
+  },
+  "3-1-1-2-0": {
+    "Green Ade": 0.4817,
+    "Matcha Cloud Coconut": 0.1212,
+    "Matcha Strawberry Latte": 0.3971
+  },
+  "3-1-1-2-1": {
+    "Green Ade": 0.358,
+    "Matcha Cloud Coconut": 0.143,
+    "Matcha Strawberry Latte": 0.499
+  },
+  "3-1-1-2-2": {
+    "Green Ade": 0.3881,
+    "Matcha Cloud Coconut": 0.5588,
+    "Matcha Strawberry Latte": 0.0531
+  },
+  "3-1-1-2-3": {
+    "Green Ade": 0.2641,
+    "Matcha Cloud Coconut": 0.6984,
+    "Matcha Strawberry Latte": 0.0375
+  },
+  "3-1-1-3-0": {
+    "Green Ade": 0.2878,
+    "Matcha Cloud Coconut": 0.2802,
+    "Matcha Strawberry Latte": 0.432
+  },
+  "3-1-1-3-1": {
+    "Green Ade": 0.4664,
+    "Matcha Cloud Coconut": 0.1925,
+    "Matcha Strawberry Latte": 0.3411
+  },
+  "3-1-1-3-2": {
+    "Green Ade": 0.5813,
+    "Matcha Cloud Coconut": 0.0083,
+    "Matcha Strawberry Latte": 0.4105
+  },
+  "3-1-1-3-3": {
+    "Green Ade": 0.3859,
+    "Matcha Cloud Coconut": 0.2052,
+    "Matcha Strawberry Latte": 0.4089
+  },
+  "3-1-2-0-0": {
+    "Green Ade": 0.2316,
+    "Matcha Cloud Coconut": 0.1916,
+    "Matcha Strawberry Latte": 0.5767
+  },
+  "3-1-2-0-1": {
+    "Green Ade": 0.3557,
+    "Matcha Cloud Coconut": 0.3741,
+    "Matcha Strawberry Latte": 0.2702
+  },
+  "3-1-2-0-2": {
+    "Green Ade": 0.1627,
+    "Matcha Cloud Coconut": 0.6264,
+    "Matcha Strawberry Latte": 0.2109
+  },
+  "3-1-2-0-3": {
+    "Green Ade": 0.1274,
+    "Matcha Cloud Coconut": 0.6093,
+    "Matcha Strawberry Latte": 0.2634
+  },
+  "3-1-2-1-0": {
+    "Green Ade": 0.2869,
+    "Matcha Cloud Coconut": 0.3294,
+    "Matcha Strawberry Latte": 0.3837
+  },
+  "3-1-2-1-1": {
+    "Green Ade": 0.6501,
+    "Matcha Cloud Coconut": 0.119,
+    "Matcha Strawberry Latte": 0.2309
+  },
+  "3-1-2-1-2": {
+    "Green Ade": 0.4554,
+    "Matcha Cloud Coconut": 0.3746,
+    "Matcha Strawberry Latte": 0.1699
+  },
+  "3-1-2-1-3": {
+    "Green Ade": 0.5206,
+    "Matcha Cloud Coconut": 0.1863,
+    "Matcha Strawberry Latte": 0.2931
+  },
+  "3-1-2-2-0": {
+    "Green Ade": 0.4218,
+    "Matcha Cloud Coconut": 0.2766,
+    "Matcha Strawberry Latte": 0.3016
+  },
+  "3-1-2-2-1": {
+    "Green Ade": 0.4392,
+    "Matcha Cloud Coconut": 0.3418,
+    "Matcha Strawberry Latte": 0.219
+  },
+  "3-1-2-2-2": {
+    "Green Ade": 0.2218,
+    "Matcha Cloud Coconut": 0.4313,
+    "Matcha Strawberry Latte": 0.3469
+  },
+  "3-1-2-2-3": {
+    "Green Ade": 0.5689,
+    "Matcha Cloud Coconut": 0.169,
+    "Matcha Strawberry Latte": 0.2621
+  },
+  "3-1-2-3-0": {
+    "Green Ade": 0.5678,
+    "Matcha Cloud Coconut": 0.0488,
+    "Matcha Strawberry Latte": 0.3834
+  },
+  "3-1-2-3-1": {
+    "Green Ade": 0.1016,
+    "Matcha Cloud Coconut": 0.5465,
+    "Matcha Strawberry Latte": 0.3519
+  },
+  "3-1-2-3-2": {
+    "Green Ade": 0.309,
+    "Matcha Cloud Coconut": 0.6146,
+    "Matcha Strawberry Latte": 0.0764
+  },
+  "3-1-2-3-3": {
+    "Green Ade": 0.5878,
+    "Matcha Cloud Coconut": 0.072,
+    "Matcha Strawberry Latte": 0.3402
+  },
+  "3-1-3-0-0": {
+    "Green Ade": 0.0448,
+    "Matcha Cloud Coconut": 0.4352,
+    "Matcha Strawberry Latte": 0.52
+  },
+  "3-1-3-0-1": {
+    "Green Ade": 0.3328,
+    "Matcha Cloud Coconut": 0.4056,
+    "Matcha Strawberry Latte": 0.2615
+  },
+  "3-1-3-0-2": {
+    "Green Ade": 0.2608,
+    "Matcha Cloud Coconut": 0.4052,
+    "Matcha Strawberry Latte": 0.3341
+  },
+  "3-1-3-0-3": {
+    "Green Ade": 0.3831,
+    "Matcha Cloud Coconut": 0.2856,
+    "Matcha Strawberry Latte": 0.3313
+  },
+  "3-1-3-1-0": {
+    "Green Ade": 0.2349,
+    "Matcha Cloud Coconut": 0.4689,
+    "Matcha Strawberry Latte": 0.2962
+  },
+  "3-1-3-1-1": {
+    "Green Ade": 0.4205,
+    "Matcha Cloud Coconut": 0.4218,
+    "Matcha Strawberry Latte": 0.1576
+  },
+  "3-1-3-1-2": {
+    "Green Ade": 0.3477,
+    "Matcha Cloud Coconut": 0.3494,
+    "Matcha Strawberry Latte": 0.3029
+  },
+  "3-1-3-1-3": {
+    "Green Ade": 0.205,
+    "Matcha Cloud Coconut": 0.0945,
+    "Matcha Strawberry Latte": 0.7005
+  },
+  "3-1-3-2-0": {
+    "Green Ade": 0.1674,
+    "Matcha Cloud Coconut": 0.0728,
+    "Matcha Strawberry Latte": 0.7598
+  },
+  "3-1-3-2-1": {
+    "Green Ade": 0.1122,
+    "Matcha Cloud Coconut": 0.4422,
+    "Matcha Strawberry Latte": 0.4456
+  },
+  "3-1-3-2-2": {
+    "Green Ade": 0.4928,
+    "Matcha Cloud Coconut": 0.2471,
+    "Matcha Strawberry Latte": 0.2601
+  },
+  "3-1-3-2-3": {
+    "Green Ade": 0.0932,
+    "Matcha Cloud Coconut": 0.44,
+    "Matcha Strawberry Latte": 0.4669
+  },
+  "3-1-3-3-0": {
+    "Green Ade": 0.3696,
+    "Matcha Cloud Coconut": 0.3206,
+    "Matcha Strawberry Latte": 0.3099
+  },
+  "3-1-3-3-1": {
+    "Green Ade": 0.3006,
+    "Matcha Cloud Coconut": 0.6258,
+    "Matcha Strawberry Latte": 0.0736
+  },
+  "3-1-3-3-2": {
+    "Green Ade": 0.2421,
+    "Matcha Cloud Coconut": 0.3387,
+    "Matcha Strawberry Latte": 0.4192
+  },
+  "3-1-3-3-3": {
+    "Green Ade": 0.2887,
+    "Matcha Cloud Coconut": 0.4408,
+    "Matcha Strawberry Latte": 0.2705
+  },
+  "3-2-0-0-0": {
+    "Green Ade": 0.1365,
+    "Matcha Cloud Coconut": 0.194,
+    "Matcha Strawberry Latte": 0.6695
+  },
+  "3-2-0-0-1": {
+    "Green Ade": 0.0555,
+    "Matcha Cloud Coconut": 0.1608,
+    "Matcha Strawberry Latte": 0.7837
+  },
+  "3-2-0-0-2": {
+    "Green Ade": 0.2609,
+    "Matcha Cloud Coconut": 0.4835,
+    "Matcha Strawberry Latte": 0.2556
+  },
+  "3-2-0-0-3": {
+    "Green Ade": 0.5488,
+    "Matcha Cloud Coconut": 0.1659,
+    "Matcha Strawberry Latte": 0.2853
+  },
+  "3-2-0-1-0": {
+    "Green Ade": 0.3819,
+    "Matcha Cloud Coconut": 0.5607,
+    "Matcha Strawberry Latte": 0.0574
+  },
+  "3-2-0-1-1": {
+    "Green Ade": 0.0162,
+    "Matcha Cloud Coconut": 0.656,
+    "Matcha Strawberry Latte": 0.3278
+  },
+  "3-2-0-1-2": {
+    "Green Ade": 0.3422,
+    "Matcha Cloud Coconut": 0.2635,
+    "Matcha Strawberry Latte": 0.3944
+  },
+  "3-2-0-1-3": {
+    "Green Ade": 0.0643,
+    "Matcha Cloud Coconut": 0.8378,
+    "Matcha Strawberry Latte": 0.0979
+  },
+  "3-2-0-2-0": {
+    "Green Ade": 0.4435,
+    "Matcha Cloud Coconut": 0.2015,
+    "Matcha Strawberry Latte": 0.355
+  },
+  "3-2-0-2-1": {
+    "Green Ade": 0.1605,
+    "Matcha Cloud Coconut": 0.7117,
+    "Matcha Strawberry Latte": 0.1278
+  },
+  "3-2-0-2-2": {
+    "Green Ade": 0.5596,
+    "Matcha Cloud Coconut": 0.0187,
+    "Matcha Strawberry Latte": 0.4216
+  },
+  "3-2-0-2-3": {
+    "Green Ade": 0.2235,
+    "Matcha Cloud Coconut": 0.3373,
+    "Matcha Strawberry Latte": 0.4392
+  },
+  "3-2-0-3-0": {
+    "Green Ade": 0.4191,
+    "Matcha Cloud Coconut": 0.4042,
+    "Matcha Strawberry Latte": 0.1767
+  },
+  "3-2-0-3-1": {
+    "Green Ade": 0.3136,
+    "Matcha Cloud Coconut": 0.4247,
+    "Matcha Strawberry Latte": 0.2617
+  },
+  "3-2-0-3-2": {
+    "Green Ade": 0.3025,
+    "Matcha Cloud Coconut": 0.3767,
+    "Matcha Strawberry Latte": 0.3207
+  },
+  "3-2-0-3-3": {
+    "Green Ade": 0.3579,
+    "Matcha Cloud Coconut": 0.587,
+    "Matcha Strawberry Latte": 0.055
+  },
+  "3-2-1-0-0": {
+    "Green Ade": 0.3621,
+    "Matcha Cloud Coconut": 0.3656,
+    "Matcha Strawberry Latte": 0.2724
+  },
+  "3-2-1-0-1": {
+    "Green Ade": 0.1887,
+    "Matcha Cloud Coconut": 0.6842,
+    "Matcha Strawberry Latte": 0.1271
+  },
+  "3-2-1-0-2": {
+    "Green Ade": 0.2094,
+    "Matcha Cloud Coconut": 0.3328,
+    "Matcha Strawberry Latte": 0.4578
+  },
+  "3-2-1-0-3": {
+    "Green Ade": 0.2397,
+    "Matcha Cloud Coconut": 0.5923,
+    "Matcha Strawberry Latte": 0.168
+  },
+  "3-2-1-1-0": {
+    "Green Ade": 0.546,
+    "Matcha Cloud Coconut": 0.2739,
+    "Matcha Strawberry Latte": 0.1801
+  },
+  "3-2-1-1-1": {
+    "Green Ade": 0.0047,
+    "Matcha Cloud Coconut": 0.5338,
+    "Matcha Strawberry Latte": 0.4615
+  },
+  "3-2-1-1-2": {
+    "Green Ade": 0.6328,
+    "Matcha Cloud Coconut": 0.1409,
+    "Matcha Strawberry Latte": 0.2262
+  },
+  "3-2-1-1-3": {
+    "Green Ade": 0.2893,
+    "Matcha Cloud Coconut": 0.1475,
+    "Matcha Strawberry Latte": 0.5632
+  },
+  "3-2-1-2-0": {
+    "Green Ade": 0.3051,
+    "Matcha Cloud Coconut": 0.5429,
+    "Matcha Strawberry Latte": 0.152
+  },
+  "3-2-1-2-1": {
+    "Green Ade": 0.007,
+    "Matcha Cloud Coconut": 0.5009,
+    "Matcha Strawberry Latte": 0.4921
+  },
+  "3-2-1-2-2": {
+    "Green Ade": 0.2082,
+    "Matcha Cloud Coconut": 0.3299,
+    "Matcha Strawberry Latte": 0.4619
+  },
+  "3-2-1-2-3": {
+    "Green Ade": 0.23,
+    "Matcha Cloud Coconut": 0.6915,
+    "Matcha Strawberry Latte": 0.0785
+  },
+  "3-2-1-3-0": {
+    "Green Ade": 0.5391,
+    "Matcha Cloud Coconut": 0.2715,
+    "Matcha Strawberry Latte": 0.1894
+  },
+  "3-2-1-3-1": {
+    "Green Ade": 0.3738,
+    "Matcha Cloud Coconut": 0.4356,
+    "Matcha Strawberry Latte": 0.1906
+  },
+  "3-2-1-3-2": {
+    "Green Ade": 0.6778,
+    "Matcha Cloud Coconut": 0.166,
+    "Matcha Strawberry Latte": 0.1563
+  },
+  "3-2-1-3-3": {
+    "Green Ade": 0.0216,
+    "Matcha Cloud Coconut": 0.5999,
+    "Matcha Strawberry Latte": 0.3785
+  },
+  "3-2-2-0-0": {
+    "Green Ade": 0.2946,
+    "Matcha Cloud Coconut": 0.3505,
+    "Matcha Strawberry Latte": 0.3549
+  },
+  "3-2-2-0-1": {
+    "Green Ade": 0.597,
+    "Matcha Cloud Coconut": 0.323,
+    "Matcha Strawberry Latte": 0.08
+  },
+  "3-2-2-0-2": {
+    "Green Ade": 0.2627,
+    "Matcha Cloud Coconut": 0.3618,
+    "Matcha Strawberry Latte": 0.3755
+  },
+  "3-2-2-0-3": {
+    "Green Ade": 0.5506,
+    "Matcha Cloud Coconut": 0.0416,
+    "Matcha Strawberry Latte": 0.4078
+  },
+  "3-2-2-1-0": {
+    "Green Ade": 0.5599,
+    "Matcha Cloud Coconut": 0.1318,
+    "Matcha Strawberry Latte": 0.3083
+  },
+  "3-2-2-1-1": {
+    "Green Ade": 0.0713,
+    "Matcha Cloud Coconut": 0.4737,
+    "Matcha Strawberry Latte": 0.455
+  },
+  "3-2-2-1-2": {
+    "Green Ade": 0.4185,
+    "Matcha Cloud Coconut": 0.4902,
+    "Matcha Strawberry Latte": 0.0913
+  },
+  "3-2-2-1-3": {
+    "Green Ade": 0.2637,
+    "Matcha Cloud Coconut": 0.587,
+    "Matcha Strawberry Latte": 0.1493
+  },
+  "3-2-2-2-0": {
+    "Green Ade": 0.3275,
+    "Matcha Cloud Coconut": 0.2118,
+    "Matcha Strawberry Latte": 0.4607
+  },
+  "3-2-2-2-1": {
+    "Green Ade": 0.0247,
+    "Matcha Cloud Coconut": 0.6237,
+    "Matcha Strawberry Latte": 0.3516
+  },
+  "3-2-2-2-2": {
+    "Green Ade": 0.0178,
+    "Matcha Cloud Coconut": 0.9043,
+    "Matcha Strawberry Latte": 0.0778
+  },
+  "3-2-2-2-3": {
+    "Green Ade": 0.4318,
+    "Matcha Cloud Coconut": 0.4189,
+    "Matcha Strawberry Latte": 0.1493
+  },
+  "3-2-2-3-0": {
+    "Green Ade": 0.1811,
+    "Matcha Cloud Coconut": 0.5365,
+    "Matcha Strawberry Latte": 0.2824
+  },
+  "3-2-2-3-1": {
+    "Green Ade": 0.206,
+    "Matcha Cloud Coconut": 0.5019,
+    "Matcha Strawberry Latte": 0.2921
+  },
+  "3-2-2-3-2": {
+    "Green Ade": 0.6049,
+    "Matcha Cloud Coconut": 0.038,
+    "Matcha Strawberry Latte": 0.3571
+  },
+  "3-2-2-3-3": {
+    "Green Ade": 0.5678,
+    "Matcha Cloud Coconut": 0.1382,
+    "Matcha Strawberry Latte": 0.294
+  },
+  "3-2-3-0-0": {
+    "Green Ade": 0.3782,
+    "Matcha Cloud Coconut": 0.4783,
+    "Matcha Strawberry Latte": 0.1435
+  },
+  "3-2-3-0-1": {
+    "Green Ade": 0.3849,
+    "Matcha Cloud Coconut": 0.3692,
+    "Matcha Strawberry Latte": 0.246
+  },
+  "3-2-3-0-2": {
+    "Green Ade": 0.1118,
+    "Matcha Cloud Coconut": 0.178,
+    "Matcha Strawberry Latte": 0.7102
+  },
+  "3-2-3-0-3": {
+    "Green Ade": 0.4782,
+    "Matcha Cloud Coconut": 0.0705,
+    "Matcha Strawberry Latte": 0.4513
+  },
+  "3-2-3-1-0": {
+    "Green Ade": 0.1181,
+    "Matcha Cloud Coconut": 0.5036,
+    "Matcha Strawberry Latte": 0.3783
+  },
+  "3-2-3-1-1": {
+    "Green Ade": 0.1764,
+    "Matcha Cloud Coconut": 0.33,
+    "Matcha Strawberry Latte": 0.4936
+  },
+  "3-2-3-1-2": {
+    "Green Ade": 0.1424,
+    "Matcha Cloud Coconut": 0.1841,
+    "Matcha Strawberry Latte": 0.6735
+  },
+  "3-2-3-1-3": {
+    "Green Ade": 0.3918,
+    "Matcha Cloud Coconut": 0.3272,
+    "Matcha Strawberry Latte": 0.281
+  },
+  "3-2-3-2-0": {
+    "Green Ade": 0.3686,
+    "Matcha Cloud Coconut": 0.3562,
+    "Matcha Strawberry Latte": 0.2752
+  },
+  "3-2-3-2-1": {
+    "Green Ade": 0.2422,
+    "Matcha Cloud Coconut": 0.4745,
+    "Matcha Strawberry Latte": 0.2833
+  },
+  "3-2-3-2-2": {
+    "Green Ade": 0.2586,
+    "Matcha Cloud Coconut": 0.2639,
+    "Matcha Strawberry Latte": 0.4775
+  },
+  "3-2-3-2-3": {
+    "Green Ade": 0.3176,
+    "Matcha Cloud Coconut": 0.522,
+    "Matcha Strawberry Latte": 0.1605
+  },
+  "3-2-3-3-0": {
+    "Green Ade": 0.3979,
+    "Matcha Cloud Coconut": 0.2613,
+    "Matcha Strawberry Latte": 0.3408
+  },
+  "3-2-3-3-1": {
+    "Green Ade": 0.6848,
+    "Matcha Cloud Coconut": 0.2922,
+    "Matcha Strawberry Latte": 0.023
+  },
+  "3-2-3-3-2": {
+    "Green Ade": 0.2861,
+    "Matcha Cloud Coconut": 0.3022,
+    "Matcha Strawberry Latte": 0.4118
+  },
+  "3-2-3-3-3": {
+    "Green Ade": 0.43,
+    "Matcha Cloud Coconut": 0.3089,
+    "Matcha Strawberry Latte": 0.2611
+  },
+  "3-3-0-0-0": {
+    "Green Ade": 0.7074,
+    "Matcha Cloud Coconut": 0.1712,
+    "Matcha Strawberry Latte": 0.1214
+  },
+  "3-3-0-0-1": {
+    "Green Ade": 0.3966,
+    "Matcha Cloud Coconut": 0.5432,
+    "Matcha Strawberry Latte": 0.0602
+  },
+  "3-3-0-0-2": {
+    "Green Ade": 0.3777,
+    "Matcha Cloud Coconut": 0.4066,
+    "Matcha Strawberry Latte": 0.2156
+  },
+  "3-3-0-0-3": {
+    "Green Ade": 0.489,
+    "Matcha Cloud Coconut": 0.0214,
+    "Matcha Strawberry Latte": 0.4896
+  },
+  "3-3-0-1-0": {
+    "Green Ade": 0.0767,
+    "Matcha Cloud Coconut": 0.4355,
+    "Matcha Strawberry Latte": 0.4878
+  },
+  "3-3-0-1-1": {
+    "Green Ade": 0.4066,
+    "Matcha Cloud Coconut": 0.4518,
+    "Matcha Strawberry Latte": 0.1416
+  },
+  "3-3-0-1-2": {
+    "Green Ade": 0.2228,
+    "Matcha Cloud Coconut": 0.4235,
+    "Matcha Strawberry Latte": 0.3538
+  },
+  "3-3-0-1-3": {
+    "Green Ade": 0.4986,
+    "Matcha Cloud Coconut": 0.3491,
+    "Matcha Strawberry Latte": 0.1523
+  },
+  "3-3-0-2-0": {
+    "Green Ade": 0.4242,
+    "Matcha Cloud Coconut": 0.3093,
+    "Matcha Strawberry Latte": 0.2666
+  },
+  "3-3-0-2-1": {
+    "Green Ade": 0.6802,
+    "Matcha Cloud Coconut": 0.0452,
+    "Matcha Strawberry Latte": 0.2746
+  },
+  "3-3-0-2-2": {
+    "Green Ade": 0.1409,
+    "Matcha Cloud Coconut": 0.4256,
+    "Matcha Strawberry Latte": 0.4335
+  },
+  "3-3-0-2-3": {
+    "Green Ade": 0.4317,
+    "Matcha Cloud Coconut": 0.179,
+    "Matcha Strawberry Latte": 0.3893
+  },
+  "3-3-0-3-0": {
+    "Green Ade": 0.3889,
+    "Matcha Cloud Coconut": 0.19,
+    "Matcha Strawberry Latte": 0.4211
+  },
+  "3-3-0-3-1": {
+    "Green Ade": 0.7586,
+    "Matcha Cloud Coconut": 0.1581,
+    "Matcha Strawberry Latte": 0.0833
+  },
+  "3-3-0-3-2": {
+    "Green Ade": 0.3927,
+    "Matcha Cloud Coconut": 0.372,
+    "Matcha Strawberry Latte": 0.2353
+  },
+  "3-3-0-3-3": {
+    "Green Ade": 0.0024,
+    "Matcha Cloud Coconut": 0.2929,
+    "Matcha Strawberry Latte": 0.7047
+  },
+  "3-3-1-0-0": {
+    "Green Ade": 0.2684,
+    "Matcha Cloud Coconut": 0.3894,
+    "Matcha Strawberry Latte": 0.3422
+  },
+  "3-3-1-0-1": {
+    "Green Ade": 0.3299,
+    "Matcha Cloud Coconut": 0.5193,
+    "Matcha Strawberry Latte": 0.1508
+  },
+  "3-3-1-0-2": {
+    "Green Ade": 0.2742,
+    "Matcha Cloud Coconut": 0.3814,
+    "Matcha Strawberry Latte": 0.3445
+  },
+  "3-3-1-0-3": {
+    "Green Ade": 0.4374,
+    "Matcha Cloud Coconut": 0.1707,
+    "Matcha Strawberry Latte": 0.3919
+  },
+  "3-3-1-1-0": {
+    "Green Ade": 0.271,
+    "Matcha Cloud Coconut": 0.4576,
+    "Matcha Strawberry Latte": 0.2714
+  },
+  "3-3-1-1-1": {
+    "Green Ade": 0.3433,
+    "Matcha Cloud Coconut": 0.3492,
+    "Matcha Strawberry Latte": 0.3075
+  },
+  "3-3-1-1-2": {
+    "Green Ade": 0.2374,
+    "Matcha Cloud Coconut": 0.3396,
+    "Matcha Strawberry Latte": 0.423
+  },
+  "3-3-1-1-3": {
+    "Green Ade": 0.5192,
+    "Matcha Cloud Coconut": 0.0886,
+    "Matcha Strawberry Latte": 0.3922
+  },
+  "3-3-1-2-0": {
+    "Green Ade": 0.399,
+    "Matcha Cloud Coconut": 0.2417,
+    "Matcha Strawberry Latte": 0.3594
+  },
+  "3-3-1-2-1": {
+    "Green Ade": 0.4274,
+    "Matcha Cloud Coconut": 0.4584,
+    "Matcha Strawberry Latte": 0.1142
+  },
+  "3-3-1-2-2": {
+    "Green Ade": 0.2287,
+    "Matcha Cloud Coconut": 0.6968,
+    "Matcha Strawberry Latte": 0.0745
+  },
+  "3-3-1-2-3": {
+    "Green Ade": 0.519,
+    "Matcha Cloud Coconut": 0.2376,
+    "Matcha Strawberry Latte": 0.2434
+  },
+  "3-3-1-3-0": {
+    "Green Ade": 0.3036,
+    "Matcha Cloud Coconut": 0.1851,
+    "Matcha Strawberry Latte": 0.5113
+  },
+  "3-3-1-3-1": {
+    "Green Ade": 0.4698,
+    "Matcha Cloud Coconut": 0.1938,
+    "Matcha Strawberry Latte": 0.3363
+  },
+  "3-3-1-3-2": {
+    "Green Ade": 0.333,
+    "Matcha Cloud Coconut": 0.4145,
+    "Matcha Strawberry Latte": 0.2525
+  },
+  "3-3-1-3-3": {
+    "Green Ade": 0.3411,
+    "Matcha Cloud Coconut": 0.4421,
+    "Matcha Strawberry Latte": 0.2168
+  },
+  "3-3-2-0-0": {
+    "Green Ade": 0.5219,
+    "Matcha Cloud Coconut": 0.2861,
+    "Matcha Strawberry Latte": 0.192
+  },
+  "3-3-2-0-1": {
+    "Green Ade": 0.3025,
+    "Matcha Cloud Coconut": 0.4602,
+    "Matcha Strawberry Latte": 0.2373
+  },
+  "3-3-2-0-2": {
+    "Green Ade": 0.4628,
+    "Matcha Cloud Coconut": 0.3365,
+    "Matcha Strawberry Latte": 0.2007
+  },
+  "3-3-2-0-3": {
+    "Green Ade": 0.217,
+    "Matcha Cloud Coconut": 0.342,
+    "Matcha Strawberry Latte": 0.441
+  },
+  "3-3-2-1-0": {
+    "Green Ade": 0.1739,
+    "Matcha Cloud Coconut": 0.381,
+    "Matcha Strawberry Latte": 0.4451
+  },
+  "3-3-2-1-1": {
+    "Green Ade": 0.5028,
+    "Matcha Cloud Coconut": 0.291,
+    "Matcha Strawberry Latte": 0.2062
+  },
+  "3-3-2-1-2": {
+    "Green Ade": 0.3629,
+    "Matcha Cloud Coconut": 0.3454,
+    "Matcha Strawberry Latte": 0.2917
+  },
+  "3-3-2-1-3": {
+    "Green Ade": 0.1412,
+    "Matcha Cloud Coconut": 0.4205,
+    "Matcha Strawberry Latte": 0.4383
+  },
+  "3-3-2-2-0": {
+    "Green Ade": 0.2905,
+    "Matcha Cloud Coconut": 0.369,
+    "Matcha Strawberry Latte": 0.3405
+  },
+  "3-3-2-2-1": {
+    "Green Ade": 0.4622,
+    "Matcha Cloud Coconut": 0.4691,
+    "Matcha Strawberry Latte": 0.0687
+  },
+  "3-3-2-2-2": {
+    "Green Ade": 0.0683,
+    "Matcha Cloud Coconut": 0.6678,
+    "Matcha Strawberry Latte": 0.2639
+  },
+  "3-3-2-2-3": {
+    "Green Ade": 0.275,
+    "Matcha Cloud Coconut": 0.6394,
+    "Matcha Strawberry Latte": 0.0857
+  },
+  "3-3-2-3-0": {
+    "Green Ade": 0.1645,
+    "Matcha Cloud Coconut": 0.1998,
+    "Matcha Strawberry Latte": 0.6357
+  },
+  "3-3-2-3-1": {
+    "Green Ade": 0.2337,
+    "Matcha Cloud Coconut": 0.1618,
+    "Matcha Strawberry Latte": 0.6045
+  },
+  "3-3-2-3-2": {
+    "Green Ade": 0.1676,
+    "Matcha Cloud Coconut": 0.3443,
+    "Matcha Strawberry Latte": 0.4881
+  },
+  "3-3-2-3-3": {
+    "Green Ade": 0.2366,
+    "Matcha Cloud Coconut": 0.1293,
+    "Matcha Strawberry Latte": 0.6341
+  },
+  "3-3-3-0-0": {
+    "Green Ade": 0.3888,
+    "Matcha Cloud Coconut": 0.3759,
+    "Matcha Strawberry Latte": 0.2353
+  },
+  "3-3-3-0-1": {
+    "Green Ade": 0.1623,
+    "Matcha Cloud Coconut": 0.3128,
+    "Matcha Strawberry Latte": 0.5249
+  },
+  "3-3-3-0-2": {
+    "Green Ade": 0.294,
+    "Matcha Cloud Coconut": 0.5101,
+    "Matcha Strawberry Latte": 0.1958
+  },
+  "3-3-3-0-3": {
+    "Green Ade": 0.1837,
+    "Matcha Cloud Coconut": 0.7911,
+    "Matcha Strawberry Latte": 0.0252
+  },
+  "3-3-3-1-0": {
+    "Green Ade": 0.3766,
+    "Matcha Cloud Coconut": 0.2557,
+    "Matcha Strawberry Latte": 0.3676
+  },
+  "3-3-3-1-1": {
+    "Green Ade": 0.3175,
+    "Matcha Cloud Coconut": 0.3358,
+    "Matcha Strawberry Latte": 0.3467
+  },
+  "3-3-3-1-2": {
+    "Green Ade": 0.2966,
+    "Matcha Cloud Coconut": 0.1089,
+    "Matcha Strawberry Latte": 0.5944
+  },
+  "3-3-3-1-3": {
+    "Green Ade": 0.4053,
+    "Matcha Cloud Coconut": 0.1054,
+    "Matcha Strawberry Latte": 0.4893
+  },
+  "3-3-3-2-0": {
+    "Green Ade": 0.4362,
+    "Matcha Cloud Coconut": 0.0342,
+    "Matcha Strawberry Latte": 0.5296
+  },
+  "3-3-3-2-1": {
+    "Green Ade": 0.2958,
+    "Matcha Cloud Coconut": 0.212,
+    "Matcha Strawberry Latte": 0.4922
+  },
+  "3-3-3-2-2": {
+    "Green Ade": 0.0966,
+    "Matcha Cloud Coconut": 0.3674,
+    "Matcha Strawberry Latte": 0.5359
+  },
+  "3-3-3-2-3": {
+    "Green Ade": 0.3472,
+    "Matcha Cloud Coconut": 0.3766,
+    "Matcha Strawberry Latte": 0.2762
+  },
+  "3-3-3-3-0": {
+    "Green Ade": 0.3918,
+    "Matcha Cloud Coconut": 0.1583,
+    "Matcha Strawberry Latte": 0.4498
+  },
+  "3-3-3-3-1": {
+    "Green Ade": 0.2961,
+    "Matcha Cloud Coconut": 0.6528,
+    "Matcha Strawberry Latte": 0.0511
+  },
+  "3-3-3-3-2": {
+    "Green Ade": 0.5921,
+    "Matcha Cloud Coconut": 0.2971,
+    "Matcha Strawberry Latte": 0.1108
+  },
+  "3-3-3-3-3": {
+    "Green Ade": 0.3444,
+    "Matcha Cloud Coconut": 0.4938,
+    "Matcha Strawberry Latte": 0.1618
+  }
+}
