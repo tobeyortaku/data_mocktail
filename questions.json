@@ -1,18 +1,18 @@
 [
     { 
       "emoji": "🤖", 
-      "text": "Чиний algorithm өнөөдөр ямар байна?", 
-      "options": ["⚡ Fast & optimized", "🐢 Slow but working", "🔁 Stuck in loop", "💥 Crashed"] 
+      "text": "Чиний өдөр хэр өнгөрч байна даа?", 
+      "options": ["⚡ Эрч хүчээр дүүрэн", "🐢 Ядарсан ч цоглог бнөө", "🔁 Жаахан тийлттэй", "💥 Ай хорвооо..."] 
     },
     { 
       "emoji": "🎯", 
-      "text": "Decision хийхдээ чи яаж шийддэг вэ?", 
-      "options": ["📊 Data > feelings", "💖 Feelings > data", "🫠 Depends on mood", "🎲 YOLO"] 
+      "text": "Яаж шийдвэр гаргадаг вэ?", 
+      "options": ["📊 Мэдээлэл > Мэдрэмж", "💖 Мэдрэмж > Мэдээлэл", "🫠 Тухайн өдрийн тэнгэр мэднэ дээ", "🎲 YOLO"] 
     },
     { 
       "emoji": "🧪", 
-      "text": "Чи experiment хийхдээ яадаг вэ?", 
-      "options": ["📊 A/B test everything", "💡 Try one idea", "🙈 Just hope it works", "🤡 No plan at all"] 
+      "text": "Чи туршилт хийхдээ ихэвчлэн...", 
+      "options": ["📊 Бүх боломжийг тооцоолдог", "💡 Нэг санаа л туршдаг", "🙈 Зүгээр л болно гэж найддаг", "🤡 Ямар ч төлөвлөгөөгүй явчихдаг"] 
     },
     { 
       "emoji": "🌈", 
@@ -22,6 +22,6 @@
     { 
       "emoji": "🔮", 
       "text": "AI чамайг уншиж чадна гэж бодож байна уу?", 
-      "options": ["🧠 I’m predictable", "😏 Good luck bro", "🤷‍♀️ Maybe?", "🤡 Even I don’t know myself"] 
+      "options": ["🧠 Би угаасаа open-source шд", "😏 GL bro", "🤷‍♀️ Магадгүй?", "🤡 Би өөрийгөө ч ойлгодоггүй шд"] 
     }
   ]
